@@ -1,0 +1,86 @@
+Drugname	TARGET_GENE	支持文献
+Sorafenib	KDR	Sorafenib (BAY 43-9006, Nexavar), a dual-action inhibitor that targets RAF/MEK/ERK pathway in tumor cells and tyrosine kinases VEGFR/PDGFR in tumor vasculature. Methods Enzymol. 2006;407:597-612.
+Sorafenib	KIT	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 5711).
+Sorafenib	PDGFRB	Emerging therapies for multiple myeloma. Expert Opin Emerg Drugs. 2009 Mar;14(1):99-127.
+Regorafenib	RET	Nat Rev Drug Discov. 2013 Feb;12(2):87-90.
+Regorafenib	KDR	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 5891).
+Regorafenib	KIT	Drugs@FDA. U.S. Food and Drug Administration. U.S. Department of Health & Human Services. 2015
+Nivolumab	PDCD1	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 7335).
+Lenvatinib	None drug records	None drug records
+AMG-386	ANGPT2	ClinicalTrials.gov (NCT01281254) TRINOVA-2: Trebananib in Ovarian Cancer-2. U.S. National Institutes of Health.
+AMG-386	ANGPT1	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 8414).
+ABC-294640	None drug records	None drug records
+ABT-751	None drug records	None drug records
+ABT-869	FLT4	Preclinical activity of ABT-869, a multitargeted receptor tyrosine kinase inhibitor. Mol Cancer Ther. 2006 Apr;5(4):995-1006.
+Adavosertib	None drug records	None drug records
+Adecatumumab 	None drug records	None drug records
+Afatinib	ERBB2	BIBW-2992, a dual receptor tyrosine kinase inhibitor for the treatment of solid tumors. Curr Opin Investig Drugs. 2008 Dec;9(12):1336-46.
+Afatinib	EGFR	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 5667).
+AG-013736	KDR	Nat Rev Drug Discov. 2013 Feb;12(2):87-90.
+Alvocidib	None drug records	None drug records
+Anlotinib	None drug records	None drug records
+Apatinib	KDR	ClinicalTrials.gov (NCT02426034) Study of Apatinib Tablets in the Treatment of Advanced or Metastatic Gastric Cancer. U.S. National Institutes of Health.
+ARQ-087	FGFR1	ClinicalTrials.gov (NCT01752920) Phase 1 Dose Escalation Study of ARQ 087 in Adult Subjects With Advanced Solid Tumors. U.S. National Institutes of Health.
+ARQ-197	None drug records	None drug records
+ASLAN-001	None drug records	None drug records
+Atezolizumab	None drug records	None drug records
+ATG-008	None drug records	None drug records
+Avastin	None drug records	None drug records
+Avelumab	CD274	Drugs@FDA (Edaravone)
+AZD-0530	SRC	Current and future treatments of bone metastases. Expert Opin Emerg Drugs. 2008 Dec;13(4):609-27.
+AZD-0530	ABL1	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 7731).
+AZD-8055	None drug records	None drug records
+BAY-869766	None drug records	None drug records
+BBI-503	None drug records	None drug records
+Belinostat	None drug records	None drug records
+BGB-A317	None drug records	None drug records
+BIBF-1120	None drug records	None drug records
+BIIB022	None drug records	None drug records
+Binimetinib	None drug records	None drug records
+BLU-554	None drug records	None drug records
+BMS-247550	TUBB3	2007 FDA drug approvals: a year of flux. Nat Rev Drug Discov. 2008 Feb;7(2):107-9.
+Brivanib	FGFR3	ClinicalTrials.gov (NCT00908752) Phase III Trans-Arterial Chemo-Embolization (TACE) Adjuvant HCC. U.S. National Institutes of Health.
+C188-9	None drug records	None drug records
+Cabozantinib	KDR	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 5887).
+Cabozantinib	MET	Clinical pipeline report, company report or official report of Exelixis (2011).
+Capivasertib	None drug records	None drug records
+CBT-501	None drug records	None drug records
+CDX-1140	None drug records	None drug records
+Cediranib	KDR	ClinicalTrials.gov (NCT02446600) Olaparib or Cediranib Maleate and Olaparib Compared With Standard Platinum-Based Chemotherapy in Treating Patients With Recurrent Platinum-Sensitive Ovarian, Fallopian Tube, or Primary Peritoneal Cancer. U.S. National Institutes of Health.
+Cetuximab	EGFR	2004 approvals: the demise of the blockbuster. Nat Rev Drug Discov. 2005 Feb;4(2):93-4.
+Crizotinib	MET	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 4903).
+Crizotinib	ROS1	2011 FDA drug approvals. Nat Rev Drug Discov. 2012 Feb 1;11(2):91-4.
+Crizotinib	ALK	Drugs@FDA. U.S. Food and Drug Administration. U.S. Department of Health & Human Services. 2015
+Dasatinib	SRC	2006 drug approvals: finding the niche. Nat Rev Drug Discov. 2007 Feb;6(2):99-101.
+Dasatinib	ABL1	Dasatinib: a tyrosine kinase inhibitor for the treatment of chronic myelogenous leukemia and philadelphia chromosome-positive acute lymphoblastic leukemia. Clin Ther. 2007 Nov;29(11):2289-308.
+Dasatinib	LCK	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 5678).
+Dasatinib	FYN	Drugs@FDA. U.S. Food and Drug Administration. U.S. Department of Health & Human Services. 2015
+Erlotinib	EGFR	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 4920).
+Everolimus	MTOR	Hughes B: 2009 FDA drug approvals. Nat Rev Drug Discov. 2010 Feb;9(2):89-92.
+Foretinib	KDR	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 5679).
+Foretinib	MET	Clinical pipeline report, company report or official report of Exelixis (2011).
+Gefitinib	EGFR	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 4941).
+Imatinib	None drug records	None drug records
+Ipilimumab	CTLA4	Mullard A: 2010 FDA drug approvals. Nat Rev Drug Discov. 2011 Feb;10(2):82-5.
+Irinotecan	TOP1MT	New drugs for the treatment of cancer, 1990-2001. Isr Med Assoc J. 2002 Dec;4(12):1124-31.
+Lapatinib	EGFR	FDA Approved Drug Products from FDA Official Website. 2009. Application Number: (NDA) 022059.
+Lapatinib	ERBB2	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 5692).
+MK2206	None drug records	None drug records
+Neratinib	KDR	Trusted, scientifically sound profiles of drug programs, clinical trials, safety reports, and company deals, written by scientists. Springer. 2015. Adis Insight (drug id 800021154)
+Neratinib	ERBB2	Bioorg Med Chem. 2007 Jun 1;15(11):3635-48. Epub 2007 Mar 23.Dual irreversible kinase inhibitors: quinazoline-based inhibitors incorporating two independent reactive centers with each targeting different cysteine residues in the kinase domains of EGFR and VEGFR-2.
+Neratinib	EGFR	Proc Natl Acad Sci U S A. 2007 Dec 11;104(50):19936-41. Epub 2007 Dec 6.Identification of genotype-correlated sensitivity to selective kinase inhibitors by using high-throughput tumor cell line profiling.
+Neratinib	ERBB2	A comparison of physicochemical property profiles of marketed oral drugs and orally bioavailable anti-cancer protein kinase inhibitors in clinical development. Curr Top Med Chem. 2007;7(14):1408-22.
+Nintedanib	None drug records	None drug records
+Palbociclib	None drug records	None drug records
+Panitumumab	EGFR	2006 drug approvals: finding the niche. Nat Rev Drug Discov. 2007 Feb;6(2):99-101.
+Pazopanib	None drug records	None drug records
+Selumetinib	None drug records	None drug records
+Sunitinib	KDR	2006 drug approvals: finding the niche. Nat Rev Drug Discov. 2007 Feb;6(2):99-101.
+Trametinib	None drug records	None drug records
+Trastuzumab	ERBB2	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 5082).
+Vandetanib	KDR	2011 FDA drug approvals. Nat Rev Drug Discov. 2012 Feb 1;11(2):91-4.
+Vandetanib	RET	(http://www.guidetopharmacology.org/) Nucleic Acids Res. 2015 Oct 12. pii: gkv1037. The IUPHAR/BPS Guide to PHARMACOLOGY in 2016: towards curated quantitative interactions between 1300 protein targets and 6000 ligands. (Ligand id: 5717).
+Vandetanib	EGFR	A comparison of physicochemical property profiles of marketed oral drugs and orally bioavailable anti-cancer protein kinase inhibitors in clinical development. Curr Top Med Chem. 2007;7(14):1408-22.
+Vismodegib	SMO	Nat Rev Drug Discov. 2013 Feb;12(2):87-90.
+CF-102	None drug records	None drug records
+CS-1008	None drug records	None drug records

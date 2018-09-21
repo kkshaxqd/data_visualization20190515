@@ -1,0 +1,521 @@
+gene	突变类型	突变频率	相关通路	PMID	文献类型	IF	年份	引用量	备注	liver_drug
+TERT	promotor mut	60.00%	Telomere maintenance	27838634	Review	5.03	2017	8		None
+TERT	HBV int、mut	60.00%		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+TERT	promotor mut	60.00%		27262756	Review	7.43	2016	12		None
+TERT	promotor mut	44.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+TERT	promotor mut	26.00%		.	.	.	.	.	来源于cosmic	None
+TERT	promotor mut	58.00%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	None
+TERT	promotor mut	3.00%		28297679		8.4	2017	8	仅在第一阶段出现	None
+TERT	promotor mut	43.00%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+TERT	HBV int	22.00%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+TERT	amp	6.70%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+TERT	promotor mut	10.50%		28843658	research	7.43	2017	0	85%的原发瘤和转移瘤中存在TP53\CTNNB1\TERT突变	None
+TERT	promotor mut	15.20%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	None
+TERT	promotor mut	55.8%（432/774）		26099984	Review	4.91	2015	86		None
+TERT	amp	10/547 (1.6)§		26099984	Review	4.91	2015	86		None
+TERT	promoter mut	54-60%		26099527	Review	7.67	2015	77		None
+TERT	amp	5-6%		26099527	Review	7.67	2015	77		None
+ARID1A	mut	12.00%	DNA damage checkpoint and repair	27838634	Review	5.03	2017	8		Trastuzumab
+ARID1A	mut	25.9%（7/27）；10%(12/120)	.	22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	Trastuzumab
+ARID1A	mut	11.7%(35/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	Trastuzumab
+ARID1A	mut	13.00%	Chromatin remodelling	27262756	Review	7.43	2016	12		Trastuzumab
+ARID1A	mut	7.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	Trastuzumab
+ARID1A		7.00%		.	.	.	.	.	来源于cosmic	Trastuzumab
+ARID1A	mut	12.80%	chromatin remodeling	25822088	research	23.17	2015	153	243 样本（14% HBV）	Trastuzumab
+ARID1A		13.00%		26405193	research	8.39	2015	19		Trastuzumab
+ARID1A		8.80%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	Trastuzumab
+ARID1A	mut	17.40%	Epigenetic modifiers	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Trastuzumab
+ARID1A	mut	16.00%	chromatin remodeling	28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	Trastuzumab
+ARID1A	mut	8-17%	chromatin remodeling	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	Trastuzumab
+ARID1A	mut	19.00%		24185509	research	24.17	2013	164	32 iCC，9 gall-bladder carcinomas	Trastuzumab
+ARID1A	mut	54/928 (5.8)*	Chromatin remodeling	26099984	Review	4.91	2015	86		Trastuzumab
+ARID1A	mut	10%（12/120）		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	Trastuzumab
+ARID1A	mut	4-17%	Epigenetic modifiers	26099527	Review	7.67	2015	77		Trastuzumab
+TP53	mut	32.00%	genomic instability	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+TP53	mut	8.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	None
+TP53		16.00%		26405193	research	8.39	2015	19		None
+TP53		29.10%	HCC	29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	None
+TP53	mut	31.00%	p53-Rb pathway	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+TP53	mut	24.35%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+TP53	mut	23.00%		28843658	research	7.43	2017	0	85%的原发瘤和转移瘤中存在TP53\CTNNB1\TERT突变	None
+TP53	mut	27%（251/928)	p53/cell cycle control	26099984	Review	4.91	2015	86		None
+TP53	del	3.7%（20/547)	TP53/cell-cycle control	26099984	Review	4.91	2015	86		None
+TP53	mut	31.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中.该研究显示肝癌患者CLA4\PD1\PDL1药物获益可能较高	None
+TP53		27.00%		.	.	.	.	.	来源于cosmic	None
+TP53	mut	30.00%	cell cycle control	27262756	Review	7.43	2016	12		None
+TP53	mut	26.3%(79/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+TP53	mut	35-50%	DNA damage checkpoint and repair	27838634	Review	5.03	2017	8		None
+TP53	mut	12-48%	P53-cell cycle pathway	26099527	Review	7.67	2015	77		None
+ARID2	mut	7.00%	DNA damage checkpoint and repair	27838634	Review	5.03	2017	8		None
+ARID2	mut	11.1%（3/27）；		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+ARID2	mut	8.7%(26/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+ARID2	mut	7.00%	Chromatin remodelling	27262756	Review	7.43	2016	12		None
+ARID2	mut	5.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+ARID2		5.00%		.	.	.	.	.	来源于cosmic	None
+ARID2	mut	6.80%	chromatin remodeling	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+ARID2		8.20%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	None
+ARID2	mut	3.40%	Epigenetic modifiers	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+ARID2	mut	13.00%	chromatin remodeling	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+ARID2		7.40%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	None
+ARID2	mut	62/928 (6.7)	Chromatin remodeling	26099984	Review	4.91	2015	86		None
+ARID2	mut	5.8%(7/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+ARID2	mut	3-18%	Epigenetic modifiers	26099527	Review	7.67	2015	77		None
+CDKN2A	mut	6-30%		27838634	Review	5.03	2017	8		Palbociclib
+CDKN2A	(STV)CNV	11.3%(34/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	Palbociclib
+CDKN2A	mut	8.00%	cell cycle control	27262756	Review	7.43	2016	12		Palbociclib
+CDKN2A	mut	2.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	Palbociclib
+CDKN2A	del	13.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	Palbociclib
+CDKN2A		6.00%		.	.	.	.	.	来源于cosmic	Palbociclib
+CDKN2A	mut,homo del	8.50%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	Palbociclib
+CDKN2A		3-4%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	Palbociclib
+CDKN2A	CNV,epigenetic silencing	47.00%		28297679		8.4	2017	8	仅在第一阶段出现	Palbociclib
+CDKN2A	del，mut	7.00%	p53-Rb pathway	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	Palbociclib
+CDKN2A	mut	13/928 (1.4)	p53/cell cycle control	26099984	Review	4.91	2015	86		Palbociclib
+CDKN2A	del	4.7%（26/547）	TP53/cell-cycle control	26099984	Review	4.91	2015	86		Palbociclib
+CDKN2A	homo del	2-12%	P53-cell cycle pathway	26099527	Review	7.67	2015	77		Palbociclib
+RB1		0-14%		27838634	Review	5.03	2017	8		Palbociclib
+RB1	SNP、Indel、SV	5.7%（17/300）		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	Palbociclib
+RB1	mut/del	8.00%	cell cycle control	27262756	Review	7.43	2016	12		Palbociclib
+RB1	mut	4.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	Palbociclib
+RB1	del	19.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	Palbociclib
+RB1		3.00%		.	.	.	.	.	来源于cosmic	Palbociclib
+RB1	mut,homo del	3.80%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	Palbociclib
+RB1		4.00%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	Palbociclib
+RB1	mut	2.80%	Cell cycle	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Palbociclib
+RB1	mut	5.00%	p53-Rb pathway	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	Palbociclib
+RB1	mut	3%（28/928）	p53/cell cycle control	26099984	Review	4.91	2015	86		Palbociclib
+RB1	del	3.7%（20/547）	TP53/cell-cycle control	26099984	Review	4.91	2015	86		Palbociclib
+RB1	homo del	3-8%	P53-cell cycle pathway	26099527	Review	7.67	2015	77		Palbociclib
+AXIN1	mut	9-13%	Wnt signaling	27838634	Review	5.03	2017	8		None
+AXIN1	mut	4.7%(14/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+AXIN1	mut	11.00%	WNT Signalling	27262756	Review	7.43	2016	12		None
+AXIN1	mut	8.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+AXIN1		18.00%		.	.	.	.	.	来源于cosmic	None
+AXIN1	mut,homo del	11.10%	WNT/β-catenin pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+AXIN1		7.50%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	None
+AXIN1	mut	10.00%	β-catenin	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+AXIN1	mut	45/928 (4.8)*	Wnt/β-catenin signalling	26099984	Review	4.91	2015	86		None
+AXIN1	del	16/547 (2.9)	Wnt/β-catenin signalling	26099984	Review	4.91	2015	86		None
+AXIN1	mut	5-15%	Wnt/β-catenin	26099527	Review	7.67	2015	77		None
+CTNNB1	mut	20-40%	Wnt signaling	27838634	Review	5.03	2017	8		None
+CTNNB1	mut	24%(72/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+CTNNB1	mut	30.00%	WNT Signalling	27262756	Review	7.43	2016	12		None
+CTNNB1	mut	27.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+CTNNB1		19.00%		.	.	.	.	.	来源于cosmic	None
+CTNNB1	mut	37.40%	WNT/β-catenin pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+CTNNB1		28.60%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	None
+CTNNB1	mut	1.30%	WNT signalling	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+CTNNB1	mut	~30%	β-catenin	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+CTNNB1	mut	26.3%（244/928）	Wnt/β-catenin signalling	26099984	Review	4.91	2015	86		None
+CTNNB1	mut	11-37%	Wnt/β-catenin	26099527	Review	7.67	2015	77		None
+PIK3CA	mut	2.00%	PI3K/MTOR signalling	27262756	Review	7.43	2016	12		Cetuximab;Dabrafenib;Everolimus;MK2206;Trastuzumab
+PIK3CA		0-35%		27838634	Review	5.03	2017	8		Cetuximab;Dabrafenib;Everolimus;MK2206;Trastuzumab
+PIK3CA	mut	4.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	Cetuximab;Dabrafenib;Everolimus;MK2206;Trastuzumab
+PIK3CA		3.00%		.	.	.	.	.	来源于cosmic	Cetuximab;Dabrafenib;Everolimus;MK2206;Trastuzumab
+PIK3CA	mut	1.70%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Cetuximab;Dabrafenib;Everolimus;MK2206;Trastuzumab
+PIK3CA		2.00%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	Cetuximab;Dabrafenib;Everolimus;MK2206;Trastuzumab
+PIK3CA	mut	4.50%	RAS/RAF kinase	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Cetuximab;Dabrafenib;Everolimus;MK2206;Trastuzumab
+PIK3CA	mut	5.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	Cetuximab;Dabrafenib;Everolimus;MK2206;Trastuzumab
+PIK3CA	mut	14/928 (1.5)	Ras/PI3K/mTOR pathway	26099984	Review	4.91	2015	86		Cetuximab;Dabrafenib;Everolimus;MK2206;Trastuzumab
+PIK3CA	mut	0-2%	Akt/mtor	26099527	Review	7.67	2015	77		Cetuximab;Dabrafenib;Everolimus;MK2206;Trastuzumab
+PTEN		3.00%		27838634	Review	5.03	2017	8		Cetuximab;Everolimus;MK2206;Panitumumab;Trastuzumab
+PTEN	mut	4.3%(13/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	Cetuximab;Everolimus;MK2206;Panitumumab;Trastuzumab
+PTEN	del	7.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	Cetuximab;Everolimus;MK2206;Panitumumab;Trastuzumab
+PTEN	mut,homo del	3.40%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Cetuximab;Everolimus;MK2206;Panitumumab;Trastuzumab
+PTEN		2.00%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	Cetuximab;Everolimus;MK2206;Panitumumab;Trastuzumab
+PTEN	mut	2.60%	RAS/RAF kinase	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Cetuximab;Everolimus;MK2206;Panitumumab;Trastuzumab
+PTEN	mut	3.00%		28297679		8.4	2017	8	仅在第一阶段出现	Cetuximab;Everolimus;MK2206;Panitumumab;Trastuzumab
+PTEN	del，mut	3.00%	PIK3-mTOR	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	Cetuximab;Everolimus;MK2206;Panitumumab;Trastuzumab
+PTEN	mut	9/928 (1)	Ras/PI3K/mTOR pathway	26099984	Review	4.91	2015	86		Cetuximab;Everolimus;MK2206;Panitumumab;Trastuzumab
+PTEN	homo del	1-3%	Akt/mtor	26099527	Review	7.67	2015	77		Cetuximab;Everolimus;MK2206;Panitumumab;Trastuzumab
+ALB	mut	5.00%	unclear	27838634	Review	5.03	2017	8		None
+ALB	mut	3.3%(4/120)		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+ALB	mut	13%(39/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+ALB	mut	13.00%	hepatic differentiation	27262756	Review	7.43	2016	12		None
+ALB	mut	13.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+ALB	mut	12.80%	hepatic differentiation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+ALB		10.20%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	None
+ALB	mut	8.00%		28297679		8.4	2017	8	仅在第一阶段出现	None
+ALB	mut	3.3%(4/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+ATM	mut	7%-19%	DNA damage checkpoint and repair	27838634	Review	5.03	2017	8		Irinotecan
+ATM	mut	5%（6/120）		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	Irinotecan
+ATM	mut	6.00%	cell cycle control	27262756	Review	7.43	2016	12		Irinotecan
+ATM		3.00%		.	.	.	.	.	来源于cosmic	Irinotecan
+ATM	mut	5.50%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	Irinotecan
+ATM	mut	3.00%		28297679		8.4	2017	8	仅在第一阶段出现	Irinotecan
+ATM	mut	30/928 (3.2)	p53/cell cycle control	26099984	Review	4.91	2015	86		Irinotecan
+ATM	mut	5.0%(6/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	Irinotecan
+ATM	mut	2-6%	P53-cell cycle pathway	26099527	Review	7.67	2015	77		Irinotecan
+CCND1	(STV)CNV	5.3%(16/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	Palbociclib
+CCND1	amp	7.00%	cell cycle control	27262756	Review	7.43	2016	12		Palbociclib
+CCND1	amp	6.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	Palbociclib
+CCND1	amp	4.70%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	Palbociclib
+CCND1		1-2%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	Palbociclib
+CCND1	amp	13.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	Palbociclib
+CCND1	amp	7.00%	p53-Rb pathway，β-catenin	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	Palbociclib
+CCND1	amp	46/636 (7.2)‡	Cell-cycle control	26099984	Review	4.91	2015	86		Palbociclib
+CCND1	amp	5-14%	P53-cell cycle pathway	26099527	Review	7.67	2015	77		Palbociclib
+NFE2L2	mut	5.00%	oxidative stress response	27838634	Review	5.03	2017	8		None
+NFE2L2	mut	3.3%(10/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+NFE2L2	mut	6.00%	Oxidative stress	27262756	Review	7.43	2016	12		None
+NFE2L2	mut	3.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+NFE2L2		3.00%		.	.	.	.	.	来源于cosmic	None
+NFE2L2	mut	6.40%	Oxidative stress	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+NFE2L2	mut	7.00%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+NFE2L2	mut	32/928 (3.4)	Oxidative stress	26099984	Review	4.91	2015	86		None
+NFE2L2	mut	3-6 %	oxidative stress	26099527	Review	7.67	2015	77		None
+RPS6KA3	mut	8%-10%	DNA damage checkpoint and repair	27838634	Review	5.03	2017	8		None
+RPS6KA3	SNP、Indel、SV	6.3%(19/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+RPS6KA3	mut	7.00%	RAS/MAPK signalling	27262756	Review	7.43	2016	12		None
+RPS6KA3	mut	4.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+RPS6KA3	mut	6.80%	MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+RPS6KA3		4.00%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	None
+RPS6KA3	mut	5.00%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+RPS6KA3	mut	30/928 (3.2)	Ras/PI3K/mTOR pathway	26099984	Review	4.91	2015	86		None
+RPS6KA3	mut	2-9%	Ras/raf/mapk	26099527	Review	7.67	2015	77		None
+BAP1	mut	2.7%(8/300)	chromatin remodeling	27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+BAP1	mut	5.00%	chromatin remodeling	28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+BAP1		11.00%	chromatin remodeling	26405193	research	8.39	2015	19		None
+BAP1	mut	8.50%	Epigenetic modifiers,chromatin-remodeling	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+BAP1	mut	32.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	None
+BAP1	mut	25.00%		24185509	research	24.17	2013	164	32 iCC，9 gall-bladder carcinomas	None
+BAP1		5.90%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	None
+ACVR2A	mut	3.3%(10/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+ACVR2A	mut	4.00%	TGFβ signalling	27262756	Review	7.43	2016	12		None
+ACVR2A	mut	3.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+ACVR2A	mut	4.10%	TGF-β	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+ACVR2A	mut	5.00%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+ACVR2A	mut	4.70%	TGFβ pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+APC	mut	1.00%	WNT Signalling	27262756	Review	7.43	2016	12		None
+APC	mut	1.30%	WNT/β-catenin pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+APC	mut	7.10%	WNT signalling	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+APC	mut	3.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	None
+APC	mut	15/928 (1.6)	Wnt/β-catenin signalling	26099984	Review	4.91	2015	86		None
+APC	mut	1-2%	Wnt/β-catenin	26099527	Review	7.67	2015	77		None
+FGF19	amp	4.00%	RAS/MAPK signalling	27262756	Review	7.43	2016	12		None
+FGF19	amp	4.30%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+FGF19	amp	4.70%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+FGF19	amp	7.00%	β-catenin	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+FGF19	amp	36/636 (5.6)‡	FGF signalling	26099984	Review	4.91	2015	86		None
+FGF19	amp	5-14%	P53-cell cycle pathway	26099527	Review	7.67	2015	77		None
+FGFR2	mut	0.40%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+FGFR2	fusion	23.00%		26405193	research	8.39	2015	19		None
+FGFR2	mut	2.80%		28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+FGFR2	mut，fusion	21.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	None
+FGFR2	mut	1.80%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+FGFR2		13.00%		24185509	research	24.17	2013	164	32 iCC，9 gall-bladder carcinomas	None
+KEAP1	mut	4.00%	Oxidative stress	27262756	Review	7.43	2016	12		None
+KEAP1	mut	5.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+KEAP1		2.00%		.	.	.	.	.	来源于cosmic	None
+KEAP1	mut	3.80%	Oxidative stress	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+KEAP1	mut	3.1%（29/928）	Oxidative stress	26099984	Review	4.91	2015	86		None
+KEAP1	mut	2-8%	oxidative stress	26099527	Review	7.67	2015	77		None
+MLL3	mut	4.00%	transcription	27838634	Review	5.03	2017	8		None
+MLL3	mut	11.1%（3/27）；		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+MLL3	mut	2.10%	epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+MLL3	mut	3.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	None
+MLL3	mut	4.2%(5/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+MLL3	mut	3-6%	Epigenetic modifiers	26099527	Review	7.67	2015	77		None
+NTRK3	mut	3.00%	RAS/MAPK signalling	27262756	Review	7.43	2016	12		None
+NTRK3	mut	3.00%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+NTRK3	mut	3.00%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+NTRK3	mut	3.00%	RAS/MAPK signalling	27262756	Review	7.43	2016	12		None
+NTRK3	mut	3.00%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+NTRK3	mut	3.00%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+TSC2	mut	7.00%	PIK3-mTOR	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+TSC2	mut	3-8%	Ras/raf/mapk	26099527	Review	7.67	2015	77		None
+TSC2		2-3%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	None
+TSC2	mut	5.10%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+TSC2		3.00%		.	.	.	.	.	来源于cosmic	None
+TSC2	mut	5.00%	PI3K/MTOR signalling	27262756	Review	7.43	2016	12		None
+APOB	mut	9.3%(28/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+APOB	mut	9.00%	hepatic differentiation	27262756	Review	7.43	2016	12		None
+APOB	mut	10.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+APOB	mut	9.40%	hepatic differentiation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+APOB	mut	9.80%		29573058	Review	4.14	2018	0	整合1340例样本分析；642来自日本，451来自TCGA，247来自芬兰	None
+EGFR	mut,amp	1.30%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Sorafenib;Regorafenib;Lenvatinib;Afatinib;AG-013736;BIBF-1120;Brivanib;Cediranib;Cetuximab;Erlotinib;Gefitinib;Lapatinib;Nintedanib;Osimertinib;Panitumumab;Pazopanib;Pembrolizumab;Sunitinib;Trastuzumab;Vandetanib
+EGFR		3.00%		26405193	research	8.39	2015	19		Sorafenib;Regorafenib;Lenvatinib;Afatinib;AG-013736;BIBF-1120;Brivanib;Cediranib;Cetuximab;Erlotinib;Gefitinib;Lapatinib;Nintedanib;Osimertinib;Panitumumab;Pazopanib;Pembrolizumab;Sunitinib;Trastuzumab;Vandetanib
+EGFR	amp	3.10%		28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Sorafenib;Regorafenib;Lenvatinib;Afatinib;AG-013736;BIBF-1120;Brivanib;Cediranib;Cetuximab;Erlotinib;Gefitinib;Lapatinib;Nintedanib;Osimertinib;Panitumumab;Pazopanib;Pembrolizumab;Sunitinib;Trastuzumab;Vandetanib
+EGFR	amp	0.40%		28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Sorafenib;Regorafenib;Lenvatinib;Afatinib;AG-013736;BIBF-1120;Brivanib;Cediranib;Cetuximab;Erlotinib;Gefitinib;Lapatinib;Nintedanib;Osimertinib;Panitumumab;Pazopanib;Pembrolizumab;Sunitinib;Trastuzumab;Vandetanib
+EGFR	mut	0.40%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	Sorafenib;Regorafenib;Lenvatinib;Afatinib;AG-013736;BIBF-1120;Brivanib;Cediranib;Cetuximab;Erlotinib;Gefitinib;Lapatinib;Nintedanib;Osimertinib;Panitumumab;Pazopanib;Pembrolizumab;Sunitinib;Trastuzumab;Vandetanib
+KRAS	mut	1.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	Sorafenib;Regorafenib;Cetuximab;Imatinib;Lapatinib;Panitumumab;Selumetinib;Trametinib;Trastuzumab
+KRAS		19.00%		26405193	research	8.39	2015	19		Sorafenib;Regorafenib;Cetuximab;Imatinib;Lapatinib;Panitumumab;Selumetinib;Trametinib;Trastuzumab
+KRAS	mut	16.50%	RAS/RAF kinase	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Sorafenib;Regorafenib;Cetuximab;Imatinib;Lapatinib;Panitumumab;Selumetinib;Trametinib;Trastuzumab
+KRAS	mut	5.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	Sorafenib;Regorafenib;Cetuximab;Imatinib;Lapatinib;Panitumumab;Selumetinib;Trametinib;Trastuzumab
+KRAS		10.30%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	Sorafenib;Regorafenib;Cetuximab;Imatinib;Lapatinib;Panitumumab;Selumetinib;Trametinib;Trastuzumab
+MET	(STV)CNV	2.3%(5/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	ARQ-197;Cabozantinib;Crizotinib;Foretinib;Lapatinib;Osimertinib;Panitumumab;Trastuzumab
+MET	amp	1.00%	PI3K/AKT/MTOR pathway	27262756	Review	7.43	2016	12		ARQ-197;Cabozantinib;Crizotinib;Foretinib;Lapatinib;Osimertinib;Panitumumab;Trastuzumab
+MET	amp	1.70%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	ARQ-197;Cabozantinib;Crizotinib;Foretinib;Lapatinib;Osimertinib;Panitumumab;Trastuzumab
+MET	amp,mut	1.30%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	ARQ-197;Cabozantinib;Crizotinib;Foretinib;Lapatinib;Osimertinib;Panitumumab;Trastuzumab
+MET	amp	0.50%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	ARQ-197;Cabozantinib;Crizotinib;Foretinib;Lapatinib;Osimertinib;Panitumumab;Trastuzumab
+PBRM1	mut	6.50%	Epigenetic modifiers,	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Everolimus
+PBRM1	mut	21.00%	chromatin remodeling	28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	Everolimus
+PBRM1	mut	21.00%	chromatin remodeling	28297679		8.4	2017	8	仅在第一阶段出现	Everolimus
+PBRM1	mut	17.00%		24185509	research	24.17	2013	164	32 iCC，9 gall-bladder carcinomas	Everolimus
+PBRM1		10.30%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	Everolimus
+VEGFA	amp	1.00%	PI3K/AKT/MTOR pathway,MAP kinase pathway	27262756	Review	7.43	2016	12		Sorafenib;Vandetanib
+VEGFA	amp	8.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	Sorafenib;Vandetanib
+VEGFA	mut	0.90%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Sorafenib;Vandetanib
+VEGFA	amp	17/547 (3.1)*	VEGF signalling	26099984	Review	4.91	2015	86		Sorafenib;Vandetanib
+VEGFA	amp	7-11%	Ras/raf/mapk,Akt/mtor	26099527	Review	7.67	2015	77		Sorafenib;Vandetanib
+ARID1B	mut	11.1%（3/27）；		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+ARID1B	mut	1.30%	chromatin remodeling	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+ARID1B	mut	5.00%		28297679		8.4	2017	8	仅在第一阶段出现	None
+ARID1B	mut	6.7%(8/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+CDKN1A	mut	2.10%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+CDKN1A	mut	2.10%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+CDKN1A	mut	3.00%		28297679		8.4	2017	8	仅在第一阶段出现	None
+CDKN1A	mut	1.80%	p53-Rb pathway	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+ERBB2	mut	0.40%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Afatinib;Crizotinib;Everolimus;Lapatinib;MK2206;Neratinib;Osimertinib;Palbociclib;Trastuzumab
+ERBB2	mut	3.70%		28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Afatinib;Crizotinib;Everolimus;Lapatinib;MK2206;Neratinib;Osimertinib;Palbociclib;Trastuzumab
+ERBB2	amp	3.9-8.5%		28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Afatinib;Crizotinib;Everolimus;Lapatinib;MK2206;Neratinib;Osimertinib;Palbociclib;Trastuzumab
+ERBB2	mut	3.00%		28297679		8.4	2017	8	仅在第一阶段出现	Afatinib;Crizotinib;Everolimus;Lapatinib;MK2206;Neratinib;Osimertinib;Palbociclib;Trastuzumab
+JAK1	mut	1.00%	JAK/STAT signalling	27262756	Review	7.43	2016	12		None
+JAK1	mut	0.40%	PI3K/AKT/MTOR pathway,IL6/JAK/STAT pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+JAK1	mut	0.90%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+JAK1	mut	14/928 (1.5)	JAK/STAT signalling	26099984	Review	4.91	2015	86		None
+TSC1	mut	3.00%	PI3K/MTOR signalling	27262756	Review	7.43	2016	12		Everolimus
+TSC1	mut,homo del	2.60%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Everolimus
+TSC1	mut	3-8%	Ras/raf/mapk	26099527	Review	7.67	2015	77		Everolimus
+TSC1	del，mut	2.00%	PIK3-mTOR	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	Everolimus
+BAZ2B	mut	3.00%		27838634	Review	5.03	2017	8		None
+BAZ2B	mut	11.1%（3/27）；1.6%(2/120)		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+BAZ2B	mut	1.6%(2/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+BRAF		5.00%		26405193	research	8.39	2015	19		Sorafenib;Binimetinib;Cetuximab;Cobimetinib;Crizotinib;Dabrafenib;Dasatinib;Imatinib;Ipilimumab;Irinotecan;Panitumumab;Selumetinib;Sunitinib;Trametinib;Vandetanib
+BRAF	mut	3.00%	RAS/RAF kinase	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Sorafenib;Binimetinib;Cetuximab;Cobimetinib;Crizotinib;Dabrafenib;Dasatinib;Imatinib;Ipilimumab;Irinotecan;Panitumumab;Selumetinib;Sunitinib;Trametinib;Vandetanib
+BRAF	mut	3.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	Sorafenib;Binimetinib;Cetuximab;Cobimetinib;Crizotinib;Dabrafenib;Dasatinib;Imatinib;Ipilimumab;Irinotecan;Panitumumab;Selumetinib;Sunitinib;Trametinib;Vandetanib
+FGFR	mut	9.50%		28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Lenvatinib;BIBF-1120;BLU-554;Everolimus
+FGFR	fusion	5.30%		28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Lenvatinib;BIBF-1120;BLU-554;Everolimus
+FGFR	fusion	16.00%		25608663	research	11.8	2015	31	ICCA	Lenvatinib;BIBF-1120;BLU-554;Everolimus
+HNF1A	mut	5.00%	hepatic differentiation	27262756	Review	7.43	2016	12		None
+HNF1A		3.00%		.	.	.	.	.	来源于cosmic	None
+HNF1A	mut	4.70%	hepatic differentiation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+IDH1	mut	13.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	Dasatinib
+IDH1	mut	13.80%		24185509	research	24.17	2013	164	32 iCC，9 gall-bladder carcinomas	Dasatinib
+IDH1		5.90%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	Dasatinib
+IDH2	mut	5.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	Dasatinib
+IDH2	mut	6.90%		24185509	research	24.17	2013	164	32 iCC，9 gall-bladder carcinomas	Dasatinib
+IDH2		2.90%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	Dasatinib
+IL6ST	mut	3.00%	JAK/STAT signalling	27262756	Review	7.43	2016	12		None
+IL6ST	mut	3.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+IL6ST	mut	1.70%	PI3K/AKT/MTOR pathway,IL6/JAK/STAT pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+KIT	(STV)CNV	2.3%(6/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	Sorafenib;Regorafenib;Dasatinib;dasatinib;Imatinib;Nintedanib;Pazopanib;Sunitinib
+KIT	mut	0.90%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Sorafenib;Regorafenib;Dasatinib;dasatinib;Imatinib;Nintedanib;Pazopanib;Sunitinib
+KIT	mut	1.30%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	Sorafenib;Regorafenib;Dasatinib;dasatinib;Imatinib;Nintedanib;Pazopanib;Sunitinib
+KMT2C	mut	2.00%	Chromatin remodelling	27262756	Review	7.43	2016	12		None
+KMT2C		4.00%		.	.	.	.	.	来源于cosmic	None
+KMT2C	mut	3%（28/928）	Chromatin remodeling	26099984	Review	4.91	2015	86		None
+MLL	mut	22.2%（6/27）；		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+MLL	mut	1.7%(2/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+MLL	mut	3-4%	Epigenetic modifiers	26099527	Review	7.67	2015	77		None
+MLL2	mut	6.00%	transcription	27838634	Review	5.03	2017	8		None
+MLL2	mut	5.50%	Epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+MLL2	mut	2-3%	Epigenetic modifiers	26099527	Review	7.67	2015	77		None
+MLL4	HBV int.	10.00%	Chromatin remodelling	27262756	Review	7.43	2016	12		None
+MLL4	mut	2.60%	Epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+MLL4	mut	2-3%	Epigenetic modifiers	26099527	Review	7.67	2015	77		None
+MYC	amp	5.23%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+MYC	amp	1.30%	MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+MYC	amp	4.00%	P53-cell cycle pathway	26099527	Review	7.67	2015	77		None
+UBR3	mut	0.8%(1/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+UBR3	mut	2.00%	DNA damage checkpoint and repair	27838634	Review	5.03	2017	8		None
+UBR3	mut	0.8%(1/120)		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+WWP1	mut	9.00%	SMAD signaling	27838634	Review	5.03	2017	8		None
+WWP1	mut	7.7%（5/65）		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+WWP1	mut	7.7%(5/65)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+ZIC3		3.00%	Wnt signaling	27838634	Review	5.03	2017	8		None
+ZIC3	mut	3.3%(4/120)		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+ZIC3	mut	3.3% (4/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+ZNRF3	mut	3.00%	WNT Signalling	27262756	Review	7.43	2016	12		None
+ZNRF3	mut	3.00%	WNT/β-catenin pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+ZNRF3		2.90%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	None
+ARAF	mut	11.00%		25608663	research	11.8	2015	31	ICCA	Sorafenib
+ARAF	mut	5.00%		28297679		8.4	2017	8	仅在第一阶段出现	Sorafenib
+AXIN2	mut	1.00%	WNT Signalling	27262756	Review	7.43	2016	12		None
+AXIN2	mut	0.90%	WNT/β-catenin pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+BRCA2	mut	3.70%	genomic instability	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+BRCA2	mut	3.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	None
+CCNE1	HBV int.	5.00%	cell cycle control	27262756	Review	7.43	2016	12		None
+CCNE1	amp	1.30%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+CDK4	amp	0.40%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	Palbociclib
+CDK4	amp	5.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	Palbociclib
+CDKN2B	homo del	5.10%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+CDKN2B	del，mut	3.00%	p53-Rb pathway	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+CREBBP		3.00%		.	.	.	.	.	来源于cosmic	None
+CREBBP	mut	2.60%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+DAPK1	mut	3.00%	PI3K/MTOR signalling	27262756	Review	7.43	2016	12		None
+DAPK1	mut	2.60%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+EPHA4	mut	3.00%	RAS/MAPK signalling	27262756	Review	7.43	2016	12		None
+EPHA4	mut	3.40%	MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+ERRFI1	del	13.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+ERRFI1	mut	3.1%(2/65)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+ERRFI1/MIG6	mut	5.00%	EGFR signaling	27838634	Review	5.03	2017	8		None
+ERRFI1/MIG6	mut	3.1%（2/65）		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+FGF3	amp	4.00%	RAS/MAPK signalling	27262756	Review	7.43	2016	12		None
+FGF3	amp	4.30%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+FGFR1	mut	1.70%		28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+FGFR1	mut	0.90%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+GXYLT1	mut	0.8%(1/120)		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+GXYLT1	mut	0.8% (1/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+HGF	mut	3.00%	RAS/MAPK signalling	27262756	Review	7.43	2016	12		Cabozantinib;Trastuzumab
+HGF	mut	3.00%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Cabozantinib;Trastuzumab
+IDH1		15.00%		26405193	research	8.39	2015	19		Dasatinib
+IDH2	mut	11.70%	Epigenetic modifiers	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Dasatinib
+IGF2R		18.00%		27838634	Review	5.03	2017	8		None
+IGF2R	mut	10/928 (1.1)	IGF signalling	26099984	Review	4.91	2015	86		None
+IGSF10	mut	3.3%(4/120)		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+IGSF10	mut	3.3%(4/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+IGF1R	amp	9.60%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	Erlotinib
+IGF1R	mut	1.70%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Erlotinib
+IRF2	mut	4.00%	immune system-inflammation related	27838634	Review	5.03	2017	8		None
+IRF2	mut,homo del	0.90%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+JAK3	amp	3.00%	JAK/STAT signalling	27262756	Review	7.43	2016	12		None
+JAK3	mut，amp	3.00%	PI3K/AKT/MTOR pathway,IL6/JAK/STAT pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+KDR	mut	0.40%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Regorafenib;Lenvatinib;AG-013736;BIBF-1120;Brivanib;Cabozantinib;Cediranib;Nintedanib;Pazopanib;Sunitinib
+KDR	mut	5.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	Regorafenib;Lenvatinib;AG-013736;BIBF-1120;Brivanib;Cabozantinib;Cediranib;Nintedanib;Pazopanib;Sunitinib
+KMT2D	mut	6.00%	Chromatin remodelling	27262756	Review	7.43	2016	12		None
+KMT2D		3.00%		.	.	.	.	.	来源于cosmic	None
+KMT2B	mut	3.00%	Chromatin remodelling	27262756	Review	7.43	2016	12		None
+KMT2B	mut	12/928 (1.3)	Chromatin remodeling	26099984	Review	4.91	2015	86		None
+MDM2	amp	1.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+MDM2	mut,amp	1.70%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+MTOR	mut	2.00%	PI3K/MTOR signalling	27262756	Review	7.43	2016	12		AZD-8055;Everolimus
+MTOR	mut	1.70%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	AZD-8055;Everolimus
+NCOR1	del	22.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+NCOR1	mut	2.00%	chromatin remodeling，β-catenin	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+NRAS	mut	1.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	Sorafenib;Cetuximab;Dabrafenib;Panitumumab;Selumetinib
+NRAS	mut	2.40%	RAS/RAF kinase	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Sorafenib;Cetuximab;Dabrafenib;Panitumumab;Selumetinib
+PDGFRA	mut	1.70%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Sorafenib;Regorafenib;Dasatinib;dasatinib;Imatinib;Sunitinib
+PDGFRA	mut	9/928 (1)	PDGFR signalling	26099984	Review	4.91	2015	86		Sorafenib;Regorafenib;Dasatinib;dasatinib;Imatinib;Sunitinib
+SMC3	mut	3.00%	epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+SMC3	mut	3.00%	Epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+ZNF226	mut	3.3%（4/120）		22634756	research	24.17	2012	438	前者频率来源于27 WGS测序样本，后者来源于验证样本，	None
+ZNF226	mut	3.3%(4/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+A2M	mut	2.60%	hepatic differentiation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+ABL1	mut	0.40%	MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	AG-013736;Cabozantinib;Crizotinib;Dasatinib;dasatinib;Foretinib;Imatinib;Trametinib;Vandetanib
+ACTL6A	mut	0.90%	chromatin remodeling	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+ACTL6B	mut	0.40%	chromatin remodeling	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+ADH1B	mut	1.80%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+AHCTF1	mut	4.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+ARIS1A	mut	7.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+ASH1L	SNP、Indel、SV	4.3%(13/300)	chromatin regulators	27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+ASXL1	mut	2.80%	other	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+ATK	mut	0.90%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+ATR	mut	2.10%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+AXL	mut	1.70%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+AZIN1	mut	3.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+BPTF	mut	1.7%(2/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+BRD7	mut	2.00%	chromatin remodeling	25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+BRD8	mut	6.9%(2/29)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+CBL	(STV)CNV	2.3%(7/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	Dasatinib
+CDH2		2.90%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	None
+CDKN1B	mut	1.00%	Cell cycle	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+CFH	mut，homo del/amp	2.60%	hepatic differentiation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+CFHR1	mut，homo del/amp	1.70%	hepatic differentiation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+CFHR2	homo del	0.40%	hepatic differentiation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+CHD7	mut	3.40%	Epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+CNND1	amp	5-10%	Ras/raf/mapk,Akt/mtor	26099527	Review	7.67	2015	77		None
+CPS1	SNP、Indel、SV	5.3%(16/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+CYP2E2	mut	2.00%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+EEF1A1	mut	3.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+ELF	mut	5.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	None
+ELF3	mut	6.30%	other	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+EP300	mut	2.10%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+EPHA2		2.90%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	Dasatinib
+ERBB3	amp	1.30%		28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	Afatinib;Lapatinib;Trastuzumab
+EYS	SNP、Indel、SV	8%(24/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+F8	mut	2.60%	hepatic differentiation	25822088	research	23.17	2015	153	243 样本（14% HBV）	Crizotinib
+FAK	amp	4.00%	Ras/raf/mapk	26099527	Review	7.67	2015	77		None
+FAM123B	(STV)CNV	2.3%(7/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+FAT4		3.00%		.	.	.	.	.	来源于cosmic	None
+FBXW7	mut	3.70%	TGF-β	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+FCRL1	mut	2.00%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+FGA	mut	3.40%	hepatic differentiation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+FGF	amp	5-10%	Ras/raf/mapk,Akt/mtor	26099527	Review	7.67	2015	77		Lenvatinib;BIBF-1120;BLU-554;Everolimus
+FGF4	amp	4.70%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+FGFR4	mut	0.40%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	BLU-554;Everolimus
+FGFR3	mut	0.90%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+FLT4	mut	3.40%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Regorafenib;Lenvatinib;AG-013736;BIBF-1120;Cediranib;Nintedanib;Pazopanib;Sunitinib
+FLT1	mut	1.30%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Regorafenib;Lenvatinib;AG-013736;BIBF-1120;Cediranib;Nintedanib;Pazopanib;Sunitinib
+FLT3	mut	0.90%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Sorafenib;ABT-869;Sunitinib
+FZXR1	mut	1.70%	WNT/β-catenin pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+GDF1	amp	0.40%	TGFβ pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+GDF15	amp	0.40%	TGFβ pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+GPATCH4	mut	2.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+GNAS	mut	3.00%		28297679		8.4	2017	8	仅在第一阶段出现	None
+HIST1H1C	mut	2.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+HUWEI	mut，amp	3.40%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+IL6R	mut	0.90%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+JAK2	amp	11.30%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+KMT2A	mut	2.9%（27/928）	Chromatin remodeling	26099984	Review	4.91	2015	86		None
+LAMA2	mut	5-12%	unclear	27838634	Review	5.03	2017	8		None
+LRP1B	SNP、Indel、SV	18%(54/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+LRP1B		6.00%		.	.	.	.	.	来源于cosmic	None
+MACROD2	SV	11.3%(34/300)	DNA-repair genes	27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+LZTR1	mut	3.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+MACF1	mut	2.60%	WNT/β-catenin pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+MAP2K7	mut	1.30%	MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+MAP3K10	mut	1.30%	MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+MAP2K1	mut	0.90%	MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Cobimetinib;Dabrafenib;Selumetinib;Trametinib
+MAP2K4	mut	2.00%	RAS/RAF kinase	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+MAP2K3	del，mut	2.00%		25362482	research	22.76	2014	106	503例样本（488 HCC，15 IHCC）,文献附件无法下载，根据图标预估比例	None
+MDM4	amp	3.60%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+MLL5	mut	1.30%	Epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+MUC17	mut	4.7%(14/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+MSH3	mut	1.70%	genomic instability	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+NCOR2	mut	2.60%	Epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+NF1	mut	3.00%		28297679		8.4	2017	8	38 CCA（34个是ICC）。进一步用15个样本验证。该部分为两个样本集都有的	Sorafenib;Avastin;Cediranib;Dasatinib;dasatinib;Erlotinib;Everolimus;Imatinib;Pazopanib;Selumetinib;Trametinib
+NF2	mut	3.00%		28297679		8.4	2017	8	仅在第一阶段出现	Avastin;Cetuximab;Erlotinib;Everolimus;Imatinib;Lapatinib
+NRAS/KRAS/HRAS:	mut	3.00%	Ras/raf/mapk	26099527	Review	7.67	2015	77		None
+p16INK4A		6-30%	oxidative stress response	27838634	Review	5.03	2017	8		None
+ODZ1		4.40%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	None
+OTOP1	mut	0.8% (1/120)		22634756	research	24.17	2012	443	25 HCC（11 HBV，14 HCV)；120 HCC validation set	None
+PBRM1	mut,homo del	1.70%	chromatin remodeling	25822088	research	23.17	2015	153	243 样本（14% HBV）	Everolimus
+PDGFRB	mut	0.90%	MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+PCLO		5.90%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	None
+PHF20L1	mut	1.70%	Epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+PDGFRB4	mut	0.90%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+PIK3C2B	mut	1.30%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+PIK3CG	mut	1.30%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Everolimus
+PIK3C2A	mut	0.90%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+PIK3IP1	mut	0.90%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+PIK3C2G	mut	0.40%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+PIK3R1	mut	2.60%	RAS/RAF kinase	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+PIK3R6	mut	1.30%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+PIK3R2	mut	0.90%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+PIK3R4	mut	0.90%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+PREX2		3.00%		.	.	.	.	.	来源于cosmic	None
+PRKDC	mut	2.10%	p53/cell cycle	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+RASA1	mut	4.00%	RAS/RAF kinase	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+RAS‡	mut	12/928 (1.3)	Ras/PI3K/mTOR pathway	26099984	Review	4.91	2015	86		None
+RP1L1	mut	3.00%		28622513	research	22.79	2017	21	来源于363 HCC WES样本，其中196例收录在TCGA中	None
+RET	mut	1.30%	MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	Regorafenib;Lenvatinib;BIBF-1120;Cabozantinib;Nintedanib;Pazopanib;Sunitinib;Vandetanib
+RNF43	mut	4.70%	WNT signalling	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+RSK2	mut	2-9%	Akt/mtor	26099527	Review	7.67	2015	77		None
+SETDB1	mut	4%（12/300）	chromatin regulators	27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+SETD2	mut	2.60%	Epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+SLX4	mut	2.60%	Epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+SMARCA2	mut	2.60%	chromatin remodeling	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+SMARCC2	mut	1.30%	chromatin remodeling	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+SMARCB1	mut	0.90%	chromatin remodeling	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+SMARCA4	mut	0.40%	chromatin remodeling	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+SMARCC1	mut	0.40%	chromatin remodeling	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+SMAD4	mut	13.00%	TGF-β	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+SRCAP	mut	3.00%	Epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+SMCHD1	mut	2.60%	Epigenetic regulation	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+STAT1	mut	0.40%	IL6/JAK/STAT pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+STAT2	mut	0.40%	IL6/JAK/STAT pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+STAT4	mut	0.40%	IL6/JAK/STAT pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+STAT5A	mut	0.40%	IL6/JAK/STAT pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+SOS1	mut	1.79%	MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+TCF7L2	mut	2.10%	WNT/β-catenin pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+TEK	mut	1.30%	PI3K/AKT/MTOR pathway,MAP kinase pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+STK11	mut	5.00%	RAS/RAF kinase	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+TGRBR2	mut	2.50%	RAS/RAF kinase	28667006	research	3.46	2017	5	489 CCA(ICC和ECC）,94例DNA测序	None
+SYT2		2.90%		25636086	research	11.23	2015	30	30例胆汁表现的肝癌，60 HCC WGS，数据收录在ICGC	None
+USP34	mut	2.60%	WNT/β-catenin pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+TTC28	SV为主	8%(24/300)		27064257	research	20.83	2017	54	样本量300(HCC 268,24 ICC,8 Chcc/icc)	None
+WNT10B	mut	0.90%	WNT/β-catenin pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+WNT10A	mut	0.40%	WNT/β-catenin pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+WNT7B	mut	0.40%	WNT/β-catenin pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None
+PIK3CD	mut	0.40%	PI3K/AKT/MTOR pathway	25822088	research	23.17	2015	153	243 样本（14% HBV）	None

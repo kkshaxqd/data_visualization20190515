@@ -1,0 +1,500 @@
+index	patient.bcr_patient_barcode	patient.stage_event.gleason_grading.gleason_score	patient.drugs.drug-1.therapy_types.therapy_type	patient.drugs.drug-2.therapy_types.therapy_type	patient.drugs.drug-3.therapy_types.therapy_type	patient.drugs.drug-4.therapy_types.therapy_type	patient.drugs.drug-5.therapy_types.therapy_type	notes	patient.bcr_patient_barcode
+103	tcga-2a-a8vl	6	NA	NA	NA	NA	NA	low-grade	tcga-2a-a8vl
+104	tcga-2a-a8vo	6	NA	NA	NA	NA	NA	low-grade	tcga-2a-a8vo
+37	tcga-2a-a8vt	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-2a-a8vt
+105	tcga-2a-a8vv	6	NA	NA	NA	NA	NA	low-grade	tcga-2a-a8vv
+106	tcga-2a-a8vx	8	NA	NA	NA	NA	NA	high-grade	tcga-2a-a8vx
+107	tcga-2a-a8w1	7	NA	NA	NA	NA	NA	low-grade	tcga-2a-a8w1
+108	tcga-2a-a8w3	9	NA	NA	NA	NA	NA	high-grade	tcga-2a-a8w3
+109	tcga-2a-aayf	7	NA	NA	NA	NA	NA	low-grade	tcga-2a-aayf
+110	tcga-2a-aayo	6	NA	NA	NA	NA	NA	low-grade	tcga-2a-aayo
+111	tcga-2a-aayu	6	NA	NA	NA	NA	NA	low-grade	tcga-2a-aayu
+38	tcga-4l-aa1f	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-4l-aa1f
+112	tcga-ch-5737	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5737
+113	tcga-ch-5738	6	NA	NA	NA	NA	NA	low-grade	tcga-ch-5738
+114	tcga-ch-5739	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5739
+115	tcga-ch-5740	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5740
+39	tcga-ch-5741	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-ch-5741
+116	tcga-ch-5743	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5743
+117	tcga-ch-5744	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5744
+118	tcga-ch-5745	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5745
+119	tcga-ch-5746	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5746
+120	tcga-ch-5748	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5748
+121	tcga-ch-5750	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5750
+4	tcga-ch-5751	10	hormone therapy	hormone therapy	ancillary	NA	NA	high-grade	tcga-ch-5751
+40	tcga-ch-5752	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-ch-5752
+74	tcga-ch-5753	9	NA	NA	NA	NA	NA	high-grade	tcga-ch-5753
+122	tcga-ch-5754	9	NA	NA	NA	NA	NA	high-grade	tcga-ch-5754
+123	tcga-ch-5761	9	NA	NA	NA	NA	NA	high-grade	tcga-ch-5761
+124	tcga-ch-5762	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5762
+75	tcga-ch-5763	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5763
+76	tcga-ch-5764	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5764
+125	tcga-ch-5765	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5765
+126	tcga-ch-5766	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5766
+127	tcga-ch-5767	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5767
+128	tcga-ch-5768	6	NA	NA	NA	NA	NA	low-grade	tcga-ch-5768
+129	tcga-ch-5769	9	NA	NA	NA	NA	NA	high-grade	tcga-ch-5769
+130	tcga-ch-5771	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5771
+77	tcga-ch-5772	9	NA	NA	NA	NA	NA	high-grade	tcga-ch-5772
+17	tcga-ch-5788	7	hormone therapy	hormone therapy	NA	NA	NA	low-grade	tcga-ch-5788
+131	tcga-ch-5789	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5789
+78	tcga-ch-5790	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5790
+79	tcga-ch-5791	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5791
+132	tcga-ch-5792	9	NA	NA	NA	NA	NA	high-grade	tcga-ch-5792
+133	tcga-ch-5794	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5794
+134	tcga-ej-5494	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5494
+135	tcga-ej-5495	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-5495
+136	tcga-ej-5496	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5496
+137	tcga-ej-5497	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5497
+138	tcga-ej-5498	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5498
+139	tcga-ej-5499	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5499
+140	tcga-ej-5501	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5501
+141	tcga-ej-5502	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5502
+143	tcga-ej-5504	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5504
+144	tcga-ej-5505	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5505
+145	tcga-ej-5506	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-5506
+147	tcga-ej-5508	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5508
+148	tcga-ej-5509	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5509
+149	tcga-ej-5510	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5510
+150	tcga-ej-5511	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5511
+151	tcga-ej-5512	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5512
+152	tcga-ej-5514	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-5514
+153	tcga-ej-5515	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5515
+154	tcga-ej-5516	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5516
+155	tcga-ej-5517	6	NA	NA	NA	NA	NA	low-grade	tcga-ej-5517
+156	tcga-ej-5518	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-5518
+157	tcga-ej-5519	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-5519
+158	tcga-ej-5521	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5521
+159	tcga-ej-5522	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5522
+160	tcga-ej-5524	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-5524
+161	tcga-ej-5525	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-5525
+162	tcga-ej-5526	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-5526
+163	tcga-ej-5527	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5527
+164	tcga-ej-5530	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5530
+165	tcga-ej-5531	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5531
+166	tcga-ej-5532	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5532
+80	tcga-ej-5542	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5542
+167	tcga-ej-7115	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7115
+81	tcga-ej-7123	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7123
+168	tcga-ej-7125	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7125
+169	tcga-ej-7218	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7218
+82	tcga-ej-7312	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7312
+170	tcga-ej-7314	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7314
+171	tcga-ej-7315	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7315
+172	tcga-ej-7317	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7317
+173	tcga-ej-7318	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7318
+174	tcga-ej-7321	6	NA	NA	NA	NA	NA	low-grade	tcga-ej-7321
+83	tcga-ej-7325	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7325
+175	tcga-ej-7327	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7327
+176	tcga-ej-7328	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7328
+177	tcga-ej-7330	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7330
+178	tcga-ej-7331	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7331
+179	tcga-ej-7781	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7781
+180	tcga-ej-7782	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-7782
+181	tcga-ej-7783	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7783
+182	tcga-ej-7784	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7784
+183	tcga-ej-7785	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7785
+184	tcga-ej-7786	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7786
+185	tcga-ej-7788	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7788
+186	tcga-ej-7789	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7789
+84	tcga-ej-7791	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7791
+187	tcga-ej-7792	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7792
+188	tcga-ej-7793	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7793
+189	tcga-ej-7794	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7794
+190	tcga-ej-7797	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7797
+191	tcga-ej-8468	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-8468
+192	tcga-ej-8469	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-8469
+193	tcga-ej-8470	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-8470
+194	tcga-ej-8472	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-8472
+85	tcga-ej-a46b	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a46b
+196	tcga-ej-a46d	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a46d
+197	tcga-ej-a46e	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a46e
+198	tcga-ej-a46f	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a46f
+86	tcga-ej-a46g	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a46g
+199	tcga-ej-a46h	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a46h
+200	tcga-ej-a46i	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a46i
+201	tcga-ej-a65b	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-a65b
+202	tcga-ej-a65d	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a65d
+203	tcga-ej-a65e	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a65e
+204	tcga-ej-a65f	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-a65f
+205	tcga-ej-a65g	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a65g
+87	tcga-ej-a65j	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-a65j
+206	tcga-ej-a65m	6	NA	NA	NA	NA	NA	low-grade	tcga-ej-a65m
+207	tcga-ej-a6ra	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a6ra
+88	tcga-ej-a6rc	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a6rc
+208	tcga-ej-a7nf	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a7nf
+209	tcga-ej-a7ng	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a7ng
+210	tcga-ej-a7nh	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a7nh
+213	tcga-ej-a7nm	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-a7nm
+214	tcga-ej-a7nn	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a7nn
+215	tcga-ej-a8fn	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a8fn
+216	tcga-ej-a8fo	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a8fo
+217	tcga-ej-a8fp	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a8fp
+218	tcga-ej-a8fs	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a8fs
+219	tcga-ej-a8fu	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a8fu
+220	tcga-ej-ab20	6	NA	NA	NA	NA	NA	low-grade	tcga-ej-ab20
+221	tcga-ej-ab27	6	NA	NA	NA	NA	NA	low-grade	tcga-ej-ab27
+222	tcga-fc-7708	7	NA	NA	NA	NA	NA	low-grade	tcga-fc-7708
+223	tcga-fc-7961	9	NA	NA	NA	NA	NA	high-grade	tcga-fc-7961
+41	tcga-fc-a4ji	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-fc-a4ji
+42	tcga-fc-a5ob	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-fc-a5ob
+224	tcga-fc-a66v	7	NA	NA	NA	NA	NA	low-grade	tcga-fc-a66v
+225	tcga-fc-a6hd	7	NA	NA	NA	NA	NA	low-grade	tcga-fc-a6hd
+226	tcga-fc-a8o0	6	NA	NA	NA	NA	NA	low-grade	tcga-fc-a8o0
+227	tcga-g9-6329	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6329
+228	tcga-g9-6332	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6332
+229	tcga-g9-6333	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6333
+230	tcga-g9-6336	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6336
+231	tcga-g9-6338	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6338
+232	tcga-g9-6339	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6339
+233	tcga-g9-6342	6	NA	NA	NA	NA	NA	low-grade	tcga-g9-6342
+234	tcga-g9-6343	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6343
+235	tcga-g9-6347	6	NA	NA	NA	NA	NA	low-grade	tcga-g9-6347
+236	tcga-g9-6348	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6348
+237	tcga-g9-6351	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6351
+238	tcga-g9-6353	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6353
+239	tcga-g9-6354	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6354
+240	tcga-g9-6356	9	NA	NA	NA	NA	NA	high-grade	tcga-g9-6356
+241	tcga-g9-6361	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6361
+242	tcga-g9-6362	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6362
+243	tcga-g9-6363	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6363
+244	tcga-g9-6365	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6365
+245	tcga-g9-6366	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6366
+246	tcga-g9-6367	9	NA	NA	NA	NA	NA	high-grade	tcga-g9-6367
+247	tcga-g9-6369	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6369
+248	tcga-g9-6370	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6370
+249	tcga-g9-6371	6	NA	NA	NA	NA	NA	low-grade	tcga-g9-6371
+250	tcga-g9-6373	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6373
+251	tcga-g9-6377	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6377
+252	tcga-g9-6378	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6378
+253	tcga-g9-6379	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6379
+254	tcga-g9-6384	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6384
+255	tcga-g9-6385	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6385
+256	tcga-g9-6494	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6494
+257	tcga-g9-6496	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6496
+258	tcga-g9-6498	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6498
+259	tcga-g9-6499	9	NA	NA	NA	NA	NA	high-grade	tcga-g9-6499
+260	tcga-g9-7509	6	NA	NA	NA	NA	NA	low-grade	tcga-g9-7509
+261	tcga-g9-7510	8	NA	NA	NA	NA	NA	high-grade	tcga-g9-7510
+262	tcga-g9-7519	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-7519
+11	tcga-g9-7521	8	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade	tcga-g9-7521
+263	tcga-g9-7522	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-7522
+264	tcga-g9-7523	10	NA	NA	NA	NA	NA	high-grade	tcga-g9-7523
+265	tcga-g9-7525	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-7525
+5	tcga-g9-a9s0	8	hormone therapy	hormone therapy	chemotherapy	chemotherapy	NA	high-grade	tcga-g9-a9s0
+43	tcga-g9-a9s4	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-g9-a9s4
+266	tcga-g9-a9s7	8	NA	NA	NA	NA	NA	high-grade	tcga-g9-a9s7
+267	tcga-h9-7775	7	NA	NA	NA	NA	NA	low-grade	tcga-h9-7775
+268	tcga-h9-a6bx	6	NA	NA	NA	NA	NA	low-grade	tcga-h9-a6bx
+269	tcga-h9-a6by	7	NA	NA	NA	NA	NA	low-grade	tcga-h9-a6by
+270	tcga-hc-7075	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-7075
+271	tcga-hc-7077	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-7077
+272	tcga-hc-7078	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7078
+273	tcga-hc-7079	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7079
+274	tcga-hc-7080	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7080
+275	tcga-hc-7081	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-7081
+276	tcga-hc-7209	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-7209
+277	tcga-hc-7210	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7210
+278	tcga-hc-7211	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7211
+279	tcga-hc-7212	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7212
+280	tcga-hc-7213	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-7213
+281	tcga-hc-7230	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7230
+282	tcga-hc-7231	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7231
+283	tcga-hc-7232	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-7232
+90	tcga-hc-7233	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7233
+284	tcga-hc-7736	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7736
+285	tcga-hc-7737	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7737
+286	tcga-hc-7738	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7738
+287	tcga-hc-7740	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7740
+44	tcga-hc-7742	7	hormone therapy	NA	NA	NA	NA	low-grade	tcga-hc-7742
+288	tcga-hc-7744	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7744
+289	tcga-hc-7745	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7745
+290	tcga-hc-7747	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7747
+91	tcga-hc-7748	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-7748
+291	tcga-hc-7749	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7749
+292	tcga-hc-7750	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7750
+293	tcga-hc-7752	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7752
+294	tcga-hc-7817	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7817
+295	tcga-hc-7818	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7818
+296	tcga-hc-7819	8	NA	NA	NA	NA	NA	high-grade	tcga-hc-7819
+297	tcga-hc-7820	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7820
+92	tcga-hc-7821	8	NA	NA	NA	NA	NA	high-grade	tcga-hc-7821
+298	tcga-hc-8212	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-8212
+299	tcga-hc-8213	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-8213
+300	tcga-hc-8216	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-8216
+301	tcga-hc-8256	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-8256
+45	tcga-hc-8257	7	hormone therapy	NA	NA	NA	NA	low-grade	tcga-hc-8257
+302	tcga-hc-8258	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-8258
+303	tcga-hc-8259	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-8259
+304	tcga-hc-8260	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-8260
+305	tcga-hc-8261	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-8261
+306	tcga-hc-8262	8	NA	NA	NA	NA	NA	high-grade	tcga-hc-8262
+307	tcga-hc-8264	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-8264
+308	tcga-hc-8265	8	NA	NA	NA	NA	NA	high-grade	tcga-hc-8265
+309	tcga-hc-8266	8	NA	NA	NA	NA	NA	high-grade	tcga-hc-8266
+46	tcga-hc-a48f	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-hc-a48f
+310	tcga-hc-a4zv	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-a4zv
+311	tcga-hc-a631	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-a631
+312	tcga-hc-a632	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-a632
+313	tcga-hc-a6al	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6al
+314	tcga-hc-a6an	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6an
+315	tcga-hc-a6ao	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6ao
+316	tcga-hc-a6ap	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6ap
+93	tcga-hc-a6aq	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6aq
+317	tcga-hc-a6as	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6as
+318	tcga-hc-a6hx	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6hx
+319	tcga-hc-a6hy	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6hy
+94	tcga-hc-a76w	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a76w
+320	tcga-hc-a76x	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a76x
+321	tcga-hc-a8cy	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-a8cy
+322	tcga-hc-a8d0	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a8d0
+323	tcga-hc-a8d1	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a8d1
+47	tcga-hc-a9te	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-hc-a9te
+48	tcga-hc-a9th	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-hc-a9th
+12	tcga-hi-7168	9	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade	tcga-hi-7168
+324	tcga-hi-7169	7	NA	NA	NA	NA	NA	low-grade	tcga-hi-7169
+325	tcga-hi-7170	6	NA	NA	NA	NA	NA	low-grade	tcga-hi-7170
+7	tcga-hi-7171	9	hormone therapy	hormone therapy	hormone therapy	hormone therapy	NA	high-grade	tcga-hi-7171
+326	tcga-j4-8198	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-8198
+327	tcga-j4-8200	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-8200
+328	tcga-j4-a67k	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67k
+329	tcga-j4-a67l	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67l
+330	tcga-j4-a67m	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67m
+331	tcga-j4-a67n	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67n
+332	tcga-j4-a67o	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67o
+333	tcga-j4-a67q	6	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67q
+334	tcga-j4-a67r	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67r
+335	tcga-j4-a67s	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67s
+336	tcga-j4-a67t	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67t
+337	tcga-j4-a6g1	8	NA	NA	NA	NA	NA	high-grade	tcga-j4-a6g1
+49	tcga-j4-a6g3	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-j4-a6g3
+338	tcga-j4-a6m7	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a6m7
+339	tcga-j4-a83i	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a83i
+340	tcga-j4-a83j	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a83j
+341	tcga-j4-a83k	6	NA	NA	NA	NA	NA	low-grade	tcga-j4-a83k
+342	tcga-j4-a83l	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a83l
+343	tcga-j4-a83m	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a83m
+2	tcga-j4-a83n	7	chemotherapy	NA	NA	NA	NA	low-grade	tcga-j4-a83n
+344	tcga-j4-aatv	6	NA	NA	NA	NA	NA	low-grade	tcga-j4-aatv
+50	tcga-j4-aatz	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-j4-aatz
+345	tcga-j4-aau2	6	NA	NA	NA	NA	NA	low-grade	tcga-j4-aau2
+51	tcga-j9-a52b	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-j9-a52b
+346	tcga-j9-a52c	9	NA	NA	NA	NA	NA	high-grade	tcga-j9-a52c
+347	tcga-j9-a52d	9	NA	NA	NA	NA	NA	high-grade	tcga-j9-a52d
+52	tcga-j9-a52e	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-j9-a52e
+348	tcga-j9-a8ck	9	NA	NA	NA	NA	NA	high-grade	tcga-j9-a8ck
+349	tcga-j9-a8cl	9	NA	NA	NA	NA	NA	high-grade	tcga-j9-a8cl
+350	tcga-j9-a8cm	9	NA	NA	NA	NA	NA	high-grade	tcga-j9-a8cm
+95	tcga-j9-a8cn	6	NA	NA	NA	NA	NA	low-grade	tcga-j9-a8cn
+351	tcga-j9-a8cp	7	NA	NA	NA	NA	NA	low-grade	tcga-j9-a8cp
+352	tcga-kc-a4bl	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a4bl
+353	tcga-kc-a4bn	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a4bn
+354	tcga-kc-a4bo	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a4bo
+53	tcga-kc-a4br	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kc-a4br
+355	tcga-kc-a4bv	9	NA	NA	NA	NA	NA	high-grade	tcga-kc-a4bv
+356	tcga-kc-a7f3	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a7f3
+357	tcga-kc-a7f5	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a7f5
+358	tcga-kc-a7f6	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a7f6
+96	tcga-kc-a7fa	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a7fa
+359	tcga-kc-a7fd	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a7fd
+360	tcga-kc-a7fe	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a7fe
+361	tcga-kk-a59v	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a59v
+3	tcga-kk-a59x	9	hormone therapy	chemotherapy	chemotherapy	hormone therapy	NA	high-grade	tcga-kk-a59x
+54	tcga-kk-a59y	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kk-a59y
+362	tcga-kk-a59z	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a59z
+363	tcga-kk-a5a1	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a5a1
+364	tcga-kk-a6dy	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a6dy
+13	tcga-kk-a6e0	9	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade	tcga-kk-a6e0
+55	tcga-kk-a6e1	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kk-a6e1
+365	tcga-kk-a6e2	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a6e2
+366	tcga-kk-a6e3	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a6e3
+367	tcga-kk-a6e4	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a6e4
+368	tcga-kk-a6e5	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a6e5
+369	tcga-kk-a6e6	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a6e6
+370	tcga-kk-a6e7	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a6e7
+371	tcga-kk-a6e8	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a6e8
+97	tcga-kk-a7ap	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a7ap
+18	tcga-kk-a7aq	7	hormone therapy	hormone therapy	NA	NA	NA	low-grade	tcga-kk-a7aq
+14	tcga-kk-a7au	9	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade	tcga-kk-a7au
+372	tcga-kk-a7av	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a7av
+373	tcga-kk-a7aw	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a7aw
+374	tcga-kk-a7ay	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a7ay
+375	tcga-kk-a7az	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a7az
+56	tcga-kk-a7b0	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kk-a7b0
+376	tcga-kk-a7b1	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a7b1
+377	tcga-kk-a7b2	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a7b2
+98	tcga-kk-a7b3	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a7b3
+16	tcga-kk-a7b4	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-kk-a7b4
+19	tcga-kk-a8i4	7	hormone therapy	hormone therapy	NA	NA	NA	low-grade	tcga-kk-a8i4
+378	tcga-kk-a8i5	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8i5
+379	tcga-kk-a8i6	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8i6
+20	tcga-kk-a8i7	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-kk-a8i7
+380	tcga-kk-a8i8	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a8i8
+57	tcga-kk-a8i9	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kk-a8i9
+58	tcga-kk-a8ia	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kk-a8ia
+99	tcga-kk-a8ib	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a8ib
+21	tcga-kk-a8ic	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-kk-a8ic
+59	tcga-kk-a8id	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kk-a8id
+381	tcga-kk-a8if	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8if
+382	tcga-kk-a8ig	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8ig
+383	tcga-kk-a8ih	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8ih
+6	tcga-kk-a8ii	9	hormone therapy	hormone therapy	hormone therapy	chemotherapy	chemotherapy	high-grade	tcga-kk-a8ii
+384	tcga-kk-a8ij	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8ij
+385	tcga-kk-a8ik	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a8ik
+386	tcga-kk-a8il	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a8il
+387	tcga-kk-a8im	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8im
+388	tcga-m7-a71y	7	NA	NA	NA	NA	NA	low-grade	tcga-m7-a71y
+389	tcga-m7-a71z	7	NA	NA	NA	NA	NA	low-grade	tcga-m7-a71z
+390	tcga-m7-a720	6	NA	NA	NA	NA	NA	low-grade	tcga-m7-a720
+391	tcga-m7-a721	7	NA	NA	NA	NA	NA	low-grade	tcga-m7-a721
+392	tcga-m7-a722	8	NA	NA	NA	NA	NA	high-grade	tcga-m7-a722
+22	tcga-m7-a723	7	hormone therapy	hormone therapy	NA	NA	NA	low-grade	tcga-m7-a723
+60	tcga-m7-a724	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-m7-a724
+393	tcga-m7-a725	7	NA	NA	NA	NA	NA	low-grade	tcga-m7-a725
+394	tcga-mg-aamc	9	NA	NA	NA	NA	NA	high-grade	tcga-mg-aamc
+395	tcga-qu-a6il	7	NA	NA	NA	NA	NA	low-grade	tcga-qu-a6il
+100	tcga-qu-a6im	7	NA	NA	NA	NA	NA	low-grade	tcga-qu-a6im
+396	tcga-qu-a6in	7	NA	NA	NA	NA	NA	low-grade	tcga-qu-a6in
+397	tcga-qu-a6io	6	NA	NA	NA	NA	NA	low-grade	tcga-qu-a6io
+398	tcga-qu-a6ip	6	NA	NA	NA	NA	NA	low-grade	tcga-qu-a6ip
+399	tcga-su-a7e7	8	NA	NA	NA	NA	NA	high-grade	tcga-su-a7e7
+400	tcga-tk-a8ok	7	NA	NA	NA	NA	NA	low-grade	tcga-tk-a8ok
+401	tcga-tp-a8tt	7	NA	NA	NA	NA	NA	low-grade	tcga-tp-a8tt
+402	tcga-tp-a8tv	7	NA	NA	NA	NA	NA	low-grade	tcga-tp-a8tv
+403	tcga-v1-a8mf	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8mf
+404	tcga-v1-a8mg	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8mg
+405	tcga-v1-a8mj	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8mj
+406	tcga-v1-a8mk	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8mk
+407	tcga-v1-a8ml	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8ml
+408	tcga-v1-a8mm	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8mm
+61	tcga-v1-a8mu	7	hormone therapy	NA	NA	NA	NA	low-grade	tcga-v1-a8mu
+409	tcga-v1-a8wl	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8wl
+410	tcga-v1-a8wn	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8wn
+411	tcga-v1-a8ws	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8ws
+62	tcga-v1-a8wv	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-v1-a8wv
+63	tcga-v1-a8ww	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-v1-a8ww
+412	tcga-v1-a8x3	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8x3
+64	tcga-v1-a9o5	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-v1-a9o5
+413	tcga-v1-a9o7	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9o7
+414	tcga-v1-a9o9	8	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9o9
+415	tcga-v1-a9oa	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9oa
+416	tcga-v1-a9of	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a9of
+417	tcga-v1-a9oh	8	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9oh
+418	tcga-v1-a9ol	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9ol
+419	tcga-v1-a9oq	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a9oq
+420	tcga-v1-a9ot	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a9ot
+421	tcga-v1-a9ox	8	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9ox
+422	tcga-v1-a9oy	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a9oy
+423	tcga-v1-a9z7	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9z7
+424	tcga-v1-a9z8	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9z8
+425	tcga-v1-a9z9	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9z9
+426	tcga-v1-a9zg	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9zg
+427	tcga-v1-a9zi	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9zi
+428	tcga-v1-a9zk	8	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9zk
+429	tcga-v1-a9zr	8	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9zr
+430	tcga-vn-a88i	8	NA	NA	NA	NA	NA	high-grade	tcga-vn-a88i
+65	tcga-vn-a88k	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-vn-a88k
+431	tcga-vn-a88l	7	NA	NA	NA	NA	NA	low-grade	tcga-vn-a88l
+432	tcga-vn-a88m	7	NA	NA	NA	NA	NA	low-grade	tcga-vn-a88m
+433	tcga-vn-a88n	7	NA	NA	NA	NA	NA	low-grade	tcga-vn-a88n
+434	tcga-vn-a88o	7	NA	NA	NA	NA	NA	low-grade	tcga-vn-a88o
+435	tcga-vn-a88p	7	NA	NA	NA	NA	NA	low-grade	tcga-vn-a88p
+436	tcga-vn-a88q	8	NA	NA	NA	NA	NA	high-grade	tcga-vn-a88q
+23	tcga-vn-a88r	8	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-vn-a88r
+437	tcga-vn-a943	8	NA	NA	NA	NA	NA	high-grade	tcga-vn-a943
+438	tcga-vp-a872	8	NA	NA	NA	NA	NA	high-grade	tcga-vp-a872
+439	tcga-vp-a875	7	NA	NA	NA	NA	NA	low-grade	tcga-vp-a875
+440	tcga-vp-a876	8	NA	NA	NA	NA	NA	high-grade	tcga-vp-a876
+24	tcga-vp-a878	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-vp-a878
+441	tcga-vp-a879	9	NA	NA	NA	NA	NA	high-grade	tcga-vp-a879
+66	tcga-vp-a87b	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-vp-a87b
+442	tcga-vp-a87c	7	NA	NA	NA	NA	NA	low-grade	tcga-vp-a87c
+1	tcga-vp-a87d	9	chemotherapy	hormone therapy	hormone therapy	NA	NA	high-grade	tcga-vp-a87d
+443	tcga-vp-a87e	6	NA	NA	NA	NA	NA	low-grade	tcga-vp-a87e
+444	tcga-vp-a87h	9	NA	NA	NA	NA	NA	high-grade	tcga-vp-a87h
+445	tcga-vp-a87j	7	NA	NA	NA	NA	NA	low-grade	tcga-vp-a87j
+446	tcga-vp-a87k	8	NA	NA	NA	NA	NA	high-grade	tcga-vp-a87k
+447	tcga-vp-aa1n	9	NA	NA	NA	NA	NA	high-grade	tcga-vp-aa1n
+448	tcga-ww-a8zi	8	NA	NA	NA	NA	NA	high-grade	tcga-ww-a8zi
+67	tcga-x4-a8kq	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-x4-a8kq
+449	tcga-x4-a8ks	7	NA	NA	NA	NA	NA	low-grade	tcga-x4-a8ks
+450	tcga-xa-a8jr	7	NA	NA	NA	NA	NA	low-grade	tcga-xa-a8jr
+451	tcga-xj-a83f	7	NA	NA	NA	NA	NA	low-grade	tcga-xj-a83f
+452	tcga-xj-a83g	7	NA	NA	NA	NA	NA	low-grade	tcga-xj-a83g
+453	tcga-xj-a83h	7	NA	NA	NA	NA	NA	low-grade	tcga-xj-a83h
+15	tcga-xj-a9di	9	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade	tcga-xj-a9di
+454	tcga-xj-a9dk	8	NA	NA	NA	NA	NA	high-grade	tcga-xj-a9dk
+455	tcga-xj-a9dq	6	NA	NA	NA	NA	NA	low-grade	tcga-xj-a9dq
+25	tcga-xj-a9dx	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-xj-a9dx
+456	tcga-xk-aair	8	NA	NA	NA	NA	NA	high-grade	tcga-xk-aair
+26	tcga-xk-aaiv	10	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-xk-aaiv
+457	tcga-xk-aaiw	9	NA	NA	NA	NA	NA	high-grade	tcga-xk-aaiw
+101	tcga-xk-aaj3	8	NA	NA	NA	NA	NA	high-grade	tcga-xk-aaj3
+458	tcga-xk-aaja	7	NA	NA	NA	NA	NA	low-grade	tcga-xk-aaja
+459	tcga-xk-aajp	7	NA	NA	NA	NA	NA	low-grade	tcga-xk-aajp
+460	tcga-xk-aajr	7	NA	NA	NA	NA	NA	low-grade	tcga-xk-aajr
+461	tcga-xk-aajt	7	NA	NA	NA	NA	NA	low-grade	tcga-xk-aajt
+462	tcga-xk-aaju	7	NA	NA	NA	NA	NA	low-grade	tcga-xk-aaju
+102	tcga-xk-aak1	7	NA	NA	NA	NA	NA	low-grade	tcga-xk-aak1
+463	tcga-xq-a8ta	10	NA	NA	NA	NA	NA	high-grade	tcga-xq-a8ta
+464	tcga-xq-a8tb	9	NA	NA	NA	NA	NA	high-grade	tcga-xq-a8tb
+465	tcga-y6-a8tl	6	NA	NA	NA	NA	NA	low-grade	tcga-y6-a8tl
+466	tcga-y6-a9xi	8	NA	NA	NA	NA	NA	high-grade	tcga-y6-a9xi
+467	tcga-yj-a8sw	9	NA	NA	NA	NA	NA	high-grade	tcga-yj-a8sw
+27	tcga-yl-a8hj	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8hj
+28	tcga-yl-a8hk	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8hk
+29	tcga-yl-a8hl	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8hl
+30	tcga-yl-a8hm	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8hm
+468	tcga-yl-a8ho	7	NA	NA	NA	NA	NA	low-grade	tcga-yl-a8ho
+469	tcga-yl-a8s8	9	NA	NA	NA	NA	NA	high-grade	tcga-yl-a8s8
+470	tcga-yl-a8s9	9	NA	NA	NA	NA	NA	high-grade	tcga-yl-a8s9
+471	tcga-yl-a8sa	8	NA	NA	NA	NA	NA	high-grade	tcga-yl-a8sa
+8	tcga-yl-a8sb	9	hormone therapy	hormone therapy	hormone therapy	hormone therapy	NA	high-grade	tcga-yl-a8sb
+31	tcga-yl-a8sc	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8sc
+472	tcga-yl-a8sf	8	NA	NA	NA	NA	NA	high-grade	tcga-yl-a8sf
+473	tcga-yl-a8sh	7	NA	NA	NA	NA	NA	low-grade	tcga-yl-a8sh
+68	tcga-yl-a8si	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-yl-a8si
+474	tcga-yl-a8sj	9	NA	NA	NA	NA	NA	high-grade	tcga-yl-a8sj
+69	tcga-yl-a8sk	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-yl-a8sk
+32	tcga-yl-a8sl	8	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8sl
+33	tcga-yl-a8so	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8so
+9	tcga-yl-a8sp	9	hormone therapy	hormone therapy	hormone therapy	hormone therapy	NA	high-grade	tcga-yl-a8sp
+34	tcga-yl-a8sq	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8sq
+475	tcga-yl-a8sr	9	NA	NA	NA	NA	NA	high-grade	tcga-yl-a8sr
+35	tcga-yl-a9wh	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a9wh
+476	tcga-yl-a9wi	9	NA	NA	NA	NA	NA	high-grade	tcga-yl-a9wi
+477	tcga-yl-a9wj	8	NA	NA	NA	NA	NA	high-grade	tcga-yl-a9wj
+10	tcga-yl-a9wk	9	hormone therapy	hormone therapy	hormone therapy	hormone therapy	NA	high-grade	tcga-yl-a9wk
+70	tcga-yl-a9wl	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-yl-a9wl
+478	tcga-yl-a9wx	9	NA	NA	NA	NA	NA	high-grade	tcga-yl-a9wx
+36	tcga-yl-a9wy	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a9wy
+479	tcga-zg-a8qw	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a8qw
+480	tcga-zg-a8qx	6	NA	NA	NA	NA	NA	low-grade	tcga-zg-a8qx
+481	tcga-zg-a8qy	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a8qy
+71	tcga-zg-a8qz	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-zg-a8qz
+482	tcga-zg-a9ky	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9ky
+483	tcga-zg-a9l0	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l0
+484	tcga-zg-a9l1	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l1
+485	tcga-zg-a9l2	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l2
+486	tcga-zg-a9l4	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l4
+487	tcga-zg-a9l5	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l5
+488	tcga-zg-a9l6	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l6
+489	tcga-zg-a9l9	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l9
+490	tcga-zg-a9lb	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9lb
+491	tcga-zg-a9lm	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9lm
+72	tcga-zg-a9ln	9	hormone therapy	NA	NA	NA	NA	被剔除，原因不明	tcga-zg-a9ln
+492	tcga-zg-a9ls	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9ls
+493	tcga-zg-a9lu	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9lu
+494	tcga-zg-a9ly	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9ly
+495	tcga-zg-a9lz	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9lz
+496	tcga-zg-a9m4	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9m4
+497	tcga-zg-a9mc	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9mc
+73	tcga-zg-a9n3	9	hormone therapy	NA	NA	NA	NA	被剔除，原因不明	tcga-zg-a9n3
+498	tcga-zg-a9nd	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9nd
+499	tcga-zg-a9ni	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9ni
+142	tcga-ej-5503	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-5503
+146	tcga-ej-5507	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-5507
+195	tcga-ej-8474	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-8474
+211	tcga-ej-a7nj	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a7nj
+212	tcga-ej-a7nk	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a7nk
+89	tcga-g9-6364	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6364

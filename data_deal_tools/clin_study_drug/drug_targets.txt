@@ -1,0 +1,770 @@
+Clinname	Result
+Floxuridine	Html not right
+Melphalan	Html not right
+thiotepa	html not right
+topotecan hydrochloride	html not right
+mesna	html not right
+paclitaxel	html not right
+ifosfamide	Html not right
+cisplatin-e therapeutic implant	html not right
+pegylated liposomal doxorubicin hydrochloride	html not right
+tamoxifen citrate	html not right
+aminocamptothecin colloidal dispersion	html not right
+dolastatin 10	html not right
+mitomycin	html not right
+doxorubicin	html not right
+carboplatin	Html not right
+cisplatin	Html not right
+doxorubicin hydrochloride	html not right
+porfimer sodium	html not right
+vincristine sulfate	html not right
+amifostine trihydrate	html not right
+exatecan mesylate	html not right
+Fluorouracil (5-FU)	html not right
+tipifarnib	html not right
+thalidomide	Html not right
+docetaxel	html not right
+Tetrathiomolybdate	html not right
+etoposide	html not right
+nolatrexed dihydrochloride	html not right
+ondansetron	html not right
+DetoxPC	html not right
+hydroxyurea	html not right
+doxorubicin HCl liposome	html not right
+O6-benzylguanine	Html not right
+FOLFIRI regimen	html not right
+entinostat	html not right
+isolated perfusion	html not right
+melphalan	Html not right
+fluorouracil (5-fu)	html not right
+tetrathiomolybdate	html not right
+detoxpc	html not right
+doxorubicin hcl liposome	html not right
+o6-benzylguanine	Html not right
+folfiri regimen	html not right
+ixabepilone	html not right
+7-hydroxystaurosporine	html not right
+abt-751	Html not right
+megestrol acetate	html not right
+intravenous t900607-sodium	html not right
+bms-247550	html not right
+t900607	html not right
+mtc-dox for injection	html not right
+aroplatin (liposomal nddp, l-nddp)	html not right
+celecoxib	Html not right
+epirubicin hydrochloride	html not right
+pemetrexed disodium	html not right
+boronophenylalanine-fructose complex	html not right
+sodium borocaptate	html not right
+gefitinib	Html not right
+mb07133 300mg/m2/day	html not right
+mb07133 600 mg/m2/day	html not right
+mb07133 1200 mg/m2/day	html not right
+mb07133 1800 mg/m2/day	html not right
+mb07133 2400 mg/m2/day	html not right
+capecitabine plus gemcitabine	html not right
+forodesine hydrochloride	html not right
+phy906	html not right
+tac-101	html not right
+idn-6556	html not right
+rv-cea(6d)/tricom-rf-cea(6d)/tricom	html not right
+rf-cea(6d)/tricom	html not right
+recombinant fowlpox-gm-csf	html not right
+thymalfasin (thymosin alpha-1)	html not right
+bortezomib	Html not right
+alvocidib	html not right
+irinotecan hydrochloride	html not right
+lyso-thermosensitive liposomal doxorubicin	html not right
+ns-9 [poly i: poly c]	html not right
+ispinesib	html not right
+lapatinib ditosylate	html not right
+sorafenib (nexavar, bay43-9006)	html not right
+sorafenib (nexavar, bay43-9006) plus doxorubicin	html not right
+doxorubicin/placebo	html not right
+131 i-lipiodol	html not right
+talaporfin sodium	html not right
+arsenic trioxide	html not right
+irinotecan + 5 fu + folinic acid	html not right
+folinic acid + 5 fu	html not right
+nv1020	html not right
+ifn-α2b	html not right
+cetuximab and folfiri	html not right
+cetuximab and folfox	html not right
+perioperative chemotherapy	html not right
+oral nutritional supplement rich in eicosapentanoic acid	html not right
+mitomycin-c, cisplatin	html not right
+recombinant human thrombopoietin	html not right
+pemetrexed	html not right
+bevacizumab hai plus systemic chemotherapy	html not right
+hai plus systemic chemotherapy	html not right
+folfiri	html not right
+folfox-4	html not right
+folfiri-hd	html not right
+folfox-7	html not right
+folfirinox	html not right
+interferon alpha-2b	html not right
+cediranib maleate	html not right
+octreotide	html not right
+erlotinib	Html not right
+sunitinib (su011248)	html not right
+pi-88	html not right
+thalidomide, alpha interferon	html not right
+thalidomide, interferon, octreotide	html not right
+gemcitabine and oxaliplatin	html not right
+octreotide acetate	html not right
+adh300004	html not right
+patupilone	html not right
+cyclophosphamide	html not right
+e7337	html not right
+iressa	html not right
+talabostat mesylate	html not right
+temozolomide	html not right
+belinostat	Html not right
+crs-100	html not right
+embolization therapy	html not right
+chemotherapy	html not right
+brivanib (active)	html not right
+cni, mmf, steroids, aza etc. (mtor inhibitor free)	html not right
+su011248	html not right
+nicotine lozenge	html not right
+nicotine patch	html not right
+pazopanib	Html not right
+irofulven + oxaliplatin	html not right
+rapamycin (sirolimus)	html not right
+interferon-alfa-2b and ribavirin	html not right
+thalidomide(thado), tegafur/uracil(ufur)	html not right
+somatostatin (octreotide)	html not right
+rad001 (everolimus)	html not right
+perifosine	Html not right
+floxuridine	Html not right
+dexamethasone	Html not right
+darinaparsin	html not right
+sodium heparin	html not right
+thermodox	html not right
+thymopentin	Html not right
+capecitabine in hcc	html not right
+tegafur/uracil (ufur®)	html not right
+bevacizumab	Html not right
+rapamycin	Html not right
+fluorouracil	html not right
+oxaliplatin + 5-fluorouracil/leucovorin	html not right
+azd0530	Html not right
+capecitabine	html not right
+ngr-htnf	html not right
+sorafenib (bay-43-9006)	html not right
+octreotide-lar, lanreotide autogel	html not right
+zd6474 (zactima) 100mg	html not right
+zd6474 (zactima) 300mg	html not right
+azd2171	html not right
+avastin	html not right
+leucovorin	html not right
+vandetanib	Html not right
+s-adenosyl-l-methionine disulfate p-toluene-sulfonate	html not right
+rad001	html not right
+abt-869	Html not right
+tegafur/uracil	html not right
+opc-18	html not right
+abt-888	Html not right
+leucovorin calcium	html not right
+anastrozole	Html not right
+tamoxifen	html not right
+fentanyl sublingual spray	html not right
+indocyanine green	html not right
+lidocaine	Html not right
+vinorelbine ditartrate	html not right
+endotag®-1	html not right
+lamivudine or entecavir	html not right
+nadolol	Html not right
+atropine	html not right
+selumetinib	html not right
+bevacizumab (avastin)	html not right
+erlotinib (tarceva)	html not right
+dasatinib	Html not right
+5% dextrose solution	html not right
+infusional 5-fluorouracil	html not right
+sorafenib (bay 43-9006)	html not right
+neoadjuvant chemotherapy with oxaliplatin and capecitabine	html not right
+pegylated interferon alpha 2a and plus ribavirin	html not right
+irinotecan plus capecitabine	html not right
+sodium thiosulfate	html not right
+neo-adjuvant treatment with bevacizumab	html not right
+neoadjuvant treatment with capecitabine and oxaliplatin	html not right
+neo-adjuvant treatment with bevacizumab, capecitabine and oxaliplatin	html not right
+gm-csf	html not right
+bupropion hydrochloride	html not right
+pazopanib (gw786034)(gw786034)	html not right
+nexavar (sorafenib, bay43-9006)	html not right
+sorafenib and gemcitabine	html not right
+infusion of opioid growth factor	html not right
+ms-20	html not right
+lenalidomide	html not right
+z-208	html not right
+hai abraxane	html not right
+iv abraxane	html not right
+disulfiram	html not right
+copper gluconate	html not right
+folfox6/cetuximab	html not right
+gc33	html not right
+sorafenib with capecitabine and oxaliplatin	html not right
+imatinib mesylate	html not right
+antiviral treatment (lamivudine or entecavir)	html not right
+everolimus, bevacizumab	html not right
+orantinib (tsu-68)	html not right
+sonovue-enhanced ultrasound	html not right
+cf102	html not right
+songyou	html not right
+sunitinib added to folfiri	html not right
+licartin (generic name,[131i]metuximab injection)	html not right
+epirubicin and lipiodol	html not right
+sorafenib + lbh589	html not right
+brivanib	Html not right
+lmwh	html not right
+sonovue®	html not right
+licartin	html not right
+peginterferon alpha-2a and ribavirin	html not right
+epirubicin	html not right
+adenosine	html not right
+yttrium-90 (y-90)	html not right
+chemotherapy with endostar	html not right
+treatment with cbp and 5-fu	html not right
+treatment with endostar, cbp and 5-fu	html not right
+iv cetuximab	html not right
+hai chronomodulated chemotherapy	html not right
+hai conventional chemotherapy	html not right
+irinotecan and on 01910.na	html not right
+oxaliplatin and on 01910.na	html not right
+adecatumumab	html not right
+adecatumumab and folfox	html not right
+folfox 4	html not right
+sorafenib tosylate	html not right
+amg 386	html not right
+tac + folfox4	html not right
+lc bead loaded with doxorubicin	html not right
+erlotinib hydrochloride	html not right
+aln-vsp02	html not right
+aeg35156 antisense iv infusion	html not right
+[f-18] vm4-037	html not right
+panitumumab+folfox-4	html not right
+panitumumab+folfiri	html not right
+foretinib	html not right
+fostamatinib disodium	html not right
+sorafenib, cisplatin, fluorouracil	html not right
+gemcitabine hydrochloride	html not right
+oxaliplatin	html not right
+4sc-201	html not right
+e7080	No target
+sorafenib tosylate, hace : doxorubicin hydrochloride and mitomycin c	html not right
+biib022	html not right
+adefovir	html not right
+combretastatin a1 diphosphate (oxi4503)	html not right
+gc33(ro5137382)	html not right
+cetuximab	No target
+irinotecan	html not right
+temsirolimus	No target
+pv-10 (10% rose bengal disodium)	html not right
+capecitabine plus oxaliplatin	html not right
+azd8055	No target
+bay73-4506	html not right
+bibf 1120	html not right
+everolimus	html not right
+sorafenib with temsirolimus	html not right
+mitomycin c	html not right
+cs-1008	html not right
+everolimus placebo	html not right
+foflox4	html not right
+idarubicin	No target
+fluorouracil implants	html not right
+eicosapentaenoic acid free fatty acid	html not right
+vorinostat	html not right
+[f 18]hx4	html not right
+pravastatin sodium	html not right
+adjuvant group	html not right
+sorafenib (nexavar, bay43-9006) sorafenib (nexavar, bay43-9006) + nerison fatty ointment sorafenib (nexavar, bay43-9006)+neribas fatty ointment	html not right
+telbivudine	html not right
+doxorubicin, superabsorbent polymer microspheres, embolotherapy	html not right
+ezn-2968	html not right
+188re-sss lipiodol	html not right
+silybin	html not right
+sorafenib, ts-1	html not right
+pentoxifylline	html not right
+ursodeoxycholic acid	html not right
+enoxaparin	html not right
+sunitinib malate	html not right
+placebo	html not right
+jx-594 followed by sorafenib	html not right
+cudc-101	No target
+cc-223	No target
+maa for diagnostic spect imaging	html not right
+diagnostic b20- spect imaging.	html not right
+sorafenib standard dosing regimen	html not right
+sorafenib ramp-up regimen	html not right
+bay86-9766 mek inhibitor + sorafenib	html not right
+[f-18] fmiso	html not right
+[f-18] hx4	html not right
+sorafenib with low-dose fp	html not right
+tace with sorafenib	html not right
+dovitinib	No target
+cinobufacin injection	html not right
+torisel	html not right
+mapatumumab	html not right
+sorafenib and zoledronic acid	html not right
+panitumumab, oxaliplatin, 5-fu	html not right
+clevudine, adefovir	html not right
+bavituximab and sorafenib	html not right
+vt-122 (propranolol plus etodolac)	html not right
+ag-013736	html not right
+adi-peg 20 (arginine deiminase formulated with polyethylene glycol)	html not right
+propranolol	html not right
+trc 105	html not right
+chemotherapy ± targeted therapy	html not right
+sb injection	html not right
+ro5323441	html not right
+cetuximab; mfolfox6	html not right
+doxorubicin-eluting beads	html not right
+axitinib (ag-013736)	html not right
+paclitaxel , carboplatin, endostatin	html not right
+paclitaxel and carboplatin	html not right
+dendritic cells vaccine	html not right
+other intravenous chemotherapy drugs	html not right
+axitinib	No target
+pd-0332991	No target
+pravastatin	html not right
+m-tor inhibitor free	html not right
+trc105	html not right
+11c-choline	html not right
+tace-deb	html not right
+90y-re	html not right
+folic acid	html not right
+5-fu	html not right
+panitumumab	html not right
+oxaliplatin, capecitabine, trastuzumab	html not right
+n-acetylcystein	html not right
+18f-fluoromethylcholine	html not right
+opb-31121	html not right
+opb-31121 phase2	html not right
+nhs-il-12	html not right
+akt inhibitor mk2206	html not right
+sox	html not right
+oral	html not right
+folinic acid	html not right
+trabectedin (ecteinascidin-743, et-743, yondelis [r])	html not right
+177lu-dota-tate	html not right
+pasireotide	html not right
+sir-sphere	html not right
+tyroserleutide for injection ,chemotherapy(mitomycin, and fluorouracil )	html not right
+the placebo ,chemotherapy(mitomycin, and fluorouracil )	html not right
+hypoxia-activated prodrug th-302	html not right
+medi-573 (1 of 3 doses)	html not right
+ro5137382	html not right
+mitomycin + gemcitabine	html not right
+s-1 combined with leucovorin	html not right
+activated recombinant human factor vii	html not right
+chemotherapy of mfolfox6 or folfiri	html not right
+gadoxetic acid	html not right
+nintedanib high dose	html not right
+nintedanib low dose	html not right
+nintedanib medium dose	html not right
+sorafenib combined with tace	html not right
+immu-132	html not right
+bevacizumab, mfolfox, folfiri	html not right
+romidepsin	html not right
+xenetix-ct perfusion imaging	html not right
+nik-333(peretinoin)	html not right
+letrozole plus leuprolide	html not right
+combination of everolimus, letrozole and leuprolide	html not right
+tranexamic acid	html not right
+best standard of care	html not right
+arq 197	html not right
+ipilimumab	No target
+cabozantinib	html not right
+sta-9090	html not right
+interferon-alpha (ifn-alpha)	html not right
+sorafenib:	html not right
+5-fu based doublet chemotherapy	html not right
+huachansu	html not right
+phase i dose level -1	html not right
+phase i dose level 1	html not right
+phase i dose level 2	html not right
+phase i dose level 3	html not right
+mm-141	html not right
+tasquinimod	No target
+suranix	html not right
+sgi-110	html not right
+ascorbic acid + sorafenib	html not right
+tivantinib	html not right
+bevacizumab plus chemotherapy	html not right
+6,8-bis(benzylthio)octanoic acid	html not right
+huaier granule	html not right
+regorafenib (bay73-4506)	html not right
+g-202	html not right
+chlorhexidine gluconate	html not right
+0.9% sodium chloride	html not right
+meglumine gadoterate	html not right
+mct/lct and fish oil	html not right
+mct/lct	html not right
+interferon alfa、fluorouracil	html not right
+cisplatin、fluorouracil	html not right
+tivozanib	html not right
+l-ohp	html not right
+l-lv	html not right
+azd9150	html not right
+hia debiri + systemic folfox	html not right
+tremelimumab	html not right
+recombinant human adenovirus type 5 injection	html not right
+lipiodol	html not right
+lamivudine 100mg once daily; or entecavir 0.5mg once daily.	html not right
+onartuzumab	html not right
+immuncell-lc	html not right
+sorafenib + pravastatin	html not right
+cabozantinib tablets	html not right
+placebo tablets	html not right
+ixazomib	html not right
+refametinib (bay86-9766)	html not right
+sorafenib (bay43-9006)	html not right
+urea-based cream	html not right
+colchicine	No target
+aspirin	html not right
+lamivudine	html not right
+neratinib	html not right
+fulvestrant	No target
+raltitrexed	No target
+oxaliplatin;capecitabine	html not right
+oxaliplatin;capecitabine;bevacizumab	html not right
+ethiodized oil + doxorubicin	html not right
+aldesleukin	html not right
+fludarabine	html not right
+5-fu and oxaliplatin	html not right
+hcq	html not right
+bevacizumab [avastin]	html not right
+capecitabine [xeloda]	html not right
+lapatinib	No target
+tace containing as2o3	html not right
+tace containing placebo	html not right
+dalantercept plus sorafenib	html not right
+zavedos®	html not right
+arq197	html not right
+dexmedetomidine	No target
+folfoxiri + cetuximab	html not right
+folfoxiri	html not right
+omp-54f28 with sorafenib	html not right
+18f- fluorocholine	html not right
+18f- fluorodeoxyglucose	html not right
+tacrolimus	html not right
+myfortic	html not right
+cellcept	html not right
+imuran	html not right
+ly2875358	html not right
+capecitabine, oxaliplatin, irinotecan and bevacizumab	html not right
+n-acetylcysteine	html not right
+adi-peg 20	html not right
+hai	html not right
+dummy infusion	html not right
+msc2156119j	html not right
+s-1	html not right
+metformin xr	html not right
+delayed metformin	html not right
+sirolimus	html not right
+lde225	html not right
+folfox/ folfiri with bevacizumab	html not right
+folfoxiri with bevacizumab	html not right
+folfox/ folfiri with panitumumab	html not right
+vitamin d3	html not right
+tirapazamine	html not right
+sevoflurane	html not right
+desflurane	html not right
+mk-3475	html not right
+incb024360	No target
+lyso-thermosensitive liposomal (ltsl) doxorubicin	html not right
+tkm-080301	html not right
+ganciclovir	No target
+adv-tk	html not right
+peprostat	html not right
+oral pentamidine	html not right
+donafenib(200mg)	html not right
+donafenib(300mg)	html not right
+enmd-2076	No target
+ly2157299	No target
+oral chemotherapy	html not right
+cidan capsule	html not right
+stm 434	html not right
+liposomal doxorubicin	html not right
+bbi503	html not right
+bbi608	html not right
+thymalfasin	html not right
+nucleoside analog (suggest to use entecavir)	html not right
+sorafenib	No target
+trametinib	html not right
+pirarubicin,mitomycin and lobaplatin	html not right
+tas-102	No target
+artesunate	No target
+tenofovir disoproxil fumarate	html not right
+pf-04518600	html not right
+pf-04518600 plus pf-05082566	html not right
+decitabine	No target
+omega-3 fatty acid-based parenteral nutrition	html not right
+structolipid	html not right
+egm	html not right
+pva	html not right
+folfoxiri + bevacizumab	html not right
+oxaliplatin plus capecitabine	html not right
+herceptin	html not right
+rsifn-co	html not right
+xihuang capsules	html not right
+resminostat	html not right
+tace plus rad-p53 artery injection	html not right
+jnj-42756493 (erdafitinib)	html not right
+dexanabinol	html not right
+galunisertib	html not right
+5-fluorouracil/leucovorin	html not right
+ramucirumab	html not right
+tace plus sorafenib	html not right
+thalidomine	html not right
+tegafur-uracil	html not right
+raltitrexed-based chemotherapy	html not right
+5-fluorouracil-based chemotherapy	html not right
+adavosertib	html not right
+afatinib	html not right
+binimetinib	html not right
+capivasertib	html not right
+crizotinib	html not right
+dabrafenib	html not right
+defactinib	No target
+fgfr inhibitor azd4547	html not right
+larotrectinib	html not right
+osimertinib	html not right
+palbociclib	html not right
+pi3k-beta inhibitor gsk2636771	html not right
+sapanisertib	html not right
+taselisib	html not right
+vismodegib	html not right
+in111-pentetréotide	html not right
+[18f] fmiso	html not right
+oxaliplatin hai	html not right
+oxaliplatin iv	html not right
+lv5fu2	html not right
+blu-554	No target
+tae plus p53 gene	html not right
+talimogene laherparepvec	html not right
+lee011	No target
+liposomal doxorubicin+gemcitabine	html not right
+oxy111a	html not right
+floxuridine (fudr),dexamethasone (dxm), heparin in combination with oxaliplatin and capecitabine (capeox) or in combination with oxaliplatin and leucovorin and 5-fu (mfolfox6)	html not right
+oxaliplatin and capecitabine (capeox) or oxaliplatin and leucovorin and 5-fu (mfolfox6)	html not right
+gemox	html not right
+cefazolin	html not right
+oxaliplatin and raltitrexed	html not right
+oxaliplatin and fluorouracil	html not right
+medi6469	html not right
+p53 gene therapy	html not right
+trans-catheter embolization	html not right
+ro7070179	html not right
+mln0128	html not right
+mln0128 (rp2d)	html not right
+peginterferon alfa-2a	html not right
+individualized chemotherapy	html not right
+mfolfox6	html not right
+systemic chemotherapy	html not right
+transcatheter arterial chemoembolization	html not right
+s-adenosyl methionine	html not right
+eadm	html not right
+ultra-fluid lipiodol	html not right
+mitomycin (mmc)	html not right
+epirubicin(eadm)	html not right
+enzalutamide with sorafenib	html not right
+enzalutamide	html not right
+donafenib	html not right
+transarterial chemoembolization (tace)	html not right
+smoked plum	html not right
+gum chewing	html not right
+entecavir	No target
+metatinib tromethamine	html not right
+sitagliptin	No target
+recombinant human interleukin-2	html not right
+her2bi-armed t cells	html not right
+rose bengal disodium	html not right
+18f-fluoromisonidazole	html not right
+tai-gpc3-cart cells	html not right
+mtl-cebpa	html not right
+vxm01	html not right
+adjuvant chemotherapy	html not right
+0.9% normal saline	html not right
+iop injection	html not right
+whole liver lobe ctace doxorubicin	html not right
+superselective ctace doxorubicin	html not right
+medi4736	html not right
+epirubicin , pirarubicin , hydroxycamptothecin and fluorouracil	html not right
+tefinostat	html not right
+oxaliplatin(oxa), 5-fluorouracil (5-fu)	html not right
+simeprevir	No target
+daclatasvir	html not right
+ledipasvir	html not right
+sofosbuvir	html not right
+ribavirin	html not right
+apatinib mesylate tablets	html not right
+folfox protocol	html not right
+inc280	html not right
+somatostatin infusion	html not right
+placebo infusion	html not right
+anlotinib	html not right
+entecavir therapy	html not right
+h3b-6527	No target
+ad-p53	html not right
+xeloda	html not right
+keytruda	html not right
+opdivo	html not right
+tace regimen	html not right
+haic regimen	html not right
+oral sorafenib	html not right
+cc-122	No target
+cabozantinib s-malate	html not right
+oxaliplatin intravenous	html not right
+5 fu	html not right
+oxaliplatin intra-arteriel	html not right
+cytoxan	html not right
+acetaminophen	html not right
+peri-operative chemotherapy	html not right
+postoperative chemotherapy	html not right
+yang yin fu zheng therapy	html not right
+routine medical care	html not right
+abc294640	No target
+shr-1210	html not right
+nis793	html not right
+pdr001	html not right
+car-t cell	html not right
+cisplatin and 5-fluorouracil	html not right
+simvastatin	html not right
+best supportive care	html not right
+p03277	html not right
+5-fu, oxaliplatin , leucovorin	html not right
+normal saline	html not right
+pembrolizumab (200 mg)	html not right
+trans-arterial chemoembolization (tace)	html not right
+tace with drug eluting beads procedure	html not right
+genexol-pm	html not right
+5fluorouracil	html not right
+vincristine	html not right
+atorvastatin	html not right
+tilmanocept (technetium tc 99m tilmanocept injection)	html not right
+cetuximab plus folfiri/folfox	html not right
+folfiri/folfox/capeox	html not right
+lipotecan	html not right
+sorafenib (sor)	html not right
+hydroxychloroquine (hcq)	html not right
+arm nai-iri + 5-fu + leucovorin (arm a)	html not right
+arm cisplatin + gemcitabine (arm b)	html not right
+tace drug protocol	html not right
+cbt-501	html not right
+int230-6	html not right
+sf1126	html not right
+celecoxib 200mg oral capsule	html not right
+parecoxib sodium	html not right
+controlled-release oxycodone	html not right
+floxuridine (fudr)	html not right
+irinotecan (cpt-11)	html not right
+folfox4	html not right
+apatinib	No target
+xl888	No target
+kn035	html not right
+bumetanide	No target
+milciclib maleate	html not right
+68gallium citrate	html not right
+gpc3-cart cells	html not right
+drug eluting bead transarterial chemoembolization	html not right
+nivolumab	No target
+incb062079	html not right
+pregabalin 150mg	html not right
+sorafenib 200mg tab	html not right
+folfox regimen	html not right
+oxaliplatin, cetuximab, bevacizumab, panitumumab, irinotecan, leucovorin, 5fluorouracil	html not right
+il-2	html not right
+tegafur	html not right
+celebrex plus metformin	html not right
+celebrex	html not right
+metformin	html not right
+bushen-jianpi dedoction	html not right
+cinobufotalin injection	html not right
+epidoxorubicin and cisplatin and lipiodol	html not right
+mfolfox6 (oxaliplatin, calcium folinate, and 5-fu)	html not right
+c188-9	No target
+perflutren protein-type a microspheres	html not right
+np-g2-044	html not right
+ima970a plus cv8102 and cyclophosphamide	html not right
+recombinant human endostatin	html not right
+urea cream 20%	html not right
+placebos	html not right
+primovist	html not right
+pravastatin pill	html not right
+arq 087	html not right
+cpg dna	html not right
+placebo - concentrate	html not right
+huachansu pian	html not right
+sorafenib tosylate tablets	html not right
+icaritin	html not right
+chiauranib	html not right
+etv；tdf；adv	html not right
+meclizine oral tablet	html not right
+guadecitabine	html not right
+opdivo injectable product or keytruda injectable product	html not right
+atorvastatin 10mg	html not right
+arginine hydrochloride	html not right
+trimetazidine hydrochloride	html not right
+defined green tea catechin extract	html not right
+avelumab (msb0010718c)	html not right
+btg-002814 (vandetanib-eluting radiopaque beads)	html not right
+tremelimumab (regimen 1)	html not right
+tremelimumab (regimen 2)	html not right
+durvalumab (regimen 1)	html not right
+durvalumab (regimen 2)	html not right
+fmiso	html not right
+gns561	html not right
+fate-nk100	html not right
+trastuzumab	No target
+acetylsalicylic acid	html not right
+placebo oral tablet	html not right
+cdx-1140	html not right
+cobimetinib	html not right
+regorafenib(stivarga, bay73-4506)	html not right
+terlipressinum	html not right
+avelumab	html not right
+pembrolizumab	No target
+standard chemotherapy	html not right
+folfoxiri and bevacizumab	html not right
+rintatolimod	html not right
+lumason	html not right
+bgb-a317	html not right
+icosapent ethyl	html not right
+lenvatinib	html not right
+atezolizumab	No target
+pt-112 injection	html not right
+para-toluenesulfonamide	html not right
+shr 1210+apatinib	html not right
+haic of folfox	html not right
+haic of oxa	html not right
+folfox	html not right
+phase 1 : regorafenib	html not right
+phase 1 : avelumab	html not right
+phase 2 : regorafenib	html not right
+phase 2 : avelumab	html not right
+5-fluorouracil	html not right
+aslan001	html not right
+fudr	html not right
+5fu	html not right
+cgx1321	html not right
+nivolumab, ipilimumab	html not right
+vorolanib	html not right
+chemotherapy drugs+iodized oil	html not right
+babaodan oral capsule	html not right
+placebo oral capsule	html not right
+brivanib 800 mg, qd	html not right
+brivanib 400 mg, bid	html not right
+ts-1 combined with cisplatin	html not right
+bavituximab	html not right
+gemcitabine	html not right
+durvalumab	No target
+administration of daa-based treatment	html not right
+nab-paclitaxel	html not right
+tace	html not right
+cvm-1118	html not right
+lutetium lu 177-dotatate	html not right
+atg-008	html not right
+obi-3424	html not right

@@ -1,0 +1,500 @@
+index	patient.bcr_patient_barcode	patient.stage_event.gleason_grading.gleason_score	patient.drugs.drug-1.therapy_types.therapy_type	patient.drugs.drug-2.therapy_types.therapy_type	patient.drugs.drug-3.therapy_types.therapy_type	patient.drugs.drug-4.therapy_types.therapy_type	patient.drugs.drug-5.therapy_types.therapy_type	notes	patient.bcr_patient_barcode	CTBP1	AR
+103	tcga-2a-a8vl	6	NA	NA	NA	NA	NA	low-grade	tcga-2a-a8vl	4872.0494	297.1164
+104	tcga-2a-a8vo	6	NA	NA	NA	NA	NA	low-grade	tcga-2a-a8vo	3501.1747	319.0185
+37	tcga-2a-a8vt	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-2a-a8vt	4249.8309	2750.3676
+105	tcga-2a-a8vv	6	NA	NA	NA	NA	NA	low-grade	tcga-2a-a8vv	4542.3462	215.0841
+106	tcga-2a-a8vx	8	NA	NA	NA	NA	NA	high-grade	tcga-2a-a8vx	4746.4718	171.8101
+107	tcga-2a-a8w1	7	NA	NA	NA	NA	NA	low-grade	tcga-2a-a8w1	3160.4061	608.6649
+108	tcga-2a-a8w3	9	NA	NA	NA	NA	NA	high-grade	tcga-2a-a8w3	4285.9415	1353.5064
+109	tcga-2a-aayf	7	NA	NA	NA	NA	NA	low-grade	tcga-2a-aayf	2645.989	808.5739
+110	tcga-2a-aayo	6	NA	NA	NA	NA	NA	low-grade	tcga-2a-aayo	3863.613	317.7766
+111	tcga-2a-aayu	6	NA	NA	NA	NA	NA	low-grade	tcga-2a-aayu	4484.1938	489.6318
+38	tcga-4l-aa1f	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-4l-aa1f	2699.0559	390.2122
+112	tcga-ch-5737	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5737	2100.6497	848.5452
+113	tcga-ch-5738	6	NA	NA	NA	NA	NA	low-grade	tcga-ch-5738	2715.4687	902.8625
+114	tcga-ch-5739	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5739	2806.4229	1239.6661
+115	tcga-ch-5740	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5740	3384.6692	486.8764
+39	tcga-ch-5741	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-ch-5741	3265.8273	324.3533
+116	tcga-ch-5743	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5743	2433.3932	415.6023
+117	tcga-ch-5744	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5744	4234.9445	783.1715
+118	tcga-ch-5745	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5745	2245.6295	617.1813
+119	tcga-ch-5746	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5746	3280.5397	859.8726
+120	tcga-ch-5748	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5748	2261.7473	1176.397
+121	tcga-ch-5750	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5750	2655.2239	1370.8803
+4	tcga-ch-5751	10	hormone therapy	hormone therapy	ancillary	NA	NA	high-grade	tcga-ch-5751	1814.621	2528.0374
+40	tcga-ch-5752	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-ch-5752	2715.4965	2359.4455
+74	tcga-ch-5753	9	NA	NA	NA	NA	NA	high-grade	tcga-ch-5753	1039.7004	1903.1676
+122	tcga-ch-5754	9	NA	NA	NA	NA	NA	high-grade	tcga-ch-5754	2419.7321	1272.7867
+123	tcga-ch-5761	9	NA	NA	NA	NA	NA	high-grade	tcga-ch-5761	3475.6817	576.9891	value
+124	tcga-ch-5762	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5762	2399.2255	1032.8125
+75	tcga-ch-5763	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5763	1896.7362	766.0947
+76	tcga-ch-5764	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5764	2945.0357	1306.7526
+125	tcga-ch-5765	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5765	2646.0777	923.373
+126	tcga-ch-5766	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5766	2542.7304	952.0193
+127	tcga-ch-5767	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5767	2537.2907	551.3693	value
+128	tcga-ch-5768	6	NA	NA	NA	NA	NA	low-grade	tcga-ch-5768	3524.6124	1004.3993	value
+129	tcga-ch-5769	9	NA	NA	NA	NA	NA	high-grade	tcga-ch-5769	4014.7173	467.9144	value
+130	tcga-ch-5771	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5771	2716.5262	861.2784
+77	tcga-ch-5772	9	NA	NA	NA	NA	NA	high-grade	tcga-ch-5772	1852.6957	1044.2688
+17	tcga-ch-5788	7	hormone therapy	hormone therapy	NA	NA	NA	low-grade	tcga-ch-5788	2966.4646	1730.8802
+131	tcga-ch-5789	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5789	2720.4184	1067.2491
+78	tcga-ch-5790	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5790	3469.7863	911.7417
+79	tcga-ch-5791	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5791	3454.8397	1042.3137
+132	tcga-ch-5792	9	NA	NA	NA	NA	NA	high-grade	tcga-ch-5792	3133.8911	881.6721
+133	tcga-ch-5794	7	NA	NA	NA	NA	NA	low-grade	tcga-ch-5794	4650.3523	758.6527
+134	tcga-ej-5494	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5494	3276.975	1498.5015
+135	tcga-ej-5495	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-5495	2399.5235	1705.8108
+136	tcga-ej-5496	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5496	1674.9377	1096.2644
+137	tcga-ej-5497	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5497	2189.2285	1175.9749
+138	tcga-ej-5498	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5498	2283.0493	1330.6538
+139	tcga-ej-5499	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5499	3250.1509	543.3133
+140	tcga-ej-5501	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5501	4060.6538	1022.0631
+141	tcga-ej-5502	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5502	3082.6316	1021.4647
+143	tcga-ej-5504	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5504	1963.1063	876.7562
+144	tcga-ej-5505	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5505	2041.6036	1177.1429
+145	tcga-ej-5506	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-5506	2661.8365	814.7436
+147	tcga-ej-5508	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5508	2333.743	1460.6399
+148	tcga-ej-5509	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5509	3090.3015	1500.1069
+149	tcga-ej-5510	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5510	3910.1577	998.1402
+150	tcga-ej-5511	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5511	3214.99	1389.1579
+151	tcga-ej-5512	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5512	2767.915	538.8102
+152	tcga-ej-5514	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-5514	1933.9093	1784.4502
+153	tcga-ej-5515	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5515	2235.0744	1057.7566
+154	tcga-ej-5516	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5516	1595.2901	1253.6996
+155	tcga-ej-5517	6	NA	NA	NA	NA	NA	low-grade	tcga-ej-5517	2192.0025	627.5189
+156	tcga-ej-5518	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-5518	2583.6138	1906.4999
+157	tcga-ej-5519	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-5519	3183.4904	1567.2176
+158	tcga-ej-5521	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5521	4605.3016	422.2738
+159	tcga-ej-5522	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5522	2703.1278	1167.24
+160	tcga-ej-5524	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-5524	2381.5623	1082.3573
+161	tcga-ej-5525	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-5525	3033.2266	2177.6522
+162	tcga-ej-5526	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-5526	1496.3955	1170.6745
+163	tcga-ej-5527	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5527	2278.7316	1393.3193
+164	tcga-ej-5530	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5530	3711.4172	1824.8974
+165	tcga-ej-5531	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5531	2804.9318	1406.6382
+166	tcga-ej-5532	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5532	1834.6186	1295.3995
+80	tcga-ej-5542	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-5542	2351.793	1113.5463
+167	tcga-ej-7115	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7115	2563.0608	647.2873	value
+81	tcga-ej-7123	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7123	2492.4222	1187.5	value
+168	tcga-ej-7125	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7125	2317.5865	451.8028	value
+169	tcga-ej-7218	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7218	2674.551	583.5211
+82	tcga-ej-7312	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7312	4209.535	155.882
+170	tcga-ej-7314	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7314	3690.9382	953.9232	value
+171	tcga-ej-7315	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7315	2339.7153	1356.6327	value
+172	tcga-ej-7317	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7317	3076.5623	1238.0783	value
+173	tcga-ej-7318	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7318	5227.7192	101.8552
+174	tcga-ej-7321	6	NA	NA	NA	NA	NA	low-grade	tcga-ej-7321	3584.273	734.6333	value
+83	tcga-ej-7325	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7325	5312.3154	100.1252
+175	tcga-ej-7327	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7327	3403.9951	1771.099	value
+176	tcga-ej-7328	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7328	4523.9649	609.2662	value
+177	tcga-ej-7330	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7330	2511.8925	978.6646	value
+178	tcga-ej-7331	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7331	2642.4749	1346.3711	value
+179	tcga-ej-7781	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7781	2570.9121	1898.3328	value
+180	tcga-ej-7782	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-7782	3547.9555	2163.7982	value
+181	tcga-ej-7783	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7783	2696.1715	2669.7185	value
+182	tcga-ej-7784	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7784	3518.8552	1481.4356	value
+183	tcga-ej-7785	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7785	2694.7857	710.1195	value
+184	tcga-ej-7786	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7786	2807.1576	1797.2252	value
+185	tcga-ej-7788	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7788	4172.5379	1177.3775
+186	tcga-ej-7789	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7789	2555.1677	920.3131	value
+84	tcga-ej-7791	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7791	2918.0292	1441.8712
+187	tcga-ej-7792	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7792	3062.5842	986.261	value
+188	tcga-ej-7793	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7793	3659.7674	1029.9685	value
+189	tcga-ej-7794	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7794	2744.6337	1613.1435	value
+190	tcga-ej-7797	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-7797	3770.5075	745.0182	value
+191	tcga-ej-8468	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-8468	1709.4829	1518.5185
+192	tcga-ej-8469	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-8469	2771.1793	1291.4977
+193	tcga-ej-8470	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-8470	2203.884	997.7806
+194	tcga-ej-8472	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-8472	3315.1855	347.281
+85	tcga-ej-a46b	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a46b	3649.2256	483.5655
+196	tcga-ej-a46d	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a46d	4099.7319	300.1166
+197	tcga-ej-a46e	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a46e	2978.8332	241.3204
+198	tcga-ej-a46f	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a46f	5678.1964	36.6545
+86	tcga-ej-a46g	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a46g	3880.3913	1100
+199	tcga-ej-a46h	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a46h	2750.119	653.3333
+200	tcga-ej-a46i	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a46i	3358.8605	585.9698
+201	tcga-ej-a65b	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-a65b	3947.2355	46.6583
+202	tcga-ej-a65d	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a65d	6310.4081	83.5179
+203	tcga-ej-a65e	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a65e	1695.515	278.2813
+204	tcga-ej-a65f	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-a65f	2639.2872	816.1349
+205	tcga-ej-a65g	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a65g	3167.5622	230.4574
+87	tcga-ej-a65j	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-a65j	2631.5371	846.2867
+206	tcga-ej-a65m	6	NA	NA	NA	NA	NA	low-grade	tcga-ej-a65m	2488.6754	52.4017
+207	tcga-ej-a6ra	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a6ra	3840.4221	128.6432
+88	tcga-ej-a6rc	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a6rc	3731.0636	524.4701
+208	tcga-ej-a7nf	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a7nf	5393.2314	252.7899
+209	tcga-ej-a7ng	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a7ng	3321.3235	459.821
+210	tcga-ej-a7nh	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a7nh	3641.4568	666.6667
+213	tcga-ej-a7nm	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-a7nm	4134.381	254.7895
+214	tcga-ej-a7nn	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a7nn	2094.574	821.7863
+215	tcga-ej-a8fn	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a8fn	3419.3595	458.292
+216	tcga-ej-a8fo	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a8fo	3965.2295	572.2016	value
+217	tcga-ej-a8fp	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a8fp	3492.3095	508.2316
+218	tcga-ej-a8fs	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a8fs	2973.2831	1162.1181
+219	tcga-ej-a8fu	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a8fu	3333.4995	392.283
+220	tcga-ej-ab20	6	NA	NA	NA	NA	NA	low-grade	tcga-ej-ab20	3355.7539	82.9426
+221	tcga-ej-ab27	6	NA	NA	NA	NA	NA	low-grade	tcga-ej-ab27	3604.5504	611.715
+222	tcga-fc-7708	7	NA	NA	NA	NA	NA	low-grade	tcga-fc-7708	3332.4831	830.7786
+223	tcga-fc-7961	9	NA	NA	NA	NA	NA	high-grade	tcga-fc-7961	2333.7527	456.3183
+41	tcga-fc-a4ji	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-fc-a4ji	2857.9088	649.286
+42	tcga-fc-a5ob	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-fc-a5ob	1749.9105	483.9925
+224	tcga-fc-a66v	7	NA	NA	NA	NA	NA	low-grade	tcga-fc-a66v	4714.8993	41.5651
+225	tcga-fc-a6hd	7	NA	NA	NA	NA	NA	low-grade	tcga-fc-a6hd	4190.4908	98.4812
+226	tcga-fc-a8o0	6	NA	NA	NA	NA	NA	low-grade	tcga-fc-a8o0	4631.3881	276.6571
+227	tcga-g9-6329	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6329	3895.9174	141.7792
+228	tcga-g9-6332	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6332	3873.4504	138.2792
+229	tcga-g9-6333	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6333	3636.188	136.2304	value
+230	tcga-g9-6336	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6336	4451.3216	206.3994
+231	tcga-g9-6338	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6338	3629.7548	150.3198
+232	tcga-g9-6339	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6339	5503.645	62.6106
+233	tcga-g9-6342	6	NA	NA	NA	NA	NA	low-grade	tcga-g9-6342	3960.178	340.7811	value
+234	tcga-g9-6343	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6343	3272.0364	183.7386
+235	tcga-g9-6347	6	NA	NA	NA	NA	NA	low-grade	tcga-g9-6347	4289.932	14.3005
+236	tcga-g9-6348	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6348	4268.0115	131.284	value
+237	tcga-g9-6351	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6351	3859.2535	234.4032	value
+238	tcga-g9-6353	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6353	4847.9882	420.1183
+239	tcga-g9-6354	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6354	4066.7918	43.7998
+240	tcga-g9-6356	9	NA	NA	NA	NA	NA	high-grade	tcga-g9-6356	3861.5303	456.7948	value
+241	tcga-g9-6361	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6361	4435.276	204.3489
+242	tcga-g9-6362	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6362	6082.8128	83.0744	value
+243	tcga-g9-6363	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6363	3732.273	347.4328	value
+244	tcga-g9-6365	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6365	4134.0399	192.3379	value
+245	tcga-g9-6366	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6366	3782.1069	476.1447
+246	tcga-g9-6367	9	NA	NA	NA	NA	NA	high-grade	tcga-g9-6367	3823.1999	551.305
+247	tcga-g9-6369	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6369	5420.4523	162.3423
+248	tcga-g9-6370	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6370	2945.6612	627.2984
+249	tcga-g9-6371	6	NA	NA	NA	NA	NA	low-grade	tcga-g9-6371	3708.1394	451.8412
+250	tcga-g9-6373	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6373	5056.364	168.1799
+251	tcga-g9-6377	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6377	3902.455	294.2279
+252	tcga-g9-6378	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6378	3199.5791	245.9988
+253	tcga-g9-6379	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6379	4648.729	26.5637
+254	tcga-g9-6384	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6384	3321.2254	1278.7392	value
+255	tcga-g9-6385	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6385	3886.3057	460.0142
+256	tcga-g9-6494	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6494	3632.6057	635.6176
+257	tcga-g9-6496	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6496	4043.6063	153.7356	value
+258	tcga-g9-6498	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6498	4250.1176	115.6043
+259	tcga-g9-6499	9	NA	NA	NA	NA	NA	high-grade	tcga-g9-6499	4105.3813	171.7249	value
+260	tcga-g9-7509	6	NA	NA	NA	NA	NA	low-grade	tcga-g9-7509	3554.5633	486.5285
+261	tcga-g9-7510	8	NA	NA	NA	NA	NA	high-grade	tcga-g9-7510	2876.2824	567.0337
+262	tcga-g9-7519	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-7519	2830.3786	261.5325
+11	tcga-g9-7521	8	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade	tcga-g9-7521	2459.1317	1305.1219
+263	tcga-g9-7522	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-7522	3289.4461	567.5413
+264	tcga-g9-7523	10	NA	NA	NA	NA	NA	high-grade	tcga-g9-7523	2654.081	214.6184
+265	tcga-g9-7525	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-7525	4924.0105	237.1677
+5	tcga-g9-a9s0	8	hormone therapy	hormone therapy	chemotherapy	chemotherapy	NA	high-grade	tcga-g9-a9s0	4263.9803	160
+43	tcga-g9-a9s4	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-g9-a9s4	7255.7669	250.2142
+266	tcga-g9-a9s7	8	NA	NA	NA	NA	NA	high-grade	tcga-g9-a9s7	5480.3962	157.2712
+267	tcga-h9-7775	7	NA	NA	NA	NA	NA	low-grade	tcga-h9-7775	3590.8432	853.6606
+268	tcga-h9-a6bx	6	NA	NA	NA	NA	NA	low-grade	tcga-h9-a6bx	3436.017	231.9546
+269	tcga-h9-a6by	7	NA	NA	NA	NA	NA	low-grade	tcga-h9-a6by	5891.3462	42.0406
+270	tcga-hc-7075	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-7075	3893.7555	943.9828
+271	tcga-hc-7077	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-7077	4052.3287	752.6965
+272	tcga-hc-7078	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7078	2842.1182	808.7527
+273	tcga-hc-7079	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7079	2871.874	406.0995
+274	tcga-hc-7080	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7080	3561.4694	714.8311
+275	tcga-hc-7081	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-7081	3425.9336	2238.732
+276	tcga-hc-7209	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-7209	3614.5838	1159.8916
+277	tcga-hc-7210	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7210	2264.3882	1611.6114
+278	tcga-hc-7211	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7211	3384.1195	638.4017	value
+279	tcga-hc-7212	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7212	2515.103	1997.0875
+280	tcga-hc-7213	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-7213	4348.1232	498.9316
+281	tcga-hc-7230	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7230	3873.8945	1260.5812
+282	tcga-hc-7231	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7231	3722.9073	900.7965
+283	tcga-hc-7232	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-7232	3336.7875	1004.5421
+90	tcga-hc-7233	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7233	3049.8528	1268.3529
+284	tcga-hc-7736	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7736	2777.8695	1241.4519
+285	tcga-hc-7737	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7737	2664.574	1208.8248	value
+286	tcga-hc-7738	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7738	2749.107	972.231	value
+287	tcga-hc-7740	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7740	2899.7973	760.1351	value
+44	tcga-hc-7742	7	hormone therapy	NA	NA	NA	NA	low-grade	tcga-hc-7742	3275.2609	926.0248	value
+288	tcga-hc-7744	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7744	4495.6335	1426.639
+289	tcga-hc-7745	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7745	3491.5984	676.6598	value
+290	tcga-hc-7747	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7747	4115.9917	300	value
+91	tcga-hc-7748	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-7748	3129.7785	2584.4079
+291	tcga-hc-7749	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7749	3068.2224	1596.3699
+292	tcga-hc-7750	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7750	3174.6814	638.5088
+293	tcga-hc-7752	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7752	5861.957	234.9889	value
+294	tcga-hc-7817	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7817	2973.5329	208.199
+295	tcga-hc-7818	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7818	3527.6634	981.5182
+296	tcga-hc-7819	8	NA	NA	NA	NA	NA	high-grade	tcga-hc-7819	3697.3461	865.7744	value
+297	tcga-hc-7820	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-7820	4393.9194	841.0423
+92	tcga-hc-7821	8	NA	NA	NA	NA	NA	high-grade	tcga-hc-7821	2487.7668	1410.029
+298	tcga-hc-8212	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-8212	
+299	tcga-hc-8213	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-8213	3714.4725	318.9698
+300	tcga-hc-8216	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-8216	3076.6977	293.9789
+301	tcga-hc-8256	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-8256	2493.6924	903.0597
+45	tcga-hc-8257	7	hormone therapy	NA	NA	NA	NA	low-grade	tcga-hc-8257	4836	702.9204
+302	tcga-hc-8258	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-8258	2861.3147	958.3647	value
+303	tcga-hc-8259	6	NA	NA	NA	NA	NA	low-grade	tcga-hc-8259	3708.8243	599.0486	value
+304	tcga-hc-8260	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-8260	3356.4972	603.2309	value
+305	tcga-hc-8261	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-8261	2215.3743	769.7225
+306	tcga-hc-8262	8	NA	NA	NA	NA	NA	high-grade	tcga-hc-8262	3746.0809	598.509	value
+307	tcga-hc-8264	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-8264	2241.2037	1283.4967
+308	tcga-hc-8265	8	NA	NA	NA	NA	NA	high-grade	tcga-hc-8265	6154.0636	417.7844
+309	tcga-hc-8266	8	NA	NA	NA	NA	NA	high-grade	tcga-hc-8266	2563.3608	493.7255
+46	tcga-hc-a48f	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-hc-a48f	2678.6639	595.0207
+310	tcga-hc-a4zv	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-a4zv	3263.7769	1582.1206
+311	tcga-hc-a631	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-a631	4234.2012	353.3619
+312	tcga-hc-a632	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-a632	3891.9842	192.4302
+313	tcga-hc-a6al	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6al	4351.5856	83.4657
+314	tcga-hc-a6an	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6an	4294.879	56.6005
+315	tcga-hc-a6ao	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6ao	2822.5153	53.2223
+316	tcga-hc-a6ap	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6ap	3239.8121	39.0173
+93	tcga-hc-a6aq	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6aq	5575.3166	47.1281
+317	tcga-hc-a6as	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6as	4808.9498	58.159
+318	tcga-hc-a6hx	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6hx	4142.8809	37.5536
+319	tcga-hc-a6hy	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a6hy	5407.8197	77.1823
+94	tcga-hc-a76w	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a76w	3409.9714	549.8331
+320	tcga-hc-a76x	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a76x	3976.3876	575.0598
+321	tcga-hc-a8cy	9	NA	NA	NA	NA	NA	high-grade	tcga-hc-a8cy	3408.9296	673.5039
+322	tcga-hc-a8d0	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a8d0	4153.2905	285.7978
+323	tcga-hc-a8d1	7	NA	NA	NA	NA	NA	low-grade	tcga-hc-a8d1	3592.9441	576.8463
+47	tcga-hc-a9te	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-hc-a9te	4705.7593	356.1728
+48	tcga-hc-a9th	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-hc-a9th	3752.8662	634.5162
+12	tcga-hi-7168	9	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade	tcga-hi-7168	4270.2486	290.0552
+324	tcga-hi-7169	7	NA	NA	NA	NA	NA	low-grade	tcga-hi-7169	4645.7193	93.5569
+325	tcga-hi-7170	6	NA	NA	NA	NA	NA	low-grade	tcga-hi-7170	3788.3343	306.0745
+7	tcga-hi-7171	9	hormone therapy	hormone therapy	hormone therapy	hormone therapy	NA	high-grade	tcga-hi-7171	5313.6156	540.4619
+326	tcga-j4-8198	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-8198	3033.4441	997.8455
+327	tcga-j4-8200	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-8200	2664.4623	357.4129
+328	tcga-j4-a67k	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67k	5842.1371	61.5616
+329	tcga-j4-a67l	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67l	4576.6764	41.5973
+330	tcga-j4-a67m	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67m	4529.7983	30.2499
+331	tcga-j4-a67n	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67n	6202.8148	71.9577
+332	tcga-j4-a67o	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67o	4496.4999	15.2179
+333	tcga-j4-a67q	6	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67q	4856.6512	20.557
+334	tcga-j4-a67r	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67r	4754.8739	29.5223
+335	tcga-j4-a67s	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67s	5843.8262	32.318
+336	tcga-j4-a67t	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a67t	3582.1551	391.174
+337	tcga-j4-a6g1	8	NA	NA	NA	NA	NA	high-grade	tcga-j4-a6g1	3340.8233	197.7629
+49	tcga-j4-a6g3	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-j4-a6g3	2272.846	375.8653
+338	tcga-j4-a6m7	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a6m7	4190.0362	493.4918
+339	tcga-j4-a83i	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a83i	3560.2877	744.6962
+340	tcga-j4-a83j	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a83j	3502.3214	370.7296	value
+341	tcga-j4-a83k	6	NA	NA	NA	NA	NA	low-grade	tcga-j4-a83k	4547.9808	503.1864
+342	tcga-j4-a83l	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a83l	3340.6479	555.4307
+343	tcga-j4-a83m	7	NA	NA	NA	NA	NA	low-grade	tcga-j4-a83m	4751.9477	542.0226
+2	tcga-j4-a83n	7	chemotherapy	NA	NA	NA	NA	low-grade	tcga-j4-a83n	3168.3267	267.2328
+344	tcga-j4-aatv	6	NA	NA	NA	NA	NA	low-grade	tcga-j4-aatv	3369.7719	323.6164
+50	tcga-j4-aatz	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-j4-aatz	3258.3337	1536.035
+345	tcga-j4-aau2	6	NA	NA	NA	NA	NA	low-grade	tcga-j4-aau2	3304.9892	505.332
+51	tcga-j9-a52b	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-j9-a52b	6200.3772	206.9204
+346	tcga-j9-a52c	9	NA	NA	NA	NA	NA	high-grade	tcga-j9-a52c	3314.0157	45.1275
+347	tcga-j9-a52d	9	NA	NA	NA	NA	NA	high-grade	tcga-j9-a52d	3138.3724	902.9885
+52	tcga-j9-a52e	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-j9-a52e	4860.9045	101.6532
+348	tcga-j9-a8ck	9	NA	NA	NA	NA	NA	high-grade	tcga-j9-a8ck	4236.7532	155.6831
+349	tcga-j9-a8cl	9	NA	NA	NA	NA	NA	high-grade	tcga-j9-a8cl	4349.1368	729.8206
+350	tcga-j9-a8cm	9	NA	NA	NA	NA	NA	high-grade	tcga-j9-a8cm	4829.7487	267.9868
+95	tcga-j9-a8cn	6	NA	NA	NA	NA	NA	low-grade	tcga-j9-a8cn	1890.8045	466.4804
+351	tcga-j9-a8cp	7	NA	NA	NA	NA	NA	low-grade	tcga-j9-a8cp	3251.2996	320.1862
+352	tcga-kc-a4bl	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a4bl	3187.0809	625.5319
+353	tcga-kc-a4bn	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a4bn	3310.2438	540.3786
+354	tcga-kc-a4bo	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a4bo	
+53	tcga-kc-a4br	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kc-a4br	3742.4382	429.6578
+355	tcga-kc-a4bv	9	NA	NA	NA	NA	NA	high-grade	tcga-kc-a4bv	3618.7823	473.2723
+356	tcga-kc-a7f3	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a7f3	3051.0712	275.3429
+357	tcga-kc-a7f5	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a7f5	3079.1385	140.7638
+358	tcga-kc-a7f6	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a7f6	5431.4581	231.8909
+96	tcga-kc-a7fa	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a7fa	4762.573	246.4127
+359	tcga-kc-a7fd	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a7fd	4179.2749	516.7046
+360	tcga-kc-a7fe	7	NA	NA	NA	NA	NA	low-grade	tcga-kc-a7fe	3199.2117	381.4468
+361	tcga-kk-a59v	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a59v	4148.475	76.9328
+3	tcga-kk-a59x	9	hormone therapy	chemotherapy	chemotherapy	hormone therapy	NA	high-grade	tcga-kk-a59x	1864.3773	221.5156
+54	tcga-kk-a59y	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kk-a59y	5516.8487	103.8204
+362	tcga-kk-a59z	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a59z	1642.4797	442.6419
+363	tcga-kk-a5a1	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a5a1	2017.469	264.9827
+364	tcga-kk-a6dy	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a6dy	3257.7204	348.4414
+13	tcga-kk-a6e0	9	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade	tcga-kk-a6e0	2465.2606	304.3243
+55	tcga-kk-a6e1	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kk-a6e1	2938.165	785.8383
+365	tcga-kk-a6e2	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a6e2	3455.6138	646.1415
+366	tcga-kk-a6e3	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a6e3	4183.2189	39.6391
+367	tcga-kk-a6e4	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a6e4	6054.632	48.078
+368	tcga-kk-a6e5	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a6e5	3684.8677	251.6698
+369	tcga-kk-a6e6	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a6e6	4468.3971	242.2332
+370	tcga-kk-a6e7	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a6e7	2250.288	156.5532
+371	tcga-kk-a6e8	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a6e8	1749.1851	105.1308
+97	tcga-kk-a7ap	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a7ap	3306.1446	526.2846
+18	tcga-kk-a7aq	7	hormone therapy	hormone therapy	NA	NA	NA	low-grade	tcga-kk-a7aq	4119.0095	144.7242
+14	tcga-kk-a7au	9	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade	tcga-kk-a7au	4098.8851	400.8343
+372	tcga-kk-a7av	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a7av	3498.8427	233.5613
+373	tcga-kk-a7aw	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a7aw	4062.362	58.8235
+374	tcga-kk-a7ay	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a7ay	4450.8466	43.7196
+375	tcga-kk-a7az	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a7az	6472.3589	286.5045
+56	tcga-kk-a7b0	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kk-a7b0	3632.0245	45.7264
+376	tcga-kk-a7b1	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a7b1	4189.7356	526.7857
+377	tcga-kk-a7b2	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a7b2	3714.1516	76.0235
+98	tcga-kk-a7b3	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a7b3	5015.5198	206.7511
+16	tcga-kk-a7b4	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-kk-a7b4	4387.8793	560.0949
+19	tcga-kk-a8i4	7	hormone therapy	hormone therapy	NA	NA	NA	low-grade	tcga-kk-a8i4	5342.7439	226.2961
+378	tcga-kk-a8i5	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8i5	3822.5874	273.7766
+379	tcga-kk-a8i6	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8i6	4131.4479	400.3861
+20	tcga-kk-a8i7	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-kk-a8i7	3158.0544	564.8285
+380	tcga-kk-a8i8	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a8i8	5253.082	473.7705
+57	tcga-kk-a8i9	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kk-a8i9	3203.7346	302.7027
+58	tcga-kk-a8ia	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kk-a8ia	4407.8902	544.4254
+99	tcga-kk-a8ib	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a8ib	3289.3668	130.343
+21	tcga-kk-a8ic	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-kk-a8ic	3377.577	583.3959
+59	tcga-kk-a8id	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-kk-a8id	2523.5353	1066.5604
+381	tcga-kk-a8if	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8if	3776.6429	366.1698
+382	tcga-kk-a8ig	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8ig	2456.5813	469.4581
+383	tcga-kk-a8ih	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8ih	3659.1427	196.919
+6	tcga-kk-a8ii	9	hormone therapy	hormone therapy	hormone therapy	chemotherapy	chemotherapy	high-grade	tcga-kk-a8ii	4451.2123	738.3728
+384	tcga-kk-a8ij	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8ij	2123.7132	675.5077
+385	tcga-kk-a8ik	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a8ik	3300.1783	247.3538
+386	tcga-kk-a8il	9	NA	NA	NA	NA	NA	high-grade	tcga-kk-a8il	3839.3226	252.131
+387	tcga-kk-a8im	7	NA	NA	NA	NA	NA	low-grade	tcga-kk-a8im	2981.7086	532.4962
+388	tcga-m7-a71y	7	NA	NA	NA	NA	NA	low-grade	tcga-m7-a71y	3505.5066	173.4402
+389	tcga-m7-a71z	7	NA	NA	NA	NA	NA	low-grade	tcga-m7-a71z	6723.3401	145.2429
+390	tcga-m7-a720	6	NA	NA	NA	NA	NA	low-grade	tcga-m7-a720	3399.3282	378.3784
+391	tcga-m7-a721	7	NA	NA	NA	NA	NA	low-grade	tcga-m7-a721	3431.4321	524.5981
+392	tcga-m7-a722	8	NA	NA	NA	NA	NA	high-grade	tcga-m7-a722	2537.6116	80.0173
+22	tcga-m7-a723	7	hormone therapy	hormone therapy	NA	NA	NA	low-grade	tcga-m7-a723	3082.6551	34.1386
+60	tcga-m7-a724	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-m7-a724	7537.8961	147.0504
+393	tcga-m7-a725	7	NA	NA	NA	NA	NA	low-grade	tcga-m7-a725	3773.7709	712.3747
+394	tcga-mg-aamc	9	NA	NA	NA	NA	NA	high-grade	tcga-mg-aamc	4189.4771	145.7516
+395	tcga-qu-a6il	7	NA	NA	NA	NA	NA	low-grade	tcga-qu-a6il	3640.3117	13.5501
+100	tcga-qu-a6im	7	NA	NA	NA	NA	NA	low-grade	tcga-qu-a6im	3704.8357	29.6343
+396	tcga-qu-a6in	7	NA	NA	NA	NA	NA	low-grade	tcga-qu-a6in	6393.7452	33.3516
+397	tcga-qu-a6io	6	NA	NA	NA	NA	NA	low-grade	tcga-qu-a6io	3210.1564	27.4725
+398	tcga-qu-a6ip	6	NA	NA	NA	NA	NA	low-grade	tcga-qu-a6ip	4519.5299	180.2155
+399	tcga-su-a7e7	8	NA	NA	NA	NA	NA	high-grade	tcga-su-a7e7	3671.0708	815.9292
+400	tcga-tk-a8ok	7	NA	NA	NA	NA	NA	low-grade	tcga-tk-a8ok	2796.5589	551.8158
+401	tcga-tp-a8tt	7	NA	NA	NA	NA	NA	low-grade	tcga-tp-a8tt	3518.0766	601.5038
+402	tcga-tp-a8tv	7	NA	NA	NA	NA	NA	low-grade	tcga-tp-a8tv	2964.1954	803.0976
+403	tcga-v1-a8mf	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8mf	2625.6246	346.9256
+404	tcga-v1-a8mg	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8mg	3086.6622	654.2056
+405	tcga-v1-a8mj	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8mj	3593.1232	448.5747
+406	tcga-v1-a8mk	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8mk	3524.2401	355.3063
+407	tcga-v1-a8ml	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8ml	2958.6526	262.1652
+408	tcga-v1-a8mm	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8mm	4283.4249	70.1668
+61	tcga-v1-a8mu	7	hormone therapy	NA	NA	NA	NA	low-grade	tcga-v1-a8mu	3310.4224	175.6051
+409	tcga-v1-a8wl	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8wl	3652.2776	270.4327
+410	tcga-v1-a8wn	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8wn	3093.0392	1013.9215
+411	tcga-v1-a8ws	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8ws	4895.4016	419.3548
+62	tcga-v1-a8wv	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-v1-a8wv	5266.6126	159.0264
+63	tcga-v1-a8ww	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-v1-a8ww	3257.6741	430.4539
+412	tcga-v1-a8x3	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a8x3	2927.9285	863.1194
+64	tcga-v1-a9o5	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-v1-a9o5	4178.1289	998.4507	value
+413	tcga-v1-a9o7	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9o7	2820.9406	614.2358
+414	tcga-v1-a9o9	8	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9o9	3886.406	581.6482
+415	tcga-v1-a9oa	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9oa	2946.0083	348.0663
+416	tcga-v1-a9of	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a9of	2955.9999	764.1265
+417	tcga-v1-a9oh	8	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9oh	3271.6111	261.6596
+418	tcga-v1-a9ol	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9ol	3559.0175	870.1754
+419	tcga-v1-a9oq	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a9oq	3754.0898	102.0859
+420	tcga-v1-a9ot	6	NA	NA	NA	NA	NA	low-grade	tcga-v1-a9ot	6278.8298	77.7926
+421	tcga-v1-a9ox	8	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9ox	3151.5976	124.0734
+422	tcga-v1-a9oy	7	NA	NA	NA	NA	NA	low-grade	tcga-v1-a9oy	4055.7942	232.6128
+423	tcga-v1-a9z7	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9z7	4486.0198	574.9249
+424	tcga-v1-a9z8	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9z8	3559.3294	150.8924
+425	tcga-v1-a9z9	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9z9	2851.9294	359.4267
+426	tcga-v1-a9zg	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9zg	3393.0814	711.6654
+427	tcga-v1-a9zi	9	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9zi	5364.9393	149.0468
+428	tcga-v1-a9zk	8	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9zk	2521.7892	851.0485
+429	tcga-v1-a9zr	8	NA	NA	NA	NA	NA	high-grade	tcga-v1-a9zr	4113.2818	874.9308
+430	tcga-vn-a88i	8	NA	NA	NA	NA	NA	high-grade	tcga-vn-a88i	3227.069	127.0115
+65	tcga-vn-a88k	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-vn-a88k	4148.1551	804.85
+431	tcga-vn-a88l	7	NA	NA	NA	NA	NA	low-grade	tcga-vn-a88l	4674.6566	163.8311
+432	tcga-vn-a88m	7	NA	NA	NA	NA	NA	low-grade	tcga-vn-a88m	5645.4933	91.6521
+433	tcga-vn-a88n	7	NA	NA	NA	NA	NA	low-grade	tcga-vn-a88n	4151.8811	158.4253
+434	tcga-vn-a88o	7	NA	NA	NA	NA	NA	low-grade	tcga-vn-a88o	2672.1048	367.3986
+435	tcga-vn-a88p	7	NA	NA	NA	NA	NA	low-grade	tcga-vn-a88p	4146.2364	411.3152
+436	tcga-vn-a88q	8	NA	NA	NA	NA	NA	high-grade	tcga-vn-a88q	5130.991	417.1946
+23	tcga-vn-a88r	8	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-vn-a88r	2517.301	258.4779
+437	tcga-vn-a943	8	NA	NA	NA	NA	NA	high-grade	tcga-vn-a943	1975.5767	601.2556
+438	tcga-vp-a872	8	NA	NA	NA	NA	NA	high-grade	tcga-vp-a872	4318.3609	106.6905
+439	tcga-vp-a875	7	NA	NA	NA	NA	NA	low-grade	tcga-vp-a875	4303.0949	481.7518
+440	tcga-vp-a876	8	NA	NA	NA	NA	NA	high-grade	tcga-vp-a876	4362.4643	356.706
+24	tcga-vp-a878	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-vp-a878	3649.6085	344.6809
+441	tcga-vp-a879	9	NA	NA	NA	NA	NA	high-grade	tcga-vp-a879	4096.6365	616.8288
+66	tcga-vp-a87b	8	hormone therapy	NA	NA	NA	NA	high-grade	tcga-vp-a87b	2650.4027	979.3065
+442	tcga-vp-a87c	7	NA	NA	NA	NA	NA	low-grade	tcga-vp-a87c	3674.0078	548.0238
+1	tcga-vp-a87d	9	chemotherapy	hormone therapy	hormone therapy	NA	NA	high-grade	tcga-vp-a87d	2837.1853	880.5748
+443	tcga-vp-a87e	6	NA	NA	NA	NA	NA	low-grade	tcga-vp-a87e	3703.5586	394.3305
+444	tcga-vp-a87h	9	NA	NA	NA	NA	NA	high-grade	tcga-vp-a87h	3239.2168	522.1315
+445	tcga-vp-a87j	7	NA	NA	NA	NA	NA	low-grade	tcga-vp-a87j	3639.6781	1022.0808
+446	tcga-vp-a87k	8	NA	NA	NA	NA	NA	high-grade	tcga-vp-a87k	4716.2378	691.9174
+447	tcga-vp-aa1n	9	NA	NA	NA	NA	NA	high-grade	tcga-vp-aa1n	3727.1436	99.6302
+448	tcga-ww-a8zi	8	NA	NA	NA	NA	NA	high-grade	tcga-ww-a8zi	4221.327	561.2035
+67	tcga-x4-a8kq	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-x4-a8kq	4556.5526	82.3146
+449	tcga-x4-a8ks	7	NA	NA	NA	NA	NA	low-grade	tcga-x4-a8ks	3162.7626	64.5161
+450	tcga-xa-a8jr	7	NA	NA	NA	NA	NA	low-grade	tcga-xa-a8jr	3566.4984	437.025
+451	tcga-xj-a83f	7	NA	NA	NA	NA	NA	low-grade	tcga-xj-a83f	5245.0593	104.2419
+452	tcga-xj-a83g	7	NA	NA	NA	NA	NA	low-grade	tcga-xj-a83g	3409.0161	147.1456
+453	tcga-xj-a83h	7	NA	NA	NA	NA	NA	low-grade	tcga-xj-a83h	2450.4717	557.2327
+15	tcga-xj-a9di	9	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade	tcga-xj-a9di	3208.2298	521.2714
+454	tcga-xj-a9dk	8	NA	NA	NA	NA	NA	high-grade	tcga-xj-a9dk	3521.6824	254.2353
+455	tcga-xj-a9dq	6	NA	NA	NA	NA	NA	low-grade	tcga-xj-a9dq	4013.0085	104.988
+25	tcga-xj-a9dx	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-xj-a9dx	3185.59	215.8309
+456	tcga-xk-aair	8	NA	NA	NA	NA	NA	high-grade	tcga-xk-aair	2001.6502	1340.6723
+26	tcga-xk-aaiv	10	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-xk-aaiv	2934.2784	734.9804
+457	tcga-xk-aaiw	9	NA	NA	NA	NA	NA	high-grade	tcga-xk-aaiw	4058.372	1184.6207
+101	tcga-xk-aaj3	8	NA	NA	NA	NA	NA	high-grade	tcga-xk-aaj3	2796.2959	947.3191
+458	tcga-xk-aaja	7	NA	NA	NA	NA	NA	low-grade	tcga-xk-aaja	4189.6951	371.1808
+459	tcga-xk-aajp	7	NA	NA	NA	NA	NA	low-grade	tcga-xk-aajp	2052.4548	818.6966
+460	tcga-xk-aajr	7	NA	NA	NA	NA	NA	low-grade	tcga-xk-aajr	3047.1596	625.6312
+461	tcga-xk-aajt	7	NA	NA	NA	NA	NA	low-grade	tcga-xk-aajt	2954.315	192.9171
+462	tcga-xk-aaju	7	NA	NA	NA	NA	NA	low-grade	tcga-xk-aaju	3478.7011	392.6564
+102	tcga-xk-aak1	7	NA	NA	NA	NA	NA	low-grade	tcga-xk-aak1	2934.2362	204.3112
+463	tcga-xq-a8ta	10	NA	NA	NA	NA	NA	high-grade	tcga-xq-a8ta	3894.094	4759.2573
+464	tcga-xq-a8tb	9	NA	NA	NA	NA	NA	high-grade	tcga-xq-a8tb	3673.4837	638.2881
+465	tcga-y6-a8tl	6	NA	NA	NA	NA	NA	low-grade	tcga-y6-a8tl	3045.6677	415.8745
+466	tcga-y6-a9xi	8	NA	NA	NA	NA	NA	high-grade	tcga-y6-a9xi	3636.1742	961.7706
+467	tcga-yj-a8sw	9	NA	NA	NA	NA	NA	high-grade	tcga-yj-a8sw	1661.8094	1739.9281
+27	tcga-yl-a8hj	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8hj	3362.5402	610.4331
+28	tcga-yl-a8hk	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8hk	2509.3472	781.7538
+29	tcga-yl-a8hl	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8hl	4120.0042	1293.378
+30	tcga-yl-a8hm	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8hm	2088.1641	644.0116
+468	tcga-yl-a8ho	7	NA	NA	NA	NA	NA	low-grade	tcga-yl-a8ho	3013.121	364.7944
+469	tcga-yl-a8s8	9	NA	NA	NA	NA	NA	high-grade	tcga-yl-a8s8	2530.0785	1086.5312
+470	tcga-yl-a8s9	9	NA	NA	NA	NA	NA	high-grade	tcga-yl-a8s9	2259.3431	1034.663
+471	tcga-yl-a8sa	8	NA	NA	NA	NA	NA	high-grade	tcga-yl-a8sa	4719.6215	463.2814
+8	tcga-yl-a8sb	9	hormone therapy	hormone therapy	hormone therapy	hormone therapy	NA	high-grade	tcga-yl-a8sb	3449.117	553.513
+31	tcga-yl-a8sc	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8sc	3599.5824	1769.6391
+472	tcga-yl-a8sf	8	NA	NA	NA	NA	NA	high-grade	tcga-yl-a8sf	4925.2737	383.9627
+473	tcga-yl-a8sh	7	NA	NA	NA	NA	NA	low-grade	tcga-yl-a8sh	2041.1628	281.1839
+68	tcga-yl-a8si	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-yl-a8si	3167.9324	640.7369
+474	tcga-yl-a8sj	9	NA	NA	NA	NA	NA	high-grade	tcga-yl-a8sj	4306.3295	592.0414
+69	tcga-yl-a8sk	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-yl-a8sk	3418.2582	305.8925
+32	tcga-yl-a8sl	8	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8sl	2718.9713	750.878
+33	tcga-yl-a8so	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8so	3539.12	258.6667
+9	tcga-yl-a8sp	9	hormone therapy	hormone therapy	hormone therapy	hormone therapy	NA	high-grade	tcga-yl-a8sp	3986.0643	1325.4338
+34	tcga-yl-a8sq	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a8sq	3658.6868	750
+475	tcga-yl-a8sr	9	NA	NA	NA	NA	NA	high-grade	tcga-yl-a8sr	3098.2316	521.3362
+35	tcga-yl-a9wh	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a9wh	2908.2987	535.3485
+476	tcga-yl-a9wi	9	NA	NA	NA	NA	NA	high-grade	tcga-yl-a9wi	3867.0536	1301.033
+477	tcga-yl-a9wj	8	NA	NA	NA	NA	NA	high-grade	tcga-yl-a9wj	2965.8396	933.7427
+10	tcga-yl-a9wk	9	hormone therapy	hormone therapy	hormone therapy	hormone therapy	NA	high-grade	tcga-yl-a9wk	3525.9058	345.8371
+70	tcga-yl-a9wl	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-yl-a9wl	5969.2076	829.6056
+478	tcga-yl-a9wx	9	NA	NA	NA	NA	NA	high-grade	tcga-yl-a9wx	3151.0182	641.7392
+36	tcga-yl-a9wy	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade	tcga-yl-a9wy	3440.6148	380.5251
+479	tcga-zg-a8qw	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a8qw	3776.8935	186.3154
+480	tcga-zg-a8qx	6	NA	NA	NA	NA	NA	low-grade	tcga-zg-a8qx	2572.2983	252.6477
+481	tcga-zg-a8qy	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a8qy	2660.415	349.2364
+71	tcga-zg-a8qz	9	hormone therapy	NA	NA	NA	NA	high-grade	tcga-zg-a8qz	3938.1472	347.4919
+482	tcga-zg-a9ky	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9ky	5877.161	1496.5944
+483	tcga-zg-a9l0	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l0	2882.1358	495.5709
+484	tcga-zg-a9l1	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l1	2825.9364	592.013
+485	tcga-zg-a9l2	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l2	4055.4477	268.497
+486	tcga-zg-a9l4	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l4	2895.997	313.0176
+487	tcga-zg-a9l5	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l5	1946.6106	1042.7954
+488	tcga-zg-a9l6	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l6	2963.4938	456.587
+489	tcga-zg-a9l9	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9l9	4130.3042	53.961
+490	tcga-zg-a9lb	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9lb	4116.4646	137.741
+491	tcga-zg-a9lm	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9lm	3526.9596	132.4965
+72	tcga-zg-a9ln	9	hormone therapy	NA	NA	NA	NA	被剔除，原因不明	tcga-zg-a9ln	2893.3432	92.2058
+492	tcga-zg-a9ls	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9ls	3262.7958	137.7634
+493	tcga-zg-a9lu	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9lu	3562.7219	105.4862
+494	tcga-zg-a9ly	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9ly	2351.5961	307.3666
+495	tcga-zg-a9lz	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9lz	3618.6624	389.3443
+496	tcga-zg-a9m4	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9m4	4722.909	809.4831
+497	tcga-zg-a9mc	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9mc	3393.3984	824.3243
+73	tcga-zg-a9n3	9	hormone therapy	NA	NA	NA	NA	被剔除，原因不明	tcga-zg-a9n3	2703.9813	395.5066
+498	tcga-zg-a9nd	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9nd	2254.1518	414.3178
+499	tcga-zg-a9ni	9	NA	NA	NA	NA	NA	high-grade	tcga-zg-a9ni	3391.3684	123.2443
+142	tcga-ej-5503	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-5503	3536.9454	935.867
+146	tcga-ej-5507	9	NA	NA	NA	NA	NA	high-grade	tcga-ej-5507	3574.8159	666.0406
+195	tcga-ej-8474	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-8474	3578.8207	341.6014
+211	tcga-ej-a7nj	8	NA	NA	NA	NA	NA	high-grade	tcga-ej-a7nj	3512.1845	717.0268
+212	tcga-ej-a7nk	7	NA	NA	NA	NA	NA	low-grade	tcga-ej-a7nk	3595.5348	440.2943
+89	tcga-g9-6364	7	NA	NA	NA	NA	NA	low-grade	tcga-g9-6364	3567.7714	597.6961

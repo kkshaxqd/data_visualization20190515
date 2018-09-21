@@ -1,0 +1,71 @@
+patient.bcr_patient_barcode	index	patient.stage_event.gleason_grading.gleason_score	patient.drugs.drug-1.therapy_types.therapy_type	patient.drugs.drug-2.therapy_types.therapy_type	patient.drugs.drug-3.therapy_types.therapy_type	patient.drugs.drug-4.therapy_types.therapy_type	patient.drugs.drug-5.therapy_types.therapy_type
+tcga-kk-a59x	9	hormone therapy	chemotherapy	chemotherapy	hormone therapy	NA	high-grade
+tcga-ch-5751	10	hormone therapy	hormone therapy	ancillary	NA	NA	high-grade
+tcga-g9-a9s0	8	hormone therapy	hormone therapy	chemotherapy	chemotherapy	NA	high-grade
+tcga-kk-a8ii	9	hormone therapy	hormone therapy	hormone therapy	chemotherapy	chemotherapy	high-grade
+tcga-hi-7171	9	hormone therapy	hormone therapy	hormone therapy	hormone therapy	NA	high-grade
+tcga-yl-a8sb	9	hormone therapy	hormone therapy	hormone therapy	hormone therapy	NA	high-grade
+tcga-yl-a8sp	9	hormone therapy	hormone therapy	hormone therapy	hormone therapy	NA	high-grade
+tcga-yl-a9wk	9	hormone therapy	hormone therapy	hormone therapy	hormone therapy	NA	high-grade
+tcga-g9-7521	8	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade
+tcga-hi-7168	9	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade
+tcga-kk-a6e0	9	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade
+tcga-kk-a7au	9	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade
+tcga-xj-a9di	9	hormone therapy	hormone therapy	hormone therapy	NA	NA	high-grade
+tcga-kk-a7b4	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-ch-5788	7	hormone therapy	hormone therapy	NA	NA	NA	low-grade
+tcga-kk-a7aq	7	hormone therapy	hormone therapy	NA	NA	NA	low-grade
+tcga-kk-a8i4	7	hormone therapy	hormone therapy	NA	NA	NA	low-grade
+tcga-kk-a8i7	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-kk-a8ic	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-m7-a723	7	hormone therapy	hormone therapy	NA	NA	NA	low-grade
+tcga-vn-a88r	8	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-vp-a878	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-xj-a9dx	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-xk-aaiv	10	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-yl-a8hj	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-yl-a8hk	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-yl-a8hl	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-yl-a8hm	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-yl-a8sc	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-yl-a8sl	8	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-yl-a8so	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-yl-a8sq	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-yl-a9wh	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-yl-a9wy	9	hormone therapy	hormone therapy	NA	NA	NA	high-grade
+tcga-2a-a8vt	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-4l-aa1f	8	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-ch-5741	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-ch-5752	8	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-fc-a4ji	8	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-fc-a5ob	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-g9-a9s4	8	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-hc-7742	7	hormone therapy	NA	NA	NA	NA	low-grade
+tcga-hc-8257	7	hormone therapy	NA	NA	NA	NA	low-grade
+tcga-hc-a48f	8	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-hc-a9te	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-hc-a9th	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-j4-a6g3	8	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-j4-aatz	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-j9-a52b	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-j9-a52e	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-kc-a4br	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-kk-a59y	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-kk-a6e1	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-kk-a7b0	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-kk-a8i9	8	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-kk-a8ia	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-kk-a8id	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-m7-a724	8	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-v1-a8mu	7	hormone therapy	NA	NA	NA	NA	low-grade
+tcga-v1-a8wv	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-v1-a8ww	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-v1-a9o5	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-vn-a88k	8	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-vp-a87b	8	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-x4-a8kq	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-yl-a8si	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-yl-a8sk	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-yl-a9wl	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-zg-a8qz	9	hormone therapy	NA	NA	NA	NA	high-grade
+tcga-vp-a87d	9	chemotherapy	hormone therapy	hormone therapy	NA	NA	high-grade

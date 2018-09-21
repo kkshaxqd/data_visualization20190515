@@ -1,0 +1,1436 @@
+Drugname	药物名	靶点	Gene Name#AA Mutation	基因	变异	染色体位置(GRCh37)
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	CDK8#p.A155V	CDK8	p.A155V	13:26956958..26956958
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	CDK8#p.D103N	CDK8	p.D103N	13:26923311..26923311
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.D594G	BRAF	p.D594G	7:140453154..140453154
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.D594G	BRAF	p.D594G	7:140453154..140453154
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.D594H	BRAF	p.D594H	7:140453155..140453155
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.D594N	BRAF	p.D594N	7:140453155..140453155
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT#p.D820E	KIT	p.D820E	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	FLT3#p.D835?	FLT3	p.D835?	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	FLT3#p.D835H	FLT3	p.D835H	13:28592642..28592642
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	FLT3#p.D835H	FLT3	p.D835H	13:28592642..28592642
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	FLT3#p.D835H	FLT3	p.D835H	13:28592642..28592642
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	FLT3#p.D835Y	FLT3	p.D835Y	13:28592642..28592642
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	CDK8#p.E165Q	CDK8	p.E165Q	13:26956987..26956987
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT#p.E490K	KIT	p.E490K	4:55592144..55592144
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	CDK8#p.E66Q	CDK8	p.E66Q	13:26911771..26911771
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	FLT3#p.F691L	FLT3	p.F691L	13:28601359..28601359
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.G469A	BRAF	p.G469A	7:140481402..140481402
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.G469E	BRAF	p.G469E	7:140481402..140481402
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.G469R	BRAF	p.G469R	7:140481403..140481403
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.G596D	BRAF	p.G596D	7:140453148..140453148
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.K601E	BRAF	p.K601E	7:140453134..140453134
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT#p.K642E	KIT	p.K642E	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	CDK8#p.L142M	CDK8	p.L142M	13:26927985..26927985
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT#p.L576P	KIT	p.L576P	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	CDK8#p.R150T	CDK8	p.R150T	13:26928010..26928010
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.R462K	BRAF	p.R462K	7:140481423..140481423
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	CDK8#p.R65K	CDK8	p.R65K	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	ARAF#p.S214C	ARAF	p.S214C	X:47426121..47426122
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT#p.V559A	KIT	p.V559A	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT#p.V559D	KIT	p.V559D	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT#p.V560D	KIT	p.V560D	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.V600K	BRAF	p.V600K	7:140453136..140453137
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF#p.V600R	BRAF	p.V600R	7:140453136..140453137
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT#p.W557R	KIT	p.W557R	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT#p.Y553N	KIT	p.Y553N	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT::consequence::inframe_deletion:577-579	KIT	KIT inframe deletion (577-579)	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	NF1:del	NF1	NF1 deletion	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	BRAF__.	BRAF	BRAF fusion	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	FLT3::consequence::inframe_variant:572-603	FLT3	FLT3-ITD	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	FLT3::consequence::inframe_variant:572-603	FLT3	FLT3-ITD	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT:550-592;627-664;788-828;829-860	KIT	KIT (550-592;627-664;788-828;829-860)	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT:788-828	KIT	KIT mutation in exon 17	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT:550-592;449-514	KIT	KIT mutation in exon 9 or 11	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KIT::wildtype:.	KIT	KIT wildtype	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	KRAS:.	KRAS	KRAS oncogenic mutation	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	NF1:.	NF1	NF1 oncogenic mutation	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	NRAS:.	NRAS	NRAS oncogenic mutation	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	PDGFRA::wildtype:.	PDGFRA	PDGFRA wildtype	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	RAF1__.	RAF1	RAF1 fusion	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	RAF1:over	RAF1	RAF1 overexpression	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	VEGFA:amp	VEGFA	VEGFA amplification	.
+Sorafenib	Sorafenib (索拉非尼)	VEGFR; PDGFR; KIT; RAF	VHL:.	VHL	VHL oncogenic mutation	.
+Regorafenib	Regorafenib (瑞戈非尼)	KIT; PDGFR; RAF; RET; VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	KIT:449-514;550-592;627-664;664-714;788-828	KIT	KIT mutation in exon 9;11;13;14 or 17	.
+Regorafenib	Regorafenib (瑞戈非尼)	KIT; PDGFR; RAF; RET; VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	KRAS:.	KRAS	KRAS oncogenic mutation	.
+Regorafenib	Regorafenib (瑞戈非尼)	KIT; PDGFR; RAF; RET;  VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	PDGFRA:552-596;631-668;814-854	PDGFRA	PDGFRA (552-596;631-668;814-854)	.
+Nivolumab	Nivolumab (纳武单抗;O药)	PD-1	CD274:over	CD274	CD274 overexpression	.
+Lenvatinib	Lenvatinib (乐伐替尼)	FGFR;RET; PDGFR; VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	SDHB#p.V140F	SDHB	p.V140F	.
+AMG-386	Trebananib (AMG-386)	Ang1;Ang2	.	.	.	.
+ABC-294640	ABC-294640	SK2	.	.	.	.
+ABT-751	ABT-751	.	.	.	.	.
+ABT-869	ABT-869	VEGF;PDGFR	FLT3	FLT3	mutation	.
+Adavosertib	Adavosertib（AZD-1775;MK-1775）	WEE1	.	.	.	.
+Adecatumumab 	Adecatumumab (MT-201)	IgG1;EpCAM (CD326)	.	.	.	.
+Afatinib	Afatinib	EGFR	EGFR#p.D807H	EGFR	p.D807H	7:55249121..55249121
+Afatinib	Afatinib	ERBB3	ERBB3#p.G284R	ERBB3	p.G284R	12:56481922..56481922
+Afatinib	Afatinib	ERBB3	ERBB3#p.G284R	ERBB3	p.G284R	12:56481922..56481922
+Afatinib	Afatinib	EGFR	EGFR#p.G719A	EGFR	p.G719A	.
+Afatinib	Afatinib	EGFR	EGFR#p.G719C	EGFR	p.G719C	.
+Afatinib	Afatinib	EGFR	EGFR#p.G719D	EGFR	p.G719D	7:55241708..55241708
+Afatinib	Afatinib	EGFR	EGFR#p.G719S	EGFR	p.G719S	.
+Afatinib	Afatinib	EGFR	EGFR#p.L747S	EGFR	p.L747S	7:55242470..55242470
+Afatinib	Afatinib	EGFR	EGFR#p.L858R	EGFR	p.L858R	.
+Afatinib	Afatinib	EGFR	EGFR#p.L861P	EGFR	p.L861P	.
+Afatinib	Afatinib	EGFR	EGFR#p.L861Q	EGFR	p.L861Q	.
+Afatinib	Afatinib	EGFR	EGFR#p.L861R	EGFR	p.L861R	.
+Afatinib	Afatinib	ERBB3	ERBB3#p.R103G	ERBB3	p.R103G	12:56478851..56478851
+Afatinib	Afatinib	ERBB3	ERBB3#p.R103G	ERBB3	p.R103G	12:56478851..56478851
+Afatinib	Afatinib	EGFR	EGFR#p.S768I	EGFR	p.S768I	.
+Afatinib	Afatinib	EGFR	EGFR#p.S811C	EGFR	p.S811C	7:55249134..55249134
+Afatinib	Afatinib	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Afatinib	Afatinib	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Afatinib	Afatinib	ERBB3	ERBB3#p.V104M	ERBB3	p.V104M	12:56478854..56478854
+Afatinib	Afatinib	EGFR	EGFR::consequence::inframe_deletion:729-761	EGFR	EGFR exon 19 deletions	.
+Afatinib	Afatinib	EGFR	EGFR::consequence::inframe_insertion:729-761	EGFR	EGFR exon 19 insertions	.
+Afatinib	Afatinib	EGFR	EGFR::consequence::inframe_insertion:729-761	EGFR	EGFR exon 19 insertions	.
+Afatinib	Afatinib	ERBB2	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Afatinib	Afatinib	ERBB2	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Afatinib	Afatinib	ERBB2	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Afatinib	Afatinib	ERBB2	ERBB2::consequence::inframe_insertion:775-881	ERBB2	ERBB2 proximal exon 20	.
+Afatinib	Afatinib	ERBB2	ERBB2::consequence::inframe_insertion:775-881	ERBB2	ERBB2 proximal exon 20	.
+Afatinib	Afatinib	ERBB4	ERBB4__.	ERBB4	ERBB4 fusion	.
+Afatinib	Afatinib	NRG1	NRG1__.	NRG1	NRG1 fusion	.
+AG-013736	Axitinib (阿昔替尼)	VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	ABL1#p.T315I	ABL1	p.T315I	.
+AG-013736	Axitinib (阿昔替尼)	VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	VHL:.	VHL	VHL oncogenic mutation	.
+Alvocidib	Alvocidib	CDK1;CDK2;CDK4;CDK5;CDK6;CDK7;CDK8;CDK9;EGFR	.	.	.	.
+Anlotinib	Anlotinib（安罗替尼）	RTK;VEGFR2(KDR);VEGFR3(FLT4)	.	.	.	.
+Apatinib	Apatinib（阿帕替尼）	VEGFR	.	.	.	.
+ARQ-087	ARQ-087	VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	.	.	.	.
+ARQ-197	ARQ-197 （Tivantinib）	MET	.	.	.	.
+ASLAN-001	ASLAN-001（varlitinib）	ERBB2;EGFR	.	.	.	.
+Atezolizumab	Atezolizumab（阿特珠单抗;T药）	PD-1	CD274 overexpression	CD274	CD274 overexpression	.
+ATG-008	ATG-008	TORC1;TORC2	.	.	.	.
+Avastin	Avastin;bevacizumab(贝伐单抗) 	VEGF	NF1:del	NF1	NF1 deletion	.
+Avastin	Avastin;bevacizumab(贝伐单抗) 	VEGF	NF1:del	NF1	NF1 deletion	.
+Avastin	Avastin;bevacizumab(贝伐单抗) 	VEGF	NF2:del	NF2	NF2 deletion	.
+Avastin	Avastin;bevacizumab(贝伐单抗) 	VEGF	NF1:.	NF1	NF1 oncogenic mutation	.
+Avastin	Avastin;bevacizumab(贝伐单抗) 	VEGF	NF1:.	NF1	NF1 oncogenic mutation	.
+Avastin	Avastin;bevacizumab(贝伐单抗) 	VEGF	NF2:.	NF2	NF2 oncogenic mutation	.
+Avastin	Avastin;bevacizumab(贝伐单抗) 	VEGF	VHL:.	VHL	VHL oncogenic mutation	.
+Avelumab	Avelumab (MSB0010718C)	PD-L1	CD274 overexpression	CD274	CD274 overexpression	.
+AZD-0530	AZD-0530;Saracatinib（塞卡替尼）	CYP3A	.	.	.	.
+AZD-8055	AZD-8055	mTOR	.	.	.	.
+Bavituximab	Bavituximab	IgG3	.	.	.	.
+BAY-869766	BAY-869766;Refametinib	MEK	.	.	.	.
+BBI-503	BBI-503	.	.	.	.	.
+BBI-608	BBI-608;napabucasin	.	.	.	.	.
+Belinostat	Belinostat;PXD-101	.	.	.	.	.
+BGB-A317	BGB-A317	PD-1	.	.	.	.
+BIBF-1120	Nintedanib	FGFR;RET; PDGFR; VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	RET__.	RET	RET fusion	.
+BIIB022	BIIB022	IGF-1R	.	.	.	.
+Binimetinib	Binimetinib;MEK-162	MEK;MAP3K1;MAP3K2	BRAF#p.V600E;BRAF#p.V600K	BRAF	p.V600E;p.V600K	.
+BLU-554	BLU-554	FGFR4	.	.	.	.
+BMS-247550	BMS-247550;Ixabepilone（依沙比酮） 	TUBB3	.	.	.	.
+Brivanib	Brivanib;BMS-582664	VEGFR2	.	.	.	.
+C188-9	C188-9	STAT3	.	.	.	.
+Cabozantinib	Cabozantinib (卡博替尼)	MET;KDR;RET	RET#p.C634W	RET	p.C634W	.
+Cabozantinib	Cabozantinib (卡博替尼)	MET;KDR;RET	ROS1#p.G2032R	ROS1	p.G2032R	.
+Cabozantinib	Cabozantinib (卡博替尼)	MET;KDR;RET	RET#p.M918T	RET	p.M918T	10:43617416..43617416
+Cabozantinib	Cabozantinib (卡博替尼)	MET;KDR;RET	ABL1#p.V299L	ABL1	p.V299L	.
+Cabozantinib	Cabozantinib (卡博替尼)	MET;KDR;RET	HGF:over	HGF	HGF overexpression	.
+Cabozantinib	Cabozantinib (卡博替尼)	MET;KDR;RET	MET:amp	MET	MET amplification	.
+Cabozantinib	Cabozantinib (卡博替尼)	MET;KDR;RET	RET__.	RET	RET fusion	.
+Cabozantinib	Cabozantinib (卡博替尼)	MET;KDR;RET	RET__TPCN1	RET	RET-TPCN1 fusion	.
+Cabozantinib	Cabozantinib (卡博替尼)	MET;KDR;RET	ROS1__.	ROS1	ROS1 fusion	.
+Capivasertib	Capivasertib;AZD-5363	.	.	.	.	.
+CBT-501	CBT-501;genolimzumab	PD-1	.	.	.	.
+CDX-1140	CDX-1140	IgG2;CD40	.	.	.	.
+Cediranib	Cediranib	VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	NF1:del	NF1	NF1 deletion	.
+Cediranib	Cediranib	VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	NF1:.	NF1	NF1 oncogenic mutation	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	KRAS#p.G13D	KRAS	p.G13D	12:25398281..25398281
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	KRAS#p.G13D	KRAS	p.G13D	12:25398281..25398281
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	EGFR#p.G465R	EGFR	p.G465R	7:55227926..55227926
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	EGFR#p.G465R	EGFR	p.G465R	7:55227926..55227926
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	EGFR#p.I491M	EGFR	p.I491M	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	EGFR#p.K467T	EGFR	p.K467T	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	EGFR#p.P546S	EGFR	p.P546S	7:55231430..55231430
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	PTEN#p.R159S	PTEN	p.R159S	10:89692993..89692993
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	PTEN#p.R233*	PTEN	p.R233*	10:89717672..89717672
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	EGFR#p.R451C	EGFR	p.R451C	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	EGFR#p.S464L	EGFR	p.S464L	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	EGFR#p.S492R	EGFR	p.S492R	7:55228009..55228009
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	EGFR::consequence::inframe_insertion:729-761	EGFR	EGFR exon 19 insertions	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	NF2:del;EGFR:.	EGFR	NF2 deletion + EGFR oncogenic mutation	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	NF2:del;EGFR:.	NF2	NF2 deletion + EGFR oncogenic mutation	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	BRAF:V600.	BRAF	BRAF (V600)	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	EGFR:over	EGFR	EGFR overexpression	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	KRAS:.	KRAS	KRAS oncogenic mutation	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	NF2:.;EGFR:.	EGFR	NF2 oncogenic mutation + EGFR oncogenic mutation	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	NF2:.;EGFR:.	NF2	NF2 oncogenic mutation + EGFR oncogenic mutation	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	NRAS:.	NRAS	NRAS oncogenic mutation	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	NRAS:wild-type	NRAS	NRAS oncogenic mutation	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	PIK3CA:.	PIK3CA	PIK3CA oncogenic mutation	.
+Cetuximab	Cetuximab (西妥昔单抗)	EGFR	PTEN:.	PTEN	PTEN biallelic inactivation	.
+Cobimetinib	Cobimetinib (卡比替尼)	MAP2K1;MEK1	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Cobimetinib	Cobimetinib (卡比替尼)	MAP2K1;MEK1	BRAF#p.V600K	BRAF	p.V600K	7:140453136..140453137
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.A348D	ALK	p.A348D	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.C1156Y	ALK	p.C1156Y	2:29445258..29445258
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.C1156Y	ALK	p.C1156Y	2:29445258..29445258
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.C1156Y	ALK	p.C1156Y	2:29445258..29445258
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.F1174L	ALK	p.F1174L	2:29443695..29443695
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.F1174L	ALK	p.F1174L	2:29443695..29443695
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.F1245C	ALK	p.F1245C	2:29436859..29436859
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.F856S	ALK	p.F856S	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.G1128A	ALK	p.G1128A	2:29445450..29445450
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.G1202R	ALK	p.G1202R	2:29443613..29443613
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.G1269A	ALK	p.G1269A	2:29432682..29432682
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.G1269A	ALK	p.G1269A	2:29432682..29432682
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.G1269A	ALK	p.G1269A	2:29432682..29432682
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.G1269A	ALK	p.G1269A	2:29432682..29432682
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ROS1#p.G2032R	ROS1	p.G2032R	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET#p.H1112L	MET	p.H1112L	7:116417464..116417464
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET#p.H1112R	MET	p.H1112R	7:116417464..116417464
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.I1171N	ALK	p.I1171N	2:29445213..29445213
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.I1171T	ALK	p.I1171T	2:29445213..29445213
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.L1152R	ALK	p.L1152R	2:29445270..29445270
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.L1196M	ALK	p.L1196M	2:29443631..29443631
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.L1196M	ALK	p.L1196M	2:29443631..29443631
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.L1196M	ALK	p.L1196M	2:29443631..29443631
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.L1198F	ALK	p.L1198F	2:29443625..29443625
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET#p.M1268T	MET	p.M1268T	7:116423474..116423474
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.R1192P	ALK	p.R1192P	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.R1275Q	ALK	p.R1275Q	2:29432664..29432664
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET#p.R988C	MET	p.R988C	7:116411923..116411923
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.S1206Y	ALK	p.S1206Y	2:29443600..29443600
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK#p.S1206Y	ALK	p.S1206Y	2:29443600..29443600
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET#p.T1010I	MET	p.T1010I	7:116411990..116411990
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET#p.V1110I	MET	p.V1110I	7:116417457..116417457
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ABL1#p.V299L	ABL1	p.V299L	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK::consequence::inframe_insertion:.1151T.	ALK	ALK inframe insertion (1151T)	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK:amp	ALK	ALK amplification	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK:amp	ALK	ALK amplification	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK__.	ALK	ALK fusion	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK__.	ALK	ALK fusion	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK__.	ALK	ALK fusion	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ALK:.	ALK	ALK oncogenic mutation	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET:Y1230C;Y1235D	MET	MET (Y1230C;Y1235D)	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET:amp	MET	MET amplification	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET:amp	MET	MET amplification	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET:amp	MET	MET amplification	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET:amp;BRAF:V600E	MET	MET amplification + BRAF (V600E)	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET:amp;BRAF:V600E	BRAF	MET amplification + BRAF (V600E)	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET:amp;ERBB2:amp	ERBB2	MET amplification + ERBB2 amplification	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET:amp;ERBB2:amp	MET	MET amplification + ERBB2 amplification	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET__.	MET	MET fusion	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	MET:1132-1330	MET	MET mutation in exon 16-19	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	NTRK1__.	NTRK1	NTRK1 fusion	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ROS1__.	ROS1	ROS1 fusion	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ROS1__.	ROS1	ROS1 fusion	.
+Crizotinib	Crizotinib (克唑替尼)	ALK 	ROS1__.	ROS1	ROS1 fusion	.
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK11	MAP2K2#p.C125S	MAP2K2	p.C125S	19:4110583..4110583
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK12	AKT1#p.E17K	AKT1	p.E17K	14:105246551..105246551
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK13	MAP2K2#p.E207K	MAP2K2	p.E207K	19:4101103..4101103
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK14	PIK3CA#p.E545*	PIK3CA	p.E545*	3:178936091..178936091
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK15	MAP2K1#p.G128D	MAP2K1	p.G128D	15:66729175..66729175
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK16	NRAS#p.G12D	NRAS	p.G12D	1:115258747..115258747
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK17	MAP2K1#p.K57E	MAP2K1	p.K57E	15:66727453..66727453
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK18	MAP2K2#p.L46F	MAP2K2	p.L46F	19:4117584..4117584
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK19	MAP2K2#p.N126D	MAP2K2	p.N126D	19:4110581..4110581
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK20	MAP2K1#p.P124S	MAP2K1	p.P124S	15:66729162..66729162
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK21	MAP2K2#p.Q60P	MAP2K2	p.Q60P	19:4117541..4117541
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK22	NRAS#p.Q61K	NRAS	p.Q61K	1:115256530..115256530
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK23	AKT1#p.Q79K	AKT1	p.Q79K	14:105243048..105243048
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK24	G6PD#p.S218F	G6PD	p.S218F	.
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK25	MAP2K2#p.V35M	MAP2K2	p.V35M	19:4117617..4117617
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK26	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK27	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK28	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK29	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK30	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK31	BRAF#p.V600R	BRAF	p.V600R	7:140453136..140453137
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK32	BRAF:V600.	BRAF	BRAF (V600)	.
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK33	G6PD:V98M;G6PD:N156D	G6PD	G6PD (V98M) + G6PD (N156D)	.
+Dabrafenib	Dabrafenib (达拉非尼)	BRAF;MAP2K2;RAF1;SIK1;NEK34	G6PD:.	G6PD	G6PD biallelic inactivation	.
+Dasatinib	Dasatinib (达沙替尼)	ABL1;KIT;PDGFRA	CBL#p.C384R	CBL	p.C384R	11:119148930..119148930
+Dasatinib	Dasatinib (达沙替尼)	ABL2;KIT;PDGFRA	ABL1#p.D400Y	ABL1	p.D400Y	.
+Dasatinib	Dasatinib (达沙替尼)	ABL3;KIT;PDGFRA	ABL1#p.D444Y	ABL1	p.D444Y	.
+Dasatinib	Dasatinib (达沙替尼)	ABL4;KIT;PDGFRA	KIT#p.D816F	KIT	p.D816F	4:55599320..55599321
+Dasatinib	Dasatinib (达沙替尼)	ABL5;KIT;PDGFRA	KIT#p.D816V	KIT	p.D816V	4:55599321..55599321
+Dasatinib	Dasatinib (达沙替尼)	ABL6;KIT;PDGFRA	KIT#p.D816V	KIT	p.D816V	4:55599321..55599321
+Dasatinib	Dasatinib (达沙替尼)	ABL7;KIT;PDGFRA	KIT#p.D816V	KIT	p.D816V	4:55599321..55599321
+Dasatinib	Dasatinib (达沙替尼)	ABL8;KIT;PDGFRA	KIT#p.D816Y	KIT	p.D816Y	4:55599320..55599320
+Dasatinib	Dasatinib (达沙替尼)	ABL9;KIT;PDGFRA	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Dasatinib	Dasatinib (达沙替尼)	ABL10;KIT;PDGFRA	ABL1#p.E255K	ABL1	p.E255K	.
+Dasatinib	Dasatinib (达沙替尼)	ABL11;KIT;PDGFRA	ABL1#p.E255K	ABL1	p.E255K	.
+Dasatinib	Dasatinib (达沙替尼)	ABL12;KIT;PDGFRA	ABL1#p.E255K	ABL1	p.E255K	.
+Dasatinib	Dasatinib (达沙替尼)	ABL13;KIT;PDGFRA	ABL1#p.E255V	ABL1	p.E255V	.
+Dasatinib	Dasatinib (达沙替尼)	ABL14;KIT;PDGFRA	ABL1#p.E355G	ABL1	p.E355G	.
+Dasatinib	Dasatinib (达沙替尼)	ABL15;KIT;PDGFRA	ABL1#p.F317C	ABL1	p.F317C	.
+Dasatinib	Dasatinib (达沙替尼)	ABL16;KIT;PDGFRA	ABL1#p.F317I	ABL1	p.F317I	.
+Dasatinib	Dasatinib (达沙替尼)	ABL17;KIT;PDGFRA	ABL1#p.F317L	ABL1	p.F317L	.
+Dasatinib	Dasatinib (达沙替尼)	ABL18;KIT;PDGFRA	ABL1#p.F317L	ABL1	p.F317L	.
+Dasatinib	Dasatinib (达沙替尼)	ABL19;KIT;PDGFRA	ABL1#p.F317L	ABL1	p.F317L	.
+Dasatinib	Dasatinib (达沙替尼)	ABL20;KIT;PDGFRA	ABL1#p.F317L	ABL1	p.F317L	.
+Dasatinib	Dasatinib (达沙替尼)	ABL21;KIT;PDGFRA	ABL1#p.F317L	ABL1	p.F317L	.
+Dasatinib	Dasatinib (达沙替尼)	ABL22;KIT;PDGFRA	ABL1#p.F317L	ABL1	p.F317L	.
+Dasatinib	Dasatinib (达沙替尼)	ABL23;KIT;PDGFRA	ABL1#p.F317R	ABL1	p.F317R	9:133748288..133748289
+Dasatinib	Dasatinib (达沙替尼)	ABL24;KIT;PDGFRA	ABL1#p.F317V	ABL1	p.F317V	9:133748288..133748288
+Dasatinib	Dasatinib (达沙替尼)	ABL25;KIT;PDGFRA	ABL1#p.F359C	ABL1	p.F359C	.
+Dasatinib	Dasatinib (达沙替尼)	ABL26;KIT;PDGFRA	ABL1#p.F359I	ABL1	p.F359I	.
+Dasatinib	Dasatinib (达沙替尼)	ABL27;KIT;PDGFRA	ABL1#p.F359I	ABL1	p.F359I	.
+Dasatinib	Dasatinib (达沙替尼)	ABL28;KIT;PDGFRA	ABL1#p.F359V	ABL1	p.F359V	.
+Dasatinib	Dasatinib (达沙替尼)	ABL29;KIT;PDGFRA	ABL1#p.F359V	ABL1	p.F359V	.
+Dasatinib	Dasatinib (达沙替尼)	ABL30;KIT;PDGFRA	ABL1#p.F401L	ABL1	p.F401L	.
+Dasatinib	Dasatinib (达沙替尼)	ABL31;KIT;PDGFRA	BTK#p.FG540LC	BTK	p.FG540LC	.
+Dasatinib	Dasatinib (达沙替尼)	ABL32;KIT;PDGFRA	ABL1#p.G250E	ABL1	p.G250E	.
+Dasatinib	Dasatinib (达沙替尼)	ABL33;KIT;PDGFRA	DDR2#p.G253C	DDR2	p.G253C	.
+Dasatinib	Dasatinib (达沙替尼)	ABL34;KIT;PDGFRA	EPHA2#p.G391R	EPHA2	p.G391R	.
+Dasatinib	Dasatinib (达沙替尼)	ABL35;KIT;PDGFRA	BMX#p.G424E	BMX	p.G424E	X:15555305..15555305
+Dasatinib	Dasatinib (达沙替尼)	ABL36;KIT;PDGFRA	BRAF#p.G466V	BRAF	p.G466V	7:140481411..140481411
+Dasatinib	Dasatinib (达沙替尼)	ABL37;KIT;PDGFRA	DDR2#p.G505S	DDR2	p.G505S	1:162741822..162741822
+Dasatinib	Dasatinib (达沙替尼)	ABL38;KIT;PDGFRA	DDR2#p.G774V	DDR2	p.G774V	.
+Dasatinib	Dasatinib (达沙替尼)	ABL39;KIT;PDGFRA	DDR2#p.I638F	DDR2	p.I638F	.
+Dasatinib	Dasatinib (达沙替尼)	ABL40;KIT;PDGFRA	ABL1#p.K106N	ABL1	p.K106N	.
+Dasatinib	Dasatinib (达沙替尼)	ABL41;KIT;PDGFRA	BTK#p.K60E	BTK	p.K60E	X:100629586..100629586
+Dasatinib	Dasatinib (达沙替尼)	ABL42;KIT;PDGFRA	DDR2#p.L239R	DDR2	p.L239R	.
+Dasatinib	Dasatinib (达沙替尼)	ABL43;KIT;PDGFRA	ABL1#p.L273M	ABL1	p.L273M	.
+Dasatinib	Dasatinib (达沙替尼)	ABL44;KIT;PDGFRA	BTK#p.L528F	BTK	p.L528F	X:100609665..100609665
+Dasatinib	Dasatinib (达沙替尼)	ABL45;KIT;PDGFRA	KIT#p.L576P	KIT	p.L576P	.
+Dasatinib	Dasatinib (达沙替尼)	ABL46;KIT;PDGFRA	DDR2#p.L63V	DDR2	p.L63V	.
+Dasatinib	Dasatinib (达沙替尼)	ABL47;KIT;PDGFRA	KIT#p.N822K	KIT	p.N822K	.
+Dasatinib	Dasatinib (达沙替尼)	ABL48;KIT;PDGFRA	ABL1#p.R783G	ABL1	p.R783G	.
+Dasatinib	Dasatinib (达沙替尼)	ABL49;KIT;PDGFRA	DDR2#p.S768R	DDR2	p.S768R	1:162748390..162748390
+Dasatinib	Dasatinib (达沙替尼)	ABL50;KIT;PDGFRA	ABL1#p.T315A	ABL1	p.T315A	.
+Dasatinib	Dasatinib (达沙替尼)	ABL51;KIT;PDGFRA	ABL1#p.T315A	ABL1	p.T315A	.
+Dasatinib	Dasatinib (达沙替尼)	ABL52;KIT;PDGFRA	ABL1#p.T315I	ABL1	p.T315I	.
+Dasatinib	Dasatinib (达沙替尼)	ABL53;KIT;PDGFRA	ABL1#p.T315I	ABL1	p.T315I	.
+Dasatinib	Dasatinib (达沙替尼)	ABL54;KIT;PDGFRA	ABL1#p.T315I	ABL1	p.T315I	.
+Dasatinib	Dasatinib (达沙替尼)	ABL55;KIT;PDGFRA	ABL1#p.T315I	ABL1	p.T315I	.
+Dasatinib	Dasatinib (达沙替尼)	ABL56;KIT;PDGFRA	ABL1#p.T315I	ABL1	p.T315I	.
+Dasatinib	Dasatinib (达沙替尼)	ABL57;KIT;PDGFRA	ABL1#p.T315I	ABL1	p.T315I	.
+Dasatinib	Dasatinib (达沙替尼)	ABL58;KIT;PDGFRA	ABL1#p.T495R	ABL1	p.T495R	.
+Dasatinib	Dasatinib (达沙替尼)	ABL59;KIT;PDGFRA	CSF3R#p.T615A	CSF3R	p.T615A	.
+Dasatinib	Dasatinib (达沙替尼)	ABL60;KIT;PDGFRA	CSF3R#p.T618I	CSF3R	p.T618I	.
+dasatinib	dasatinib (达沙替尼)	ABL61;KIT;PDGFRA	DDR2#p.T654I	DDR2	p.T654I	.
+Dasatinib	Dasatinib (达沙替尼)	ABL62;KIT;PDGFRA	SRC#p.V140M	SRC	p.V140M	.
+Dasatinib	Dasatinib (达沙替尼)	ABL63;KIT;PDGFRA	ABL1#p.V299L	ABL1	p.V299L	.
+Dasatinib	Dasatinib (达沙替尼)	ABL64;KIT;PDGFRA	ABL1#p.V299L	ABL1	p.V299L	.
+Dasatinib	Dasatinib (达沙替尼)	ABL65;KIT;PDGFRA	ABL1#p.V299L	ABL1	p.V299L	.
+Dasatinib	Dasatinib (达沙替尼)	ABL66;KIT;PDGFRA	ABL1#p.V379I	ABL1	p.V379I	.
+Dasatinib	Dasatinib (达沙替尼)	ABL67;KIT;PDGFRA	ABL1#p.V390L	ABL1	p.V390L	.
+Dasatinib	Dasatinib (达沙替尼)	ABL68;KIT;PDGFRA	ABL1#p.Y253F	ABL1	p.Y253F	.
+Dasatinib	Dasatinib (达沙替尼)	ABL69;KIT;PDGFRA	ABL1#p.Y253H	ABL1	p.Y253H	.
+Dasatinib	Dasatinib (达沙替尼)	ABL70;KIT;PDGFRA	ABL1#p.Y253H	ABL1	p.Y253H	.
+Dasatinib	Dasatinib (达沙替尼)	ABL71;KIT;PDGFRA	ABL1#p.Y253H	ABL1	p.Y253H	.
+Dasatinib	Dasatinib (达沙替尼)	ABL72;KIT;PDGFRA	ABL1#p.Y353H	ABL1	p.Y353H	.
+Dasatinib	Dasatinib (达沙替尼)	ABL73;KIT;PDGFRA	CBL#p.Y371H	CBL	p.Y371H	11:119148891..119148891
+Dasatinib	Dasatinib (达沙替尼)	ABL74;KIT;PDGFRA	BRAF#p.Y472C	BRAF	p.Y472C	7:140481393..140481393
+Dasatinib	Dasatinib (达沙替尼)	ABL75;KIT;PDGFRA	NF1:del	NF1	NF1 deletion	.
+Dasatinib	Dasatinib (达沙替尼)	ABL76;KIT;PDGFRA	ABL1__BCR	ABL1	ABL1-BCR fusion	.
+Dasatinib	Dasatinib (达沙替尼)	ABL77;KIT;PDGFRA	ABL1__BCR	ABL1	ABL1-BCR fusion	.
+Dasatinib	Dasatinib (达沙替尼)	ABL78;KIT;PDGFRA	CSF3R#p.S783fs	CSF3R	CSF3R frameshift variant (D771),frameshift variant (S783)	.
+Dasatinib	Dasatinib (达沙替尼)	ABL79;KIT;PDGFRA	CSF3R#p.D771fs	CSF3R	CSF3R frameshift variant (D771),frameshift variant (S783)	.
+Dasatinib	Dasatinib (达沙替尼)	ABL80;KIT;PDGFRA	EPHA2:amp	EPHA2	EPHA2 amplification	.
+Dasatinib	Dasatinib (达沙替尼)	ABL81;KIT;PDGFRA	IDH1:.	IDH1	IDH1 oncogenic mutation	.
+Dasatinib	Dasatinib (达沙替尼)	ABL82;KIT;PDGFRA	IDH1:R132.	IDH1	IDH1 R132*	2:209113112..209113112
+Dasatinib	Dasatinib (达沙替尼)	ABL83;KIT;PDGFRA	IDH2:.	IDH2	IDH2 oncogenic mutation	.
+Dasatinib	Dasatinib (达沙替尼)	ABL84;KIT;PDGFRA	KIT:550-592,627-664	KIT	KIT mutation in exon 9,11,13,14 or 17	.
+Dasatinib	Dasatinib (达沙替尼)	ABL85;KIT;PDGFRA	KIT::wildtype:.	KIT	KIT wildtype	.
+dasatinib	dasatinib (达沙替尼)	ABL86;KIT;PDGFRA	NF1 loss	NF1	NF1 loss	.
+Dasatinib	Dasatinib (达沙替尼)	ABL87;KIT;PDGFRA	NF1:.	NF1	NF1 oncogenic mutation	.
+Dasatinib	Dasatinib (达沙替尼)	ABL88;KIT;PDGFRA	PDGFRA::wildtype:.	PDGFRA	PDGFRA wildtype	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I2	EGFR#p.A289V	EGFR	p.A289V	7:55221822..55221822
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I3	EGFR#p.D761Y	EGFR	p.D761Y	7:55242511..55242511
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I4	EGFR#p.E746G	EGFR	p.E746G	7:55242467..55242467
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I5	EGFR#p.G598V	EGFR	p.G598V	7:55233043..55233043
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I6	EGFR#p.G719A	EGFR	p.G719A	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I7	EGFR#p.G719D	EGFR	p.G719D	7:55241708..55241708
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I8	EGFR#p.G721V	EGFR	p.G721V	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I9	EGFR#p.I789M	EGFR	p.I789M	7:55249069..55249069
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I10	EGFR#p.K716R	EGFR	p.K716R	7:55241699..55241699
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I11	EGFR#p.K757R	EGFR	p.K757R	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I12	EGFR#p.L858R	EGFR	p.L858R	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I13	EGFR#p.L858R	EGFR	p.L858R	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I14	EGFR#p.L858R	EGFR	p.L858R	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I15	EGFR#p.N842H	EGFR	p.N842H	7:55259466..55259466
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I16	EGFR#p.R108K	EGFR	p.R108K	7:55211080..55211080
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I17	EGFR#p.S720C	EGFR	p.S720C	7:55241711..55241711
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I18	EGFR#p.S768I	EGFR	p.S768I	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I19	DDR2#p.S768R	DDR2	p.S768R	1:162748390..162748390
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I20	EGFR#p.T263P	EGFR	p.T263P	7:55221743..55221743
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I21	EGFR#p.T790M	EGFR	p.T790M	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I22	EGFR#p.T790M	EGFR	p.T790M	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I23	EGFR#p.T790M	EGFR	p.T790M	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I24	EGFR#p.T790M	EGFR	p.T790M	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I25	EGFR#p.V742I	EGFR	p.V742I	7:55242454..55242454
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I26	EGFR#p.V769L	EGFR	p.V769L	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I27	EGFR#p.V774M	EGFR	p.V774M	7:55249022..55249022
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I28	EGFR::consequence::inframe_deletion:729-761	EGFR	EGFR exon 19 deletions	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I29	EGFR::consequence::inframe_insertion:729-761	EGFR	EGFR exon 19 insertions	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I30	EGFR::consequence::inframe_insertion:769-770	EGFR	EGFR inframe insertion (769-770)	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I31	NF1:del	NF1	NF1 deletion	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I32	NF1:del	NF1	NF1 deletion	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I33	NF1:del	NF1	NF1 deletion	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I34	NF2:del	NF2	NF2 deletion	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I35	NF2:del;EGFR:.	EGFR	NF2 deletion + EGFR oncogenic mutation	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I36	NF2:del;EGFR:.	NF2	NF2 deletion + EGFR oncogenic mutation	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I37	EGFR#p.771in_frame_insSVD	EGFR	p.771in_frame_insSVD	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I38	EGFR#p.ELREA746in_frame_del	EGFR	p.ELREA746in_frame_ del	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I39	EGFR:L858R,L861.,G719.,S768I	EGFR	EGFR (L858R,L861,G719,S768I)	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I40	EGFR:S720.	EGFR	EGFR (S720)	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I41	EGFR:amp	EGFR	EGFR amplification	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I42	EGFR__RAD51	EGFR	EGFR-RAD51 fusion	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I43	EGFR__RAD51	EGFR	EGFR-RAD51 fusion	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I44	IGF1R:amp	IGF1R	IGF1R amplification	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I45	NF1:.	NF1	NF1 oncogenic mutation	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I46	NF1:.	NF1	NF1 oncogenic mutation	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I47	NF1:.	NF1	NF1 oncogenic mutation	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I48	NF2:.	NF2	NF2 oncogenic mutation	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I49	NF2:.;EGFR:.	EGFR	NF2 oncogenic mutation + EGFR oncogenic mutation	.
+Erlotinib	Erlotinib (厄洛替尼)	EGFR;NR1I50	NF2:.;EGFR:.	NF2	NF2 oncogenic mutation + EGFR oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	HER2 amplification	HER2	HER2 amplification	.
+Everolimus	Everolimus (依维莫司)	MTOR	PI3KCA oncogenic mutation	PI3KCA	PI3KCA oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	PI3KCA oncogenic mutation	PIK3CA	PI3KCA oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	PTEN loss (Loss of PTEN activity)	PTEN	PTEN loss (Loss of PTEN activity)	.
+Everolimus	Everolimus (依维莫司)	MTOR	TSC1#p.E636fs	TSC1	p.E636fs	9:135781057..135781058
+Everolimus	Everolimus (依维莫司)	MTOR	FGFR4#p.G388R	FGFR4	p.G388R	.
+Everolimus	Everolimus (依维莫司)	MTOR	FLCN:del	FLCN	FLCN deletion	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF1:del	NF1	NF1 deletion	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF1:del	NF1	NF1 deletion	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF1:del	NF1	NF1 deletion	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF1:del	NF1	NF1 deletion	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF2:del	NF2	NF2 deletion	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF2:del	NF2	NF2 deletion	.
+Everolimus	Everolimus (依维莫司)	MTOR	PBRM1:under	PBRM1	PBRM1 undexpression	.
+Everolimus	Everolimus (依维莫司)	MTOR	PTEN:del	PTEN	PTEN deletion	.
+Everolimus	Everolimus (依维莫司)	MTOR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Everolimus	Everolimus (依维莫司)	MTOR	ERBB2:norm;ESR1:over	ERBB2	ERBB2 expression + ESR1 overexpression	.
+Everolimus	Everolimus (依维莫司)	MTOR	ERBB2:norm;ESR1:over	ESR1	ERBB2 expression + ESR1 overexpression	.
+Everolimus	Everolimus (依维莫司)	MTOR	FLCN:.	FLCN	FLCN oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF1:.	NF1	NF1 oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF1:.	NF1	NF1 oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF1:.	NF1	NF1 oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF1:.	NF1	NF1 oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF1:.	NF1	NF1 oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF1:.	NF1	NF1 oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF2:.	NF2	NF2 oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	NF2:.	NF2	NF2 oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	PIK3CA:.;ERBB2:amp	ERBB2	PIK3CA oncogenic mutation + ERBB2 amplification	.
+Everolimus	Everolimus (依维莫司)	MTOR	PIK3CA:.;ERBB2:amp	PIK3CA	PIK3CA oncogenic mutation + ERBB2 amplification	.
+Everolimus	Everolimus (依维莫司)	MTOR	PIK3CG oncogenic mutation	PIK3CG	PIK3CG oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	PTEN:.	PTEN	PTEN oncogenic mutation	.
+Everolimus	Everolimus (依维莫司)	MTOR	PTEN:.;ERBB2:amp	ERBB2	PTEN oncogenic mutation + ERBB2 amplification	.
+Everolimus	Everolimus (依维莫司)	MTOR	PTEN:.;ERBB2:amp	PTEN	PTEN oncogenic mutation + ERBB2 amplification	.
+Foretinib	Foretinib	MET;RON;ERK; AKT	ABL1#p.V299L	ABL1	p.V299L	.
+Foretinib	Foretinib	MET;RON;ERK; AKT	PTCH1:.	PTCH1	PTCH1 oncogenic mutation	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.G719A	EGFR	p.G719A	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.G719A	EGFR	p.G719A	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.G719C	EGFR	p.G719C	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.G719D	EGFR	p.G719D	7:55241708..55241708
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.G719D	EGFR	p.G719D	7:55241708..55241708
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.G719S	EGFR	p.G719S	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.G721V	EGFR	p.G721V	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.I789M	EGFR	p.I789M	7:55249069..55249069
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.K716R	EGFR	p.K716R	7:55241699..55241699
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.L747S	EGFR	p.L747S	7:55242470..55242470
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.L858R	EGFR	p.L858R	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.L858R	EGFR	p.L858R	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.L861P	EGFR	p.L861P	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.L861Q	EGFR	p.L861Q	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.L861R	EGFR	p.L861R	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.N842H	EGFR	p.N842H	7:55259466..55259466
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.S720C	EGFR	p.S720C	7:55241711..55241711
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.S768I	EGFR	p.S768I	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.V742I	EGFR	p.V742I	7:55242454..55242454
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.V769L	EGFR	p.V769L	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.V774M	EGFR	p.V774M	7:55249022..55249022
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.V843I	EGFR	p.V843I	7:55259469..55259469
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR::consequence::inframe_deletion:729-761	EGFR	EGFR exon 19 deletions	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR::consequence::inframe_deletion:L747.,::inframe_insertion:P753PS	EGFR	EGFR inframe deletion (L747),inframe insertion (P753PS)	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.771in_frame_insSVD	EGFR	p.771in_frame_insSVD	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR#p.ELREA746in_frame_del	EGFR	p.ELREA746in_frame_ del	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR:amp	EGFR	EGFR amplification	.
+Gefitinib	Gefitinib (吉非替尼)	EGFR	EGFR:amp	EGFR	EGFR amplification	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.?	ABL1	p.?	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.?fs	KIT	p.?fs	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A344V	ABL1	p.A344V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A350V	ABL1	p.A350V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A365V	ABL1	p.A365V	9:133750263..133750263
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A366G	ABL1	p.A366G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A380T	ABL1	p.A380T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A397P	ABL1	p.A397P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A397P	ABL1	p.A397P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A397P	ABL1	p.A397P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A397P	ABL1	p.A397P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A399T	ABL1	p.A399T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A433T	ABL1	p.A433T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A433T	ABL1	p.A433T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.A433T	ABL1	p.A433T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.A829P	KIT	p.A829P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.A829P	KIT	p.A829P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.A829P	KIT	p.A829P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.A829P	KIT	p.A829P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.A829P	KIT	p.A829P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.C809G	KIT	p.C809G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.C809G	KIT	p.C809G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.C809G	KIT	p.C809G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.C809G	KIT	p.C809G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.D276A	ABL1	p.D276A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.D276G	ABL1	p.D276G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.D276G	ABL1	p.D276G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.D276G	ABL1	p.D276G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.D276G	ABL1	p.D276G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.D276G	ABL1	p.D276G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.D276G	ABL1	p.D276G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.D276N	ABL1	p.D276N	9:133747518..133747519
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.D363Y	ABL1	p.D363Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.D400Y	ABL1	p.D400Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.D482V	ABL1	p.D482V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D716N	KIT	p.D716N	4:55597498..55597498
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D816A	KIT	p.D816A	4:55599321..55599321
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D816E	KIT	p.D816E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D816E	KIT	p.D816E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D816G	KIT	p.D816G	4:55599321..55599321
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D816H	KIT	p.D816H	4:55599320..55599320
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D816H	KIT	p.D816H	4:55599320..55599320
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D816H	KIT	p.D816H	4:55599320..55599320
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D816H	KIT	p.D816H	4:55599320..55599320
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D816H	KIT	p.D816H	4:55599320..55599320
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820A	KIT	p.D820A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820A	KIT	p.D820A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820E	KIT	p.D820E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820E	KIT	p.D820E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820E	KIT	p.D820E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820E	KIT	p.D820E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820E	KIT	p.D820E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820G	KIT	p.D820G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820G	KIT	p.D820G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820G	KIT	p.D820G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820G	KIT	p.D820G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820G	KIT	p.D820G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820G	KIT	p.D820G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820Y	KIT	p.D820Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820Y	KIT	p.D820Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820Y	KIT	p.D820Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820Y	KIT	p.D820Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820Y	KIT	p.D820Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820Y	KIT	p.D820Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820Y	KIT	p.D820Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820Y	KIT	p.D820Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D820Y	KIT	p.D820Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D861H	KIT	p.D861H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255K	ABL1	p.E255K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E255V	ABL1	p.E255V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E258D	ABL1	p.E258D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E275K	ABL1	p.E275K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E275K	ABL1	p.E275K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E275Q	ABL1	p.E275Q	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E279A	ABL1	p.E279A	9:133747529..133747529
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E279K	ABL1	p.E279K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E279K	ABL1	p.E279K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E279Y	ABL1	p.E279Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E279Z	ABL1	p.E279Z	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E282G	ABL1	p.E282G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E292Q	ABL1	p.E292Q	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E292V	ABL1	p.E292V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E292V	ABL1	p.E292V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E292V	ABL1	p.E292V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E352D	ABL1	p.E352D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E352G	ABL1	p.E352G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355?	ABL1	p.E355?	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355A	ABL1	p.E355A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355A	ABL1	p.E355A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355A	ABL1	p.E355A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355D	ABL1	p.E355D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E355G	ABL1	p.E355G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E373K	ABL1	p.E373K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E450?	ABL1	p.E450?	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E450A	ABL1	p.E450A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E450A	ABL1	p.E450A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E450A	ABL1	p.E450A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E450G	ABL1	p.E450G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E450G	ABL1	p.E450G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E450G	ABL1	p.E450G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E450G	ABL1	p.E450G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E450K	ABL1	p.E450K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E450K	ABL1	p.E450K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E450V	ABL1	p.E450V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E453A	ABL1	p.E453A	9:133753889..133753889
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E453A	ABL1	p.E453A	9:133753889..133753889
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E453D	ABL1	p.E453D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E453G	ABL1	p.E453G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E453G	ABL1	p.E453G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E453K	ABL1	p.E453K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E453K	ABL1	p.E453K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E453K	ABL1	p.E453K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E453L	ABL1	p.E453L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E453V	ABL1	p.E453V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459A	ABL1	p.E459A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459G	ABL1	p.E459G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459G	ABL1	p.E459G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459G	ABL1	p.E459G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459G	ABL1	p.E459G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459K	ABL1	p.E459K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459Q	ABL1	p.E459Q	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E459V	ABL1	p.E459V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.E490K	KIT	p.E490K	4:55592144..55592144
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E494G	ABL1	p.E494G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.E507G	ABL1	p.E507G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	DDR1#p.E618Q	DDR1	p.E618Q	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F311I	ABL1	p.F311I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F311I	ABL1	p.F311I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F311I	ABL1	p.F311I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F311I	ABL1	p.F311I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F311I	ABL1	p.F311I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F311I	ABL1	p.F311I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F311L	ABL1	p.F311L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F311L	ABL1	p.F311L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F311L	ABL1	p.F311L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317C	ABL1	p.F317C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317I	ABL1	p.F317I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317L	ABL1	p.F317L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317V	ABL1	p.F317V	9:133748288..133748288
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F317V	ABL1	p.F317V	9:133748288..133748288
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359*	ABL1	p.F359*	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359?	ABL1	p.F359?	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359?	ABL1	p.F359?	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359A	ABL1	p.F359A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359C	ABL1	p.F359C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359C	ABL1	p.F359C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359C	ABL1	p.F359C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359C	ABL1	p.F359C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359C	ABL1	p.F359C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359C	ABL1	p.F359C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359C	ABL1	p.F359C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359C	ABL1	p.F359C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359C	ABL1	p.F359C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359I	ABL1	p.F359I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359I	ABL1	p.F359I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359I	ABL1	p.F359I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359I	ABL1	p.F359I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359I	ABL1	p.F359I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359I	ABL1	p.F359I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359L	ABL1	p.F359L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F359V	ABL1	p.F359V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F382L	ABL1	p.F382L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F382L	ABL1	p.F382L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F382L	ABL1	p.F382L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F401L	ABL1	p.F401L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F486S	ABL1	p.F486S	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F486S	ABL1	p.F486S	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F486S	ABL1	p.F486S	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F486S	ABL1	p.F486S	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F486S	ABL1	p.F486S	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F486S	ABL1	p.F486S	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F486S	ABL1	p.F486S	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.F486S	ABL1	p.F486S	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250E	ABL1	p.G250E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G250R	ABL1	p.G250R	9:133738348..133738348
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G251D	ABL1	p.G251D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G251E	ABL1	p.G251E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.G398R	ABL1	p.G398R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	DDR1#p.G731R	DDR1	p.G731R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.G812V	KIT	p.G812V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.G853D	PDGFRA	p.G853D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396A	ABL1	p.H396A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396P	ABL1	p.H396P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396P	ABL1	p.H396P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396P	ABL1	p.H396P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396P	ABL1	p.H396P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396P	ABL1	p.H396P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.H396R	ABL1	p.H396R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.H697Y	KIT	p.H697Y	4:55595599..55595599
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.H845Y	PDGFRA	p.H845Y	4:55152101..55152101
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.I242T	ABL1	p.I242T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.I293V	ABL1	p.I293V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.I418S	ABL1	p.I418S	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.I418V	ABL1	p.I418V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.I418V	ABL1	p.I418V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.I418V	ABL1	p.I418V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.I571K	KIT	p.I571K	4:55593646..55593646
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.K106N	ABL1	p.K106N	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.K247R	ABL1	p.K247R	9:133738340..133738340
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.K294>RGG	ABL1	p.K294>RGG	9:133747573..133747574
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.K294RGG	ABL1	p.K294RGG	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.K378R	ABL1	p.K378R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.K419E	ABL1	p.K419E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.K642E	KIT	p.K642E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.K642E	KIT	p.K642E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.K642E	KIT	p.K642E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.K642E	KIT	p.K642E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.K818_D820>N	KIT	p.K818_D820>N	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L248V	ABL1	p.L248V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L248V	ABL1	p.L248V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L248V	ABL1	p.L248V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L248V	ABL1	p.L248V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L248V	ABL1	p.L248V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L248V	ABL1	p.L248V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L248V	ABL1	p.L248V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L248V	ABL1	p.L248V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L248V	ABL1	p.L248V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L248V	ABL1	p.L248V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L248V	ABL1	p.L248V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L273M	ABL1	p.L273M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L273M	ABL1	p.L273M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L273M	ABL1	p.L273M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L298V	ABL1	p.L298V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L298V	ABL1	p.L298V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L298V	ABL1	p.L298V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L298V	ABL1	p.L298V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L298V	ABL1	p.L298V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L324Q	ABL1	p.L324Q	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L324Q	ABL1	p.L324Q	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L340L	ABL1	p.L340L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L364I	ABL1	p.L364I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L364I	ABL1	p.L364I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L364I	ABL1	p.L364I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L364I	ABL1	p.L364I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L364I	ABL1	p.L364I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L370P	ABL1	p.L370P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L384M	ABL1	p.L384M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L384M	ABL1	p.L384M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L384M	ABL1	p.L384M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L384M	ABL1	p.L384M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L387F	ABL1	p.L387F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L387F	ABL1	p.L387F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L387M	ABL1	p.L387M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L387M	ABL1	p.L387M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L387M	ABL1	p.L387M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L387M	ABL1	p.L387M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L387M	ABL1	p.L387M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L387M	ABL1	p.L387M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L387M	ABL1	p.L387M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L387M	ABL1	p.L387M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.L387V	ABL1	p.L387V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.L576P	KIT	p.L576P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.L576P	KIT	p.L576P	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M237V	ABL1	p.M237V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M244V	ABL1	p.M244V	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M343T	ABL1	p.M343T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M343T	ABL1	p.M343T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351K	ABL1	p.M351K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M351T	ABL1	p.M351T	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M388L	ABL1	p.M388L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M388L	ABL1	p.M388L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M388L	ABL1	p.M388L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.M472I	ABL1	p.M472I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.N368S	ABL1	p.N368S	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.N374Y	ABL1	p.N374Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N680K	KIT	p.N680K	4:55595550..55595550
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822K	KIT	p.N822K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822K	KIT	p.N822K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822K	KIT	p.N822K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822K	KIT	p.N822K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822K	KIT	p.N822K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822K	KIT	p.N822K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822K	KIT	p.N822K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822K	KIT	p.N822K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822K	KIT	p.N822K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822K	KIT	p.N822K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822K	KIT	p.N822K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822Y	KIT	p.N822Y	4:55599338..55599338
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822Y	KIT	p.N822Y	4:55599338..55599338
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.N822Y	KIT	p.N822Y	4:55599338..55599338
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.P310S	ABL1	p.P310S	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.P480L	ABL1	p.P480L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.P480L	ABL1	p.P480L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.P577S	PDGFRA	p.P577S	4:55141083..55141083
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252E	ABL1	p.Q252E	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252H	ABL1	p.Q252H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252K	ABL1	p.Q252K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252M	ABL1	p.Q252M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252R	ABL1	p.Q252R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Q252R	ABL1	p.Q252R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.R328M	ABL1	p.R328M	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.R748G	PDGFRA	p.R748G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.R783G	ABL1	p.R783G	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.R841K	PDGFRA	p.R841K	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.S417F	ABL1	p.S417F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.S417Y	ABL1	p.S417Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.S417Y	ABL1	p.S417Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.S417Y	ABL1	p.S417Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.S417Y	ABL1	p.S417Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.S417Y	ABL1	p.S417Y	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.S438C	ABL1	p.S438C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.S438C	ABL1	p.S438C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.S438C	ABL1	p.S438C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.S709F	KIT	p.S709F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.S821F	KIT	p.S821F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T277A	ABL1	p.T277A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T277A	ABL1	p.T277A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T277A	ABL1	p.T277A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315A	ABL1	p.T315A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315I	ABL1	p.T315I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.T315N	ABL1	p.T315N	9:133748283..133748283
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.T670E	KIT	p.T670E	4:55595518..55595519
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.T670E	KIT	p.T670E	4:55595518..55595519
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.T670I	KIT	p.T670I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.T670I	KIT	p.T670I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.T670I	KIT	p.T670I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.T670I	KIT	p.T670I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.T670I	KIT	p.T670I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.T670I	KIT	p.T670I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.T670I	KIT	p.T670I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.T670I	KIT	p.T670I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.T670I	KIT	p.T670I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA#p.T674I	PDGFRA	p.T674I	4:55144547..55144547
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V256L	ABL1	p.V256L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V280A	ABL1	p.V280A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V289A	ABL1	p.V289A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V289F	ABL1	p.V289F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V289F	ABL1	p.V289F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V289F	ABL1	p.V289F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V289I	ABL1	p.V289I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V299L	ABL1	p.V299L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V299L	ABL1	p.V299L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V299L	ABL1	p.V299L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V371A	ABL1	p.V371A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V379I	ABL1	p.V379I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V379I	ABL1	p.V379I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V379I	ABL1	p.V379I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V379I	ABL1	p.V379I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V379I	ABL1	p.V379I	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.V390L	ABL1	p.V390L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V559A	KIT	p.V559A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V559A	KIT	p.V559A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V559D	KIT	p.V559D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V559I	KIT	p.V559I	4:55593609..55593609
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V603D	KIT	p.V603D	4:55594022..55594022
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V654A	KIT	p.V654A	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.W261L	ABL1	p.W261L	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.W557R	KIT	p.W557R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.W557R	KIT	p.W557R	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253F	ABL1	p.Y253F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253F	ABL1	p.Y253F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253F	ABL1	p.Y253F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253F	ABL1	p.Y253F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253F	ABL1	p.Y253F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253F	ABL1	p.Y253F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253F	ABL1	p.Y253F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253F	ABL1	p.Y253F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253F	ABL1	p.Y253F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253F	ABL1	p.Y253F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253F	ABL1	p.Y253F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253F	ABL1	p.Y253F	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y253H	ABL1	p.Y253H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y320C	ABL1	p.Y320C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y320C	ABL1	p.Y320C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y342H	ABL1	p.Y342H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y353H	ABL1	p.Y353H	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1#p.Y393C	ABL1	p.Y393C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y553N	KIT	p.Y553N	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y553N	KIT	p.Y553N	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	CSF1R#p.Y571D	CSF1R	p.Y571D	5:149441328..149441328
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y578C	KIT	p.Y578C	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y823D	KIT	p.Y823D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y823D	KIT	p.Y823D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y823D	KIT	p.Y823D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y823D	KIT	p.Y823D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y823D	KIT	p.Y823D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y823D	KIT	p.Y823D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y823D	KIT	p.Y823D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y823D	KIT	p.Y823D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y823D	KIT	p.Y823D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.Y823D	KIT	p.Y823D	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT::consequence::inframe_deletion:416-422,::inframe_insertion:416-422	KIT	KIT inframe deletion (416-422),inframe insertion (416-422)	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT::consequence::inframe_deletion:V560.	KIT	KIT inframe deletion (V560)	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	NF1:del	NF1	NF1 deletion	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	NF2:del	NF2	NF2 deletion	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.D579del	KIT	p.D579 del	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.577_579del	KIT	p.P577_D579 del	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.V560del	KIT	p.V560 del	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT#p.569_578del	KIT	p.V569_Y578 del	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA::consequence::inframe_deletion:I843.	PDGFRA	PDGFRA inframe deletion (I843)	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	ABL1__BCR	ABL1	ABL1-BCR fusion	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT:627-664,664-714,449-514	KIT	KIT (627-664,664-714,449-514)	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT:D816.	KIT	KIT (D816)	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT:amp	KIT	KIT amplification	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT:788-828	KIT	KIT mutation in exon 17	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT:788-828,829-860	KIT	KIT mutation in exon 17 or 18	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT:550-592,627-664	KIT	KIT mutation in exon 9,11,13,14 or 17	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT:550-592,627-664	KIT	KIT mutation in exon 9,11,13,14 or 17	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT:449-514,550-592,627-664,664-714,788-828	KIT	KIT mutation in exon 9,11,13,14 or 17	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KIT::wildtype:.	KIT	KIT wildtype	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	KRAS:G12.	KRAS	KRAS (G12)	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	NF1:.	NF1	NF1 oncogenic mutation	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	NF2:.	NF2	NF2 oncogenic mutation	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFB__COL1A1	PDGFB	PDGFB-COL1A1 fusion	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA:552-596,631-668,814-854	PDGFRA	PDGFRA (552-596,631-668,814-854)	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA__.	PDGFRA	PDGFRA fusion	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA::wildtype:.	PDGFRA	PDGFRA wildtype	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PDGFRA__FIP1L1	PDGFRA	PDGFRA-FIP1L1 fusion	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PRKCH:amp;ABL1__BCR	ABL1	PRKCH amplification + ABL1-BCR fusion	.
+Imatinib	Imatinib (伊马替尼)	ABL;KIT;KIT	PRKCH:amp;ABL1__BCR	PRKCH	PRKCH amplification + ABL1-BCR fusion	.
+Ipilimumab	Ipilimumab (易普利姆玛)	IgG1 	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Ipilimumab	Ipilimumab (易普利姆玛)	IgG1 	BRAF#p.V600K	BRAF	p.V600K	7:140453136..140453137
+Ipilimumab	Ipilimumab (易普利姆玛)	IgG1 	BRAF#p.V600R	BRAF	p.V600R	7:140453136..140453137
+Irinotecan	Irinotecan	TOP1	RAD50:L1237F;ATM:del	ATM	RAD50 (L1237F) + ATM deletion	.
+Irinotecan	Irinotecan	TOP1	RAD50:L1237F;ATM:del	RAD50	RAD50 (L1237F) + ATM deletion	.
+Irinotecan	Irinotecan	TOP1	BRAF:V600.	BRAF	BRAF (V600)	.
+Irinotecan	Irinotecan	TOP1	UGT1A1:.	UGT1A1	UGT1A1 biallelic inactivation	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB2	ERBB2#p.D769H	ERBB2	p.D769H	17:37880261..37880261
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB3	ERBB2#p.D769Y	ERBB2	p.D769Y	17:37880261..37880261
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB4	ERBB4#p.E317K	ERBB4	p.E317K	2:212578308..212578308
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB5	ERBB4#p.E452K	ERBB4	p.E452K	2:212566827..212566827
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB6	EGFR#p.E690K	EGFR	p.E690K	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB7	ERBB4#p.E872K	ERBB4	p.E872K	2:212295699..212295699
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB8	ERBB3#p.G284R	ERBB3	p.G284R	12:56481922..56481922
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB9	ERBB2#p.G309A	ERBB2	p.G309A	17:37868205..37868205
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB10	EGFR#p.G719A	EGFR	p.G719A	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB11	EGFR#p.G719D	EGFR	p.G719D	7:55241708..55241708
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB12	EGFR#p.G721V	EGFR	p.G721V	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB13	ERBB4#p.H809G	ERBB4	p.H809G	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB14	EGFR#p.I789M	EGFR	p.I789M	7:55249069..55249069
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB15	EGFR#p.K716R	EGFR	p.K716R	7:55241699..55241699
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB16	ERBB2#p.K753E	ERBB2	p.K753E	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB17	EGFR#p.L858R	EGFR	p.L858R	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB18	EGFR#p.N842H	EGFR	p.N842H	7:55259466..55259466
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB19	ERBB3#p.P262H	ERBB3	p.P262H	12:56481857..56481857
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB20	ERBB3#p.Q809R	ERBB3	p.Q809R	12:56490980..56490980
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB21	ERBB4#p.R393W	ERBB4	p.R393W	2:212570064..212570064
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB22	ERBB4#p.R544W	ERBB4	p.R544W	2:212537975..212537975
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB23	ERBB2#p.R896C	ERBB2	p.R896C	17:37881616..37881616
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB24	EGFR#p.S720C	EGFR	p.S720C	7:55241711..55241711
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB25	EGFR#p.T790M	EGFR	p.T790M	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB26	ERBB2#p.V659E	ERBB2	p.V659E	17:37879601..37879602
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB27	EGFR#p.V742I	EGFR	p.V742I	7:55242454..55242454
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB28	EGFR#p.V769L	EGFR	p.V769L	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB29	EGFR#p.V774M	EGFR	p.V774M	7:55249022..55249022
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB30	ERBB2#p.V777L	ERBB2	p.V777L	17:37881000..37881000
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB31	ERBB2#p.V842I	ERBB2	p.V842I	17:37881332..37881332
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB32	NF2:del	NF2	NF2 deletion	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB33	EGFR#p.771in_frame_insSVD	EGFR	p.771in_frame_insSVD	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB34	EGFR#p.ELREA746in_frame_del	EGFR	p.ELREA746in_frame_ del	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB35	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB36	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB37	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB38	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB39	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB40	ERBB2:over	ERBB2	ERBB2 overexpression	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB41	ERBB2::consequence::inframe_insertion:775-881	ERBB2	ERBB2 proximal exon 20	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB42	ERBB2::consequence::inframe_insertion:775-881	ERBB2	ERBB2 proximal exon 20	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB43	ERBB4__.	ERBB4	ERBB4 fusion	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB44	KRAS:.	KRAS	KRAS oncogenic mutation	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB45	MET:amp;ERBB2:amp	ERBB2	MET amplification + ERBB2 amplification	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB46	MET:amp;ERBB2:amp	MET	MET amplification + ERBB2 amplification	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB47	NF2:.	NF2	NF2 oncogenic mutation	.
+Lapatinib	Lapatinib (拉帕替尼)	EGFR;ERBB48	NRG1__.	NRG1	NRG1 fusion	.
+MK2206	MK2206	AKT	AKT2:amp	AKT2	AKT2 amplification	.
+MK2206	MK2206	AKT	ERBB2:over	ERBB2	ERBB2 overexpression	.
+MK2206	MK2206	AKT	HER2 amplification	HER2	HER2 amplification	.
+MK2206	MK2206	AKT	PI3KCA oncogenic mutation	PI3KCA	PI3KCA oncogenic mutation	.
+MK2206	MK2206	AKT	PI3KCA oncogenic mutation	PIK3CA	PI3KCA oncogenic mutation	.
+MK2206	MK2206	AKT	PTEN loss (Loss of PTEN activity)	PTEN	PTEN loss (Loss of PTEN activity)	.
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2#p.D769H	ERBB2	p.D769H	17:37880261..37880261
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2#p.D769Y	ERBB2	p.D769Y	17:37880261..37880261
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2#p.G309A	ERBB2	p.G309A	17:37868205..37868205
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2#p.K753E	ERBB2	p.K753E	.
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2#p.L755S	ERBB2	p.L755S	17:37880220..37880220
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2#p.R896C	ERBB2	p.R896C	17:37881616..37881616
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2#p.V777L	ERBB2	p.V777L	17:37881000..37881000
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2#p.V842I	ERBB2	p.V842I	17:37881332..37881332
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2::consequence::inframe_deletion:755-759,::inframe_insertion:.780GSP,::inframe_insertion:.781GSP	ERBB2	ERBB2 inframe deletion (755-759),inframe insertion (780GSP),inframe insertion (781GSP)	.
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2::consequence::inframe_insertion:P780GSP,::inframe_insertion:.781GSP,::inframe_insertion:A775YVMA,::inframe_insertion:G776YVMA	ERBB2	ERBB2 inframe insertion (P780GSP),inframe insertion (781GSP),inframe insertion (A775YVMA),inframe insertion (G776YVMA)	.
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2:S310.,L755.,V777.	ERBB2	ERBB2 (S310,L755,V777)	.
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2:.	ERBB2	ERBB2 oncogenic mutation	.
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2::consequence::inframe_insertion:775-881	ERBB2	ERBB2 proximal exon 20	.
+Neratinib	Neratinib (来那替尼)	ERBB2	ERBB2::consequence::inframe_insertion:775-881	ERBB2	ERBB2 proximal exon 20	.
+Nintedanib	Nintedanib	KIT; PDGFR; RAF; RET; VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	RET__.	RET	RET fusion	.
+Osimertinib	Osimertinib (奥希替尼)	EGFR	EGFR#p.L858R	EGFR	p.L858R	.
+Osimertinib	Osimertinib (奥希替尼)	EGFR	EGFR#p.T790M	EGFR	p.T790M	.
+Osimertinib	Osimertinib (奥希替尼)	EGFR	EGFR::consequence::inframe_deletion:729-761	EGFR	EGFR exon 19 deletions	.
+Osimertinib	Osimertinib (奥希替尼)	EGFR	EGFR::consequence::inframe_insertion:762-823	EGFR	EGFR exon 20 insertions	.
+Osimertinib	Osimertinib (奥希替尼)	EGFR	EGFR:L718.	EGFR	EGFR (L718)	7:55241704..55241705
+Osimertinib	Osimertinib (奥希替尼)	EGFR	EGFR:L792.	EGFR	EGFR (L792)	.
+Osimertinib	Osimertinib (奥希替尼)	EGFR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Osimertinib	Osimertinib (奥希替尼)	EGFR	MET:amp	MET	MET amplification	.
+Palbociclib	Palbociclib (帕博西尼)	CDK4;CDK6	CCND1:amp	CCND1	CCND1 amplification	.
+Palbociclib	Palbociclib (帕博西尼)	CDK4;CDK7	CCND2:amp	CCND2	CCND2 amplification	.
+Palbociclib	Palbociclib (帕博西尼)	CDK4;CDK8	CDK4:amp	CDK4	CDK4 amplification	.
+Palbociclib	Palbociclib (帕博西尼)	CDK4;CDK9	CDKN2A: inactivating mutation	CDKN2A	CDKN2A: inactivating mutation	.
+Palbociclib	Palbociclib (帕博西尼)	CDK4;CDK10	ERBB2:norm;ESR1:over	ERBB2	ERBB2 expression + ESR1 overexpression	.
+Palbociclib	Palbociclib (帕博西尼)	CDK4;CDK11	ERBB2:norm;ESR1:over	ESR1	ERBB2 expression + ESR1 overexpression	.
+Palbociclib	Palbociclib (帕博西尼)	CDK4;CDK12	RB1:over	RB1	RB1 overexpression	.
+Panitumumab	Panitumumab (帕尼单抗)	IgG2 ;EGFR	EGFR#p.G465R	EGFR	p.G465R	7:55227926..55227926
+Panitumumab	Panitumumab (帕尼单抗)	IgG3 ;EGFR	EGFR#p.S492R	EGFR	p.S492R	7:55228009..55228009
+Panitumumab	Panitumumab (帕尼单抗)	IgG4 ;EGFR	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Panitumumab	Panitumumab (帕尼单抗)	IgG5 ;EGFR	BRAF:V600.	BRAF	BRAF (V600)	.
+Panitumumab	Panitumumab (帕尼单抗)	IgG6 ;EGFR	EGFR:over	EGFR	EGFR overexpression	.
+Panitumumab	Panitumumab (帕尼单抗)	IgG7 ;EGFR	KRAS:.	KRAS	KRAS oncogenic mutation	.
+Panitumumab	Panitumumab (帕尼单抗)	IgG8 ;EGFR	MET:amp	MET	MET amplification	.
+Panitumumab	Panitumumab (帕尼单抗)	IgG9 ;EGFR	MET:amp;BRAF:V600E	MET	MET amplification + BRAF (V600E)	.
+Panitumumab	Panitumumab (帕尼单抗)	IgG10 ;EGFR	MET:amp;BRAF:V600E	BRAF	MET amplification + BRAF (V600E)	.
+Panitumumab	Panitumumab (帕尼单抗)	IgG11 ;EGFR	NRAS:.	NRAS	NRAS oncogenic mutation	.
+Panitumumab	Panitumumab (帕尼单抗)	IgG12 ;EGFR	PTEN:.	PTEN	PTEN biallelic inactivation	.
+Pazopanib	Pazopanib (培唑帕尼)	KIT; PDGFR; RAF; RET; VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	NF1:.	NF1	NF1 oncogenic mutation	.
+Pazopanib	Pazopanib (培唑帕尼)	KIT; PDGFR; RAF; RET; VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	UGT1A1:.	UGT1A1	UGT1A1 biallelic inactivation	.
+Pembrolizumab	Pembrolizumab (派姆单抗)	PD-1	CD274:over	CD274	CD274 overexpression	.
+Selumetinib	Selumetinib	MEK1;MEK2	HRAS#p.G12R	HRAS	p.G12R	11:534289..534289
+Selumetinib	Selumetinib	MEK1;MEK3	HRAS#p.G12V	HRAS	p.G12V	11:534288..534288
+Selumetinib	Selumetinib	MEK1;MEK4	HRAS#p.G13C	HRAS	p.G13C	11:534286..534286
+Selumetinib	Selumetinib	MEK1;MEK5	HRAS#p.G13R	HRAS	p.G13R	11:534286..534286
+Selumetinib	Selumetinib	MEK1;MEK6	GNA11#p.Q209L	GNA11	p.Q209L	19:3118942..3118942
+Selumetinib	Selumetinib	MEK1;MEK7	GNAQ#p.Q209L	GNAQ	p.Q209L	9:80409488..80409488
+Selumetinib	Selumetinib	MEK1;MEK8	GNA11#p.Q209P	GNA11	p.Q209P	19:3118942..3118942
+Selumetinib	Selumetinib	MEK1;MEK9	NRAS#p.Q61K	NRAS	p.Q61K	1:115256530..115256530
+Selumetinib	Selumetinib	MEK1;MEK10	HRAS#p.Q61R	HRAS	p.Q61R	11:533874..533874
+Selumetinib	Selumetinib	MEK1;MEK11	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Selumetinib	Selumetinib	MEK1;MEK12	MAP2K1::consequence::inframe_deletion:56-60	MAP2K1	MAP2K1 inframe deletion (56-60)	.
+Selumetinib	Selumetinib	MEK1;MEK13	NF1:del	NF1	NF1 deletion	.
+Selumetinib	Selumetinib	MEK1;MEK14	NF1:del;BRAF:.	NF1	NF1 deletion + BRAF oncogenic mutation	.
+Selumetinib	Selumetinib	MEK1;MEK15	NF1:del;BRAF:.	BRAF	NF1 deletion + BRAF oncogenic mutation	.
+Selumetinib	Selumetinib	MEK1;MEK16	BRAF__.	BRAF	BRAF fusion	.
+Selumetinib	Selumetinib	MEK1;MEK17	KRAS:.	KRAS	KRAS oncogenic mutation	.
+Selumetinib	Selumetinib	MEK1;MEK18	KRAS:.	KRAS	KRAS oncogenic mutation	.
+Selumetinib	Selumetinib	MEK1;MEK19	NF1:.	NF1	NF1 oncogenic mutation	.
+Selumetinib	Selumetinib	MEK1;MEK20	NF1:.;BRAF:.	NF1	NF1 oncogenic mutation + BRAF oncogenic mutation	.
+Selumetinib	Selumetinib	MEK1;MEK21	NF1:.;BRAF:.	BRAF	NF1 oncogenic mutation + BRAF oncogenic mutation	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT4)	RET#p.C634W	RET	p.C634W	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT5)	FLT3#p.D835Y	FLT3	p.D835Y	13:28592642..28592642
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT6)	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT7)	PDGFRA#p.D842V	PDGFRA	p.D842V	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT8)	KIT#p.E490K	KIT	p.E490K	4:55592144..55592144
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT9)	KIT#p.G812V	KIT	p.G812V	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT10)	KIT#p.H697Y	KIT	p.H697Y	4:55595599..55595599
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT11)	KIT#p.H697Y	KIT	p.H697Y	4:55595599..55595599
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT12)	KIT#p.I571K	KIT	p.I571K	4:55593646..55593646
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT13)	KIT#p.K642E	KIT	p.K642E	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT14)	KIT#p.L576P	KIT	p.L576P	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT15)	KIT#p.L576P	KIT	p.L576P	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT16)	PHKG2#p.M260I	PHKG2	p.M260I	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT17)	RET#p.M918T	RET	p.M918T	10:43617416..43617416
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT18)	KIT#p.N822K	KIT	p.N822K	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT19)	KIT#p.N822K	KIT	p.N822K	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT20)	PHKG2#p.V50M	PHKG2	p.V50M	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT21)	KIT#p.V559A	KIT	p.V559A	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT22)	KIT#p.V559D	KIT	p.V559D	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT23)	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT24)	KIT#p.V603D	KIT	p.V603D	4:55594022..55594022
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT25)	KIT#p.W557R	KIT	p.W557R	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT26)	KIT#p.W557R	KIT	p.W557R	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT27)	KIT#p.Y553N	KIT	p.Y553N	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT28)	KIT#p.Y553N	KIT	p.Y553N	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT29)	KIT#p.Y823D	KIT	p.Y823D	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT30)	KIT#p.577_579del	KIT	p.P577_D579 del	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT31)	KIT#p.V560del	KIT	p.V560 del	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT32)	CA9:over	CA9	CA9 overexpression	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT33)	VEGFR2:over	FLT1	FLT1 overexpression	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT34)	VEGFR1:over	FLT1	FLT1 overexpression	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT35)	HIF1A:over	HIF1A	HIF1A overexpression	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT36)	KIT:amp	KIT	KIT amplification	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT37)	KIT:550-592	KIT	KIT mutation in exon 11	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT38)	KIT:788-828	KIT	KIT mutation in exon 17	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT39)	KIT:550-592,627-664	KIT	KIT mutation in exon 9,11,13,14 or 17	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT40)	KIT:449-514,550-592,627-664,664-714,788-828	KIT	KIT mutation in exon 9,11,13,14 or 17	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT41)	KIT::wildtype:.	KIT	KIT wildtype	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT42)	MKI67:over	MKI67	MKI67 overexpression	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT43)	PDGFRA:552-596,631-668,814-854	PDGFRA	PDGFRA (552-596,631-668,814-854)	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT44)	PDGFRA:over	PDGFRA	PDGFRA overexpression	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT45)	PDGFRA::wildtype:.	PDGFRA	PDGFRA wildtype	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT46)	RET__.	RET	RET fusion	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT47)	RET__TPCN1	RET	RET-TPCN1 fusion	.
+Sunitinib	Sunitinib (舒尼替尼)	KIT;VEGFR1(FLT1);VEGFR2(KDR);VEGFR3(FLT48)	VHL:.	VHL	VHL oncogenic mutation	.
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K2	MAP2K2#p.C125S	MAP2K2	p.C125S	19:4110583..4110583
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K3	BRAF#p.K601R	BRAF	p.K601R	.
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K4	MAP2K2#p.L46F	MAP2K2	p.L46F	19:4117584..4117584
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K5	BRAF#p.L597R	BRAF	p.L597R	7:140453145..140453145
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K6	MAP2K2#p.N126D	MAP2K2	p.N126D	19:4110581..4110581
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K7	MAP2K1#p.Q56P	MAP2K1	p.Q56P	15:66727451..66727451
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K8	MAP2K2#p.V35M	MAP2K2	p.V35M	19:4117617..4117617
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K9	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K10	BRAF#p.V600K	BRAF	p.V600K	7:140453136..140453137
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K11	BRAF#p.V600R	BRAF	p.V600R	7:140453136..140453137
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K12	NF1:del	NF1	NF1 deletion	.
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K13	NF1:del	NF1	NF1 deletion	.
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K14	NF1:del	NF1	NF1 deletion	.
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K15	BRAF__.	BRAF	BRAF fusion	.
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K16	KRAS:.	KRAS	KRAS oncogenic mutation	.
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K17	NF1:.	NF1	NF1 oncogenic mutation	.
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K18	NF1:.	NF1	NF1 oncogenic mutation	.
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K19	NF1:.	NF1	NF1 oncogenic mutation	.
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K20	PRKCH:amp;ABL1__BCR	ABL1	PRKCH amplification + ABL1-BCR fusion	.
+Trametinib	Trametinib (曲美替尼)	MAP2K1;MAP2K21	PRKCH:amp;ABL1__BCR	PRKCH	PRKCH amplification + ABL1-BCR fusion	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB3;EGFR	ERBB2#p.C311R	ERBB2	p.C311R	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB4;EGFR	ERBB2#p.C311R	ERBB2	p.C311R	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB5;EGFR	ERBB2#p.C334S	ERBB2	p.C334S	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB6;EGFR	ERBB2#p.D769H	ERBB2	p.D769H	17:37880261..37880261
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB7;EGFR	ERBB2#p.D769Y	ERBB2	p.D769Y	17:37880261..37880261
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB8;EGFR	ERBB2#p.E321G	ERBB2	p.E321G	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB9;EGFR	ERBB3#p.G284R	ERBB3	p.G284R	12:56481922..56481922
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB10;EGFR	ERBB2#p.G309E	ERBB2	p.G309E	17:37868205..37868205
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB11;EGFR	ERBB2#p.G309E	ERBB2	p.G309E	17:37868205..37868205
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB12;EGFR	ERBB2#p.G776L	ERBB2	p.G776L	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB13;EGFR	ERBB3#p.P262H	ERBB3	p.P262H	12:56481857..56481857
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB14;EGFR	ERBB3#p.Q809R	ERBB3	p.Q809R	12:56490980..56490980
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB15;EGFR	AKT3#p.R247C	AKT3	p.R247C	1:243736308..243736308
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB16;EGFR	ERBB2#p.R896C	ERBB2	p.R896C	17:37881616..37881616
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB17;EGFR	ERBB2#p.S310F	ERBB2	p.S310F	17:37868208..37868208
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB18;EGFR	ERBB2#p.S310F	ERBB2	p.S310F	17:37868208..37868208
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB19;EGFR	ERBB2#p.S310Y	ERBB2	p.S310Y	17:37868208..37868208
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB20;EGFR	ERBB2#p.S310Y	ERBB2	p.S310Y	17:37868208..37868208
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB21;EGFR	ERBB2::consequence::inframe_insertion:A775YVMA,::inframe_insertion:G776VC	ERBB2	ERBB2 inframe insertion (A775YVMA),inframe insertion (G776VC)	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB22;EGFR	ARID1A:amp;ANXA1:over	ANXA1	ARID1A amplification + ANXA1 overexpression	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB23;EGFR	ARID1A:amp;ANXA1:over	ARID1A	ARID1A amplification + ANXA1 overexpression	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB24;EGFR	ARID1A:.;ANXA1:over	ANXA1	ARID1A oncogenic mutation + ANXA1 overexpression	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB25;EGFR	ARID1A:.;ANXA1:over	ARID1A	ARID1A oncogenic mutation + ANXA1 overexpression	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB26;EGFR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB27;EGFR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB28;EGFR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB29;EGFR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB30;EGFR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB31;EGFR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB32;EGFR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB33;EGFR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB34;EGFR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB35;EGFR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB36;EGFR	ERBB2:amp	ERBB2	ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB37;EGFR	ERBB2:over	ERBB2	ERBB2 overexpression	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB38;EGFR	ERBB2:over	ERBB2	ERBB2 overexpression	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB39;EGFR	ERBB2:over	ERBB2	ERBB2 overexpression	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB40;EGFR	ERBB2::consequence::inframe_insertion:775-881	ERBB2	ERBB2 proximal exon 20	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB41;EGFR	ERBB2::consequence::inframe_insertion:775-881	ERBB2	ERBB2 proximal exon 20	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB42;EGFR	HGF:amp;ERBB2:amp	ERBB2	HGF amplification + ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB43;EGFR	HGF:amp;ERBB2:amp	HGF	HGF amplification + ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB44;EGFR	KRAS:.	KRAS	KRAS oncogenic mutation	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB45;EGFR	MET:amp;ERBB2:amp	ERBB2	MET amplification + ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB46;EGFR	MET:amp;ERBB2:amp	ERBB2	MET amplification + ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB47;EGFR	MET:amp;ERBB2:amp	ERBB2	MET amplification + ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB48;EGFR	MET:amp;ERBB2:amp	MET	MET amplification + ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB49;EGFR	MET:amp;ERBB2:amp	MET	MET amplification + ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB50;EGFR	MET:amp;ERBB2:amp	MET	MET amplification + ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB51;EGFR	PIK3CA:.;ERBB2:amp	ERBB2	PIK3CA oncogenic mutation + ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB52;EGFR	PIK3CA:.;ERBB2:amp	PIK3CA	PIK3CA oncogenic mutation + ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB53;EGFR	PTEN:.;ERBB2:amp	ERBB2	PTEN oncogenic mutation + ERBB2 amplification	.
+Trastuzumab	Trastuzumab (曲妥珠单抗)	ERBB2;ERBB54;EGFR	PTEN:.;ERBB2:amp	PTEN	PTEN oncogenic mutation + ERBB2 amplification	.
+Vandetanib	Vandetanib (凡德他尼)	VEGFA;EGFR;RET	RET#p.C634W	RET	p.C634W	.
+Vandetanib	Vandetanib (凡德他尼)	VEGFA;EGFR;RET	RET#p.M918T	RET	p.M918T	10:43617416..43617416
+Vandetanib	Vandetanib (凡德他尼)	VEGFA;EGFR;RET	RET#p.M918T	RET	p.M918T	10:43617416..43617416
+Vandetanib	Vandetanib (凡德他尼)	VEGFA;EGFR;RET	ABL1#p.V299L	ABL1	p.V299L	.
+Vandetanib	Vandetanib (凡德他尼)	VEGFA;EGFR;RET	BRAF#p.V600E	BRAF	p.V600E	7:140453136..140453136
+Vandetanib	Vandetanib (凡德他尼)	VEGFA;EGFR;RET	RET#p.V804M	RET	p.V804M	.
+Vandetanib	Vandetanib (凡德他尼)	VEGFA;EGFR;RET	RET:.618.,.620.,.634.,.768.,.791.,.891.,.918.,C634W,M918T	RET	RET (618,620,634,768,791,891,918,C634W,M918T)	.
+Vandetanib	Vandetanib (凡德他尼)	VEGFA;EGFR;RET	RET__.	RET	RET fusion	.
+Vandetanib	Vandetanib (凡德他尼)	VEGFA;EGFR;RET	RET__TPCN1	RET	RET-TPCN1 fusion	.
+Vismodegib	Vismodegib (维莫德吉)	SMO	SMO#p.D473G	SMO	p.D473G	.
+Vismodegib	Vismodegib (维莫德吉)	SMO	SMO#p.D473H	SMO	p.D473H	.
+Vismodegib	Vismodegib (维莫德吉)	SMO	SMO#p.D473H	SMO	p.D473H	.
+Vismodegib	Vismodegib (维莫德吉)	SMO	SMO#p.G497W	SMO	p.G497W	7:128850226..128850226
+Vismodegib	Vismodegib (维莫德吉)	SMO	SMO#p.L412F	SMO	p.L412F	7:128846398..128846398
+Vismodegib	Vismodegib (维莫德吉)	SMO	SMO#p.Q477E	SMO	p.Q477E	.
+Vismodegib	Vismodegib (维莫德吉)	SMO	SMO#p.W281C	SMO	p.W281C	.
+Vismodegib	Vismodegib (维莫德吉)	SMO	SMO#p.W535L	SMO	p.W535L	7:128850341..128850341
+Vismodegib	Vismodegib (维莫德吉)	SMO	PTCH1:.	PTCH1	PTCH1 oncogenic mutation	.
+CF-102	CF-102	A3AR	.	.	.	.
+CS-1008	CS-1008（TRAIL-R2单抗）	TRAIL-R2	.	.	.	.
