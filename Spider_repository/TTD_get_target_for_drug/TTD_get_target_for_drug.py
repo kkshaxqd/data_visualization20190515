@@ -79,8 +79,8 @@ def get_drug_info_main(drug="Sorafenib"):
     driver.quit()
     return targets,references
 
-filin = "drug_name.txt"
-fileout = "drug_nameadd_target_wenxian.txt"
+filin = "E:\\haxqd\\201810\\drugtargetinfo.txt"
+fileout = "E:\\haxqd\\201810\\drugtargetinfo_add_target_and_other_info.txt"
 
 
 def write_result_step(line):
