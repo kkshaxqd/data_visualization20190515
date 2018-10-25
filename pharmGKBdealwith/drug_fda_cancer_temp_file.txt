@@ -1,0 +1,168 @@
+Drug	FDACANCER
+ABC-294640	.
+ABT-751	.
+Alvocidib	.
+AMG-386	.
+Anlotinib	.
+Apatinib	.
+ARQ-087	.
+ASLAN-001	.
+ATG-008	.
+Bavituximab	.
+BAY-869766	.
+BBI-503	.
+BBI-608	.
+Belinostat	Lymphoma;Peripheral T-cell Lymphoma
+BGB-A317	.
+BIIB022	.
+Capivasertib	.
+CBT-501	.
+CF-102	.
+CS-1008	.
+Axitinib	Renal Cell Carcinoma
+Bosutinib	Chronic Myelogenous Leukemia
+AG-013736	.
+Nilotinib	Chronic Myelogenous Leukemia
+Ponatinib	Acute Lymphoblastic Leukemia;Chronic Myelogenous Leukemia
+Tyrosine kinase inhibitor - NS	.
+Cabozantinib	Renal Cell Carcinoma;Thyroid Cancer
+Crizotinib	Non-Small Cell Lung Cancer
+Dasatinib	Chronic Myelogenous Leukemia;Acute Lymphoblastic Leukemia;Leukemia
+Foretinib	.
+Imatinib	Chronic Myelogenous Leukemia;Gastrointestinal Stromal Tumor;Myeloproliferative Disorders;Chronic Eosinophilic Leukemia;Acute Lymphoblastic Leukemia;Dermatofibrosarcoma Protuberans;Hypereosinophilic Syndrome;Myelodysplastic Diseases;Systemic Mastocytosis
+Trametinib	Melanoma, Metastatic;Thyroid Cancer;Non-Small Cell Lung Cancer
+Vandetanib	Thyroid Cancer
+Dabrafenib	Melanoma, Metastatic;Non-Small Cell Lung Cancer;Thyroid Cancer
+AKT 抑制剂	.
+BRAF 抑制剂	.
+non-allosteric AKT 抑制剂	.
+PI3K pathway 抑制剂	.
+MK-2206	.
+AZD5363	.
+GSK2141795	.
+Trastuzumab	Breast Cancer;Breast Cancer, Adjuvant;Breast Cancer, Metastatic;Esophageal Carcinoma;Gastric Cancer;Salivary Gland Cancer
+Alectinib	Non-Small Cell Lung Cancer
+Brigatinib	Non-Small Cell Lung Cancer
+Ceritinib	Non-Small Cell Lung Cancer
+Entrictinib	.
+Lorlatinib	.
+Sorafenib	Thyroid Cancer;Hepatic Tumor;Hepatocellular Carcinoma;Renal Cell Carcinoma
+AZD6738	.
+CHK1/2 抑制剂	.
+Cisplatin	Bladder Cancer;Blood Cell Transplantation;Bone Marrow Transplantation;Brain Tumor;Cervical Cancer;Neuroblastoma;Non-Small Cell Lung Cancer;Osteogenic Sarcoma;Ovarian Cancer;Testicular Cancer
+Olaparib	Ovarian Cancer;Breast Cancer, Metastatic
+Temozolomide	Anaplastic Astrocytoma;Glioblastoma Multiforme;Anaplastic Oligodendroglioma;Melanoma;Melanoma, Metastatic
+Irinotecan	Colorectal Cancer
+Binimetinib	Melanoma, Metastatic
+Cetuximab	Head and Neck Cancer;Non-Small Cell Lung Cancer;Colorectal Cancer;Pancreatic Cancer;Squamous Cell Carcinoma
+Cobimetinib	Melanoma, Metastatic
+Ipilimumab	Melanoma, Metastatic;Colorectal Cancer;Melanoma
+Panitumumab	Colorectal Cancer
+Selumetinib	.
+Sunitinib	Gastrointestinal Stromal Tumor;Renal Cell Carcinoma;Pancreatic Cancer
+Ibrutinib	Chronic Lymphocytic Leukemia;Mantle Cell Lymphoma;Graft-versus-host disease;Lymphoma;Non-Hodgkin's Lymphoma;Waldenström Macroglobulinemia
+JAK 抑制剂	.
+Palbociclib	Liposarcoma;Breast Cancer;Breast Cancer, Metastatic
+Atezolizumab	Bladder Cancer;Non-Small Cell Lung Cancer;Urothelial Carcinoma
+Avelumab	Merkel Cell Carcinoma;Urothelial Carcinoma
+Nivolumab	Colorectal Cancer;Head and Neck Cancer;Hepatocellular Carcinoma;Hodgkin's Lymphoma;Melanoma;Melanoma, Metastatic;Non-Small Cell Lung Cancer;Renal Cell Carcinoma;Small Cell Lung Cancer;Urothelial Carcinoma
+Pembrolizumab	Gastric Cancer;Head and Neck Cancer;Cervical Cancer;Colorectal Cancer;Melanoma;Melanoma, Metastatic;Non-Small Cell Lung Cancer;Primary Mediastinal Large B-cell Lymphoma;Solid Tumors;Urothelial Carcinoma
+CDX-1140	Cough and Nasal Congestion
+LEE011	.
+Ilorasertib	.
+AZD-0530	.
+dasatinib	Chronic Myelogenous Leukemia;Acute Lymphoblastic Leukemia;Leukemia
+Erlotinib	Non-Small Cell Lung Cancer;Pancreatic Cancer;Renal Cell Carcinoma
+Afatinib	Non-Small Cell Lung Cancer
+Gefitinib	Non-Small Cell Lung Cancer
+Afatinib + Cetuximab	Head and Neck Cancer;Non-Small Cell Lung Cancer;Colorectal Cancer;Pancreatic Cancer;Squamous Cell Carcinoma
+Afatinib + Cetuximab（阿法替尼+西妥昔单抗）	.
+Afatinib + Nimotuzumab	.
+AZD9291	.
+Lapatinib	Breast Cancer;Breast Cancer, Metastatic
+Cetuximab + Sirolimus	.
+EGFR 抑制剂	.
+HM61713	.
+HSP90 抑制剂	.
+MEK 抑制剂 	.
+novel EGFR mAb 抑制剂	.
+Rindopepimut	.
+Rociletinib	.
+Osimertinib	Non-Small Cell Lung Cancer
+Adecatumumab 	.
+MTOR 抑制剂	.
+Everolimus	Pancreatic Cancer;Neuroendocrine Carcinoma;Brain Tumor;Breast Cancer;Organ Transplant, Rejection Prophylaxis;Renal Angiomyolipoma;Renal Cell Carcinoma;Subependymal Giant Cell Astrocytoma;Tuberous Sclerosis
+Abemaciclib	Breast Cancer
+Anastrozole	Breast Cancer;Breast Cancer, Metastatic;McCune-Albright Syndrome;Endometrial Cancer;Pubertal Gynecomastia
+Dacomitinib	.
+Exemestane	Breast Cancer
+Neratinib	Breast Cancer, Adjuvant
+Fulvestrant	Breast Cancer;Breast Cancer, Metastatic
+Letrozole	Breast Cancer, Metastatic;Female Infertility;Breast Cancer;Breast Cancer, Adjuvant
+LHRH analogues or antagonist	.
+Pertuzumab	Breast Cancer;Breast Cancer, Metastatic
+Tak-285	.
+Tamoxifen	Breast Cancer, Adjuvant;Breast Cancer, Metastatic;Breast Cancer;Breast Cancer, Male;Breast Cancer, Palliative;Breast Cancer, Prevention;McCune-Albright Syndrome;Precocious Puberty
+Tensirolimus	.
+ERBB3 mAb 抑制剂	.
+PI3K pathway 抑制剂 + MEK 抑制剂	.
+Fluvestrant	.
+GDC-0810	.
+BLU-554	.
+ABT-869	.
+Crenolanib	.
+Lestaurtinib	.
+Midostaurin	Acute Myeloid Leukemia;Systemic Mastocytosis
+Quizartinib	.
+Venetoclax	Chronic Lymphocytic Leukemia
+BKM120	.
+GDC-0941	.
+PP24237	.
+Temsirolimus	Renal Cell Carcinoma
+AG-120	.
+AG-221	.
+Regorafenib	Hepatocellular Carcinoma;Colorectal Cancer;Gastrointestinal Stromal Tumor
+BCL2 抑制剂	.
+Decitabine	Myelodysplastic Syndrome;Acute Myeloid Leukemia
+Docetaxel	Breast Cancer;Breast Cancer, Metastatic;Gastric Cancer;Head and Neck Cancer;Non-Small Cell Lung Cancer;Prostate Cancer;Solid Tumors
+Gemcitabine	Non-Small Cell Lung Cancer;Pancreatic Cancer;Ovarian Cancer;Breast Cancer;Breast Cancer, Metastatic
+MEK 抑制剂	.
+AZD6244	.
+ERK 抑制剂	.
+novel MEK 抑制剂	.
+Panitumumab + Trametinib	.
+PLX4720	.
+Vemurafenib	Erdheim-Chester Disease;Melanoma, Metastatic
+ARQ-197	.
+MET 抑制剂	.
+Savolitinib	.
+AZD8055	.
+MTOR kinase 抑制剂	.
+Sirolimus	Organ Transplant, Rejection Prophylaxis;Lymphangioleiomyomatosis
+Avastin	Colorectal Cancer;Glioblastoma Multiforme;Cervical Cancer;Fallopian Tube Cancer;Non-Small Cell Lung Cancer;Ovarian Cancer;Peritoneal Cancer;Renal Cell Carcinoma
+Cediranib	.
+Pazopanib	Renal Cell Carcinoma;Soft Tissue Sarcoma
+Bevacizumab	Breast Cancer;Breast Cancer, Metastatic;Cervical Cancer;Colorectal Cancer;Fallopian Tube Cancer;Glioblastoma Multiforme;Macular Degeneration;Malignant Glioma;Neurofibromatosis;Non-Small Cell Lung Cancer;Ovarian Cancer;Pancreatic Cancer;Peritoneal Cancer;Renal Cell Carcinoma;Solid Tumors
+PLX3397	.
+Tipifarnib	.
+Vinblastine	Breast Cancer;Cancer;Choriocarcinoma;Histiocytosis;Lymphoma;Mycosis Fungoides;Testicular Cancer
+AR42	.
+Octreotide	Carcinoid Tumor;Acromegaly;Diarrhea;Dumping Syndrome;Gastrinoma;Glucagonoma;Insulinoma;Pituitary Adenoma;Postural Orthostatic Tachycardia Syndrome;Small Bowel or Pancreatic Fistula;Vasoactive Intestinal Peptide Tumor
+Entrectinib	.
+I型酪氨酸激酶抑制剂	.
+Vismodegib	Basal Cell Carcinoma
+BYL719	.
+U0126	.
+BIBF-1120	.
+Nintedanib	Idiopathic Pulmonary Fibrosis
+RET 抑制剂	.
+Lenvatinib	Thyroid Cancer;Hepatocellular Carcinoma;Renal Cell Carcinoma
+GDC-0449	.
+Saridegib	.
+SMO 抑制剂	.
+Sonidegib	Basal Cell Carcinoma
+C188-9	.
+Everolimus or Temsirolimus	Pancreatic Cancer;Neuroendocrine Carcinoma;Brain Tumor;Breast Cancer;Organ Transplant, Rejection Prophylaxis;Renal Angiomyolipoma;Renal Cell Carcinoma;Subependymal Giant Cell Astrocytoma;Tuberous Sclerosis
+BMS-247550	.
+Brivanib	.
+Adavosertib	.

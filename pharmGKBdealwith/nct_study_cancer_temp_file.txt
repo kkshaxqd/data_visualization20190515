@@ -1,0 +1,257 @@
+NCTID	nctstudycancer
+NCT02939807	NCT02939807:Phase 2:Carcinoma, Hepatocellular
+NCT00036959	NCT00036959:Phase 1:Brain and Central Nervous System Tumors;Childhood Germ Cell Tumor;Extragonadal Germ Cell Tumor;Kidney Cancer;Liver Cancer;Neuroblastoma;Ovarian Cancer;Sarcoma;Unspecified Childhood Solid Tumor, Protocol Specific
+NCT00087282	NCT00087282:Phase 2:Liver Cancer
+NCT00872014	NCT00872014:Phase 2:Advanced Hepatocellular Carcinoma;Inoperable Hepatocellular Carcinoma
+NCT02809534	NCT02809534:Phase 2:Hepatocellular Carcinoma
+NCT03092895	NCT03092895:Phase 2:Advanced Primary Liver Cancer;Advanced Biliary Tract Carcinoma
+NCT03230318	NCT03230318:Phase 2:Intrahepatic Cholangiocarcinoma;Combined Hepatocellular and Cholangiocarcinoma
+NCT03499626	NCT03499626:Phase 1|Phase 2:Advanced/ Metastatic Hepatocellular Carcinoma
+NCT03591965	NCT03591965:Phase 2:Hepatocellular Carcinoma
+NCT01264705	NCT01264705:Phase 1|Phase 2:Hepatocellular Carcinoma;Liver Cancer
+NCT01204177	NCT01204177:Phase 2:Carcinoma, Hepatocellular
+NCT02279719	NCT02279719:Phase 1|Phase 2:Hepatocellular Carcinoma
+NCT00321594	NCT00321594:Phase 1|Phase 2:Adult Primary Hepatocellular Carcinoma;Advanced Adult Primary Liver Cancer;Localized Unresectable Adult Primary Liver Cancer;Recurrent Adult Primary Liver Cancer
+NCT03419897	NCT03419897:Phase 2:Hepatocellular Carcinoma
+NCT00956436	NCT00956436:Phase 1:Hepatocellular Carcinoma
+NCT02465060	NCT02465060:Phase 2:Advanced Malignant Solid Neoplasm;Bladder Carcinoma;Breast Carcinoma;Cervical Carcinoma;Colon Carcinoma;Colorectal Carcinoma;Endometrial Carcinoma;Esophageal Carcinoma;Gastric Carcinoma;Glioma;Head and Neck Carcinoma;Kidney Carcinoma;Liver and Intrahepatic Bile Duct Carcinoma;Lung Carcinoma;Lymphoma;Malignant Uterine Neoplasm;Melanoma;Ovarian Carcinoma;Pancreatic Carcinoma;Plasma Cell Myeloma;Prostate Carcinoma;Rectal Carcinoma;Recurrent Bladder Carcinoma;Recurrent Breast Carcinoma;Recurrent Cervical Carcinoma;Recurrent Colon Carcinoma;Recurrent Colorectal Carcinoma;Recurrent Esophageal Carcinoma;Recurrent Gastric Carcinoma;Recurrent Glioma;Recurrent Head and Neck Carcinoma;Recurrent Liver Carcinoma;Recurrent Lung Carcinoma;Recurrent Lymphoma;Recurrent Malignant Solid Neoplasm;Recurrent Melanoma;Recurrent Ovarian Carcinoma;Recurrent Pancreatic Carcinoma;Recurrent Plasma Cell Myeloma;Recurrent Prostate Carcinoma;Recurrent Rectal Carcinoma;Recurrent Skin Carcinoma;Recurrent Thyroid Gland Carcinoma;Recurrent Uterine Corpus Carcinoma;Refractory Lymphoma;Refractory Malignant Solid Neoplasm;Refractory Plasma Cell Myeloma;Skin Carcinoma;Thyroid Gland Carcinoma;Uterine Corpus Cancer
+NCT03053466	NCT03053466:Phase 1:Solid Tumor;Advanced Cancers;Colorectal Cancer;Gastric Cancer;Hepatocellular Cancer;Non Small Cell Lung Cancer;Renal Cancer;Head and Neck Squamous Cell Carcinoma;CHL;Urothelial Carcinoma;Gastroesophageal Junction Adenocarcinoma;Microsatellite Instability;Mismatch Repair Deficiency;Esophageal Cancer;Cancer of Unknown Primary Site;Carcinosarcoma
+NCT00790218	NCT00790218:Phase 1|Phase 2:Hepatocellular Carcinoma
+NCT01033240	NCT01033240:Phase 2:Advanced Hepatocellular Carcinoma;Liver Cancer;Hepatic Cancer;Liver Neoplasms
+NCT01744249	NCT01744249:Phase 2|Phase 3:Neuroendocrine Tumors;Advanced Cancer
+NCT00012181	NCT00012181:Phase 1:Recurrent Childhood Brain Stem Glioma;Recurrent Childhood Cerebellar Astrocytoma;Recurrent Childhood Cerebral Astrocytoma;Recurrent Childhood Ependymoma;Recurrent Childhood Large Cell Lymphoma;Recurrent Childhood Liver Cancer;Recurrent Childhood Lymphoblastic Lymphoma;Recurrent Childhood Malignant Germ Cell Tumor;Recurrent Childhood Medulloblastoma;Recurrent Childhood Rhabdomyosarcoma;Recurrent Childhood Small Noncleaved Cell Lymphoma;Recurrent Childhood Soft Tissue Sarcoma;Recurrent Childhood Supratentorial Primitive Neuroectodermal Tumor;Recurrent Childhood Visual Pathway and Hypothalamic Glioma;Recurrent Childhood Visual Pathway Glioma;Recurrent Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor;Recurrent Neuroblastoma;Recurrent Osteosarcoma;Recurrent Retinoblastoma;Recurrent Wilms Tumor and Other Childhood Kidney Tumors;Recurrent/Refractory Childhood Hodgkin Lymphoma;Unspecified Childhood Solid Tumor, Protocol Specific
+NCT02702323	NCT02702323:Phase 2|Phase 3:Hepatocellular Carcinoma;Pulmonary Metastasis
+NCT02727309	NCT02727309:Phase 1|Phase 2:Hepatocellular Carcinoma
+NCT02942329	NCT02942329:Phase 1|Phase 2:Gastric Cancer;Hepatocellular Carcinoma
+NCT02772029	NCT02772029:Phase 1|Phase 2:Hepatocellular Carcinoma
+NCT03511703	NCT03511703:Phase 2:Hepatocellular Carcinoma
+NCT03261791	NCT03261791:Phase 2:Carcinoma, Hepatocellular
+NCT03114085	NCT03114085:Phase 2:Hepatocellular Carcinoma
+NCT03046979	NCT03046979:Phase 2:Hepatocellular Carcinoma
+NCT02329860	NCT02329860:Phase 3:Carcinoma, Hepatocellular
+NCT01192971	NCT01192971:Phase 2:Advanced Hepatocellular Carcinoma
+NCT01752920	NCT01752920:Phase 1|Phase 2:Solid Tumor
+NCT01656265	NCT01656265:Phase 1:Advanced Hepatocellular Carcinoma
+NCT00988741	NCT00988741:Phase 2:Unresectable Hepatocellular Carcinoma
+NCT00802555	NCT00802555:Phase 1:Cirrhosis;Hepatocellular Carcinoma
+NCT03519997	NCT03519997:Phase 2:Hepatocellular Carcinoma
+NCT02354898	NCT02354898:Phase 1:Advanced Solid Tumors;Hepatocellular Carcinoma
+NCT02232633	NCT02232633:Phase 2:Hepatocellular Carcinoma;Cholangiocarcinoma
+NCT02358395	NCT02358395:Phase 1:Hepatocellular Carcinoma
+NCT03412773	NCT03412773:Phase 3:Hepatocellular Carcinoma (HCC)
+NCT02128958	NCT02128958:Phase 2:Hepatocellular Carcinoma
+NCT01273662	NCT01273662:Phase 2:Hepatocellular Carcinoma
+NCT00608361	NCT00608361:Phase 1:Adult Acute Lymphoblastic Leukemia in Remission;Adult B Acute Lymphoblastic Leukemia;Adult Hepatocellular Carcinoma;Adult Nasal Type Extranodal NK/T-Cell Lymphoma;Adult Solid Neoplasm;Adult T Acute Lymphoblastic Leukemia;Advanced Adult Hepatocellular Carcinoma;Anaplastic Large Cell Lymphoma;Angioimmunoblastic T-Cell Lymphoma;Chronic Lymphocytic Leukemia;Cutaneous B-Cell Non-Hodgkin Lymphoma;Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue;Hepatosplenic T-Cell Lymphoma;Intraocular Lymphoma;Localized Non-Resectable Adult Liver Carcinoma;Localized Resectable Adult Liver Carcinoma;Lymphomatous Involvement of Non-Cutaneous Extranodal Site;Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma;Nodal Marginal Zone Lymphoma;Progressive Hairy Cell Leukemia Initial Treatment;Recurrent Adult Acute Lymphoblastic Leukemia;Recurrent Adult Burkitt Lymphoma;Recurrent Adult Diffuse Large Cell Lymphoma;Recurrent Adult Diffuse Mixed Cell Lymphoma;Recurrent Adult Diffuse Small Cleaved Cell Lymphoma;Recurrent Adult Grade III Lymphomatoid Granulomatosis;Recurrent Adult Hodgkin Lymphoma;Recurrent Adult Immunoblastic Lymphoma;Recurrent Adult Liver Carcinoma;Recurrent Adult Lymphoblastic Lymphoma;Recurrent Adult T-Cell Leukemia/Lymphoma;Recurrent Cutaneous T-Cell Non-Hodgkin Lymphoma;Recurrent Grade 1 Follicular Lymphoma;Recurrent Grade 2 Follicular Lymphoma;Recurrent Grade 3 Follicular Lymphoma;Recurrent Mantle Cell Lymphoma;Recurrent Marginal Zone Lymphoma;Recurrent Mycosis Fungoides and Sezary Syndrome;Recurrent Small Lymphocytic Lymphoma;Refractory Chronic Lymphocytic Leukemia;Refractory Hairy Cell Leukemia;Small Intestinal Lymphoma;Splenic Marginal Zone Lymphoma;Stage II Small Lymphocytic Lymphoma;Stage III Adult Burkitt Lymphoma;Stage III Adult Diffuse Large Cell Lymphoma;Stage III Adult Diffuse Mixed Cell Lymphoma;Stage III Adult Diffuse Small Cleaved Cell Lymphoma;Stage III Adult Hodgkin Lymphoma;Stage III Adult Immunoblastic Lymphoma;Stage III Adult Lymphoblastic Lymphoma;Stage III Adult T-Cell Leukemia/Lymphoma;Stage III Chronic Lymphocytic Leukemia;Stage III Cutaneous T-Cell Non-Hodgkin Lymphoma;Stage III Grade 1 Follicular Lymphoma;Stage III Grade 2 Follicular Lymphoma;Stage III Grade 3 Follicular Lymphoma;Stage III Mantle Cell Lymphoma;Stage III Marginal Zone Lymphoma;Stage III Small Lymphocytic Lymphoma;Stage IIIA Mycosis Fungoides and Sezary Syndrome;Stage IIIB Mycosis Fungoides and Sezary Syndrome;Stage IV Adult Burkitt Lymphoma;Stage IV Adult Diffuse Large Cell Lymphoma;Stage IV Adult Diffuse Mixed Cell Lymphoma;Stage IV Adult Diffuse Small Cleaved Cell Lymphoma;Stage IV Adult Hodgkin Lymphoma;Stage IV Adult Immunoblastic Lymphoma;Stage IV Adult Lymphoblastic Lymphoma;Stage IV Adult T-Cell Leukemia/Lymphoma;Stage IV Chronic Lymphocytic Leukemia;Stage IV Cutaneous T-Cell Non-Hodgkin Lymphoma;Stage IV Grade 1 Follicular Lymphoma;Stage IV Grade 2 Follicular Lymphoma;Stage IV Grade 3 Follicular Lymphoma;Stage IV Mantle Cell Lymphoma;Stage IV Marginal Zone Lymphoma;Stage IV Small Lymphocytic Lymphoma;Stage IVA Mycosis Fungoides and Sezary Syndrome;Stage IVB Mycosis Fungoides and Sezary Syndrome;T-Cell Large Granular Lymphocyte Leukemia;Testicular Lymphoma;Untreated Adult Acute Lymphoblastic Leukemia;Untreated Hairy Cell Leukemia;Waldenstrom Macroglobulinemia
+NCT00920192	NCT00920192:Phase 1:Carcinoma, Hepatocellular
+NCT00764595	NCT00764595:Phase 2:Gastrointestinal Stromal Tumor;Metastatic Cancer
+NCT00025415	NCT00025415:Phase 1:Accelerated Phase Chronic Myelogenous Leukemia;Acute Undifferentiated Leukemia;AIDS-related Peripheral/Systemic Lymphoma;AIDS-related Primary CNS Lymphoma;Anaplastic Large Cell Lymphoma;Angioimmunoblastic T-cell Lymphoma;Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative;Blastic Phase Chronic Myelogenous Leukemia;Childhood Myelodysplastic Syndromes;Chronic Eosinophilic Leukemia;Chronic Myelogenous Leukemia, BCR-ABL1 Positive;Chronic Myelomonocytic Leukemia;Chronic Neutrophilic Leukemia;Chronic Phase Chronic Myelogenous Leukemia;de Novo Myelodysplastic Syndromes;Essential Thrombocythemia;Extramedullary Plasmacytoma;Extranodal Marginal Zone B-cell Lymphoma of Mucosa-associated Lymphoid Tissue;Gastrointestinal Stromal Tumor;Intraocular Lymphoma;Isolated Plasmacytoma of Bone;Meningeal Chronic Myelogenous Leukemia;Monoclonal Gammopathy of Undetermined Significance;Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable;Nodal Marginal Zone B-cell Lymphoma;Polycythemia Vera;Previously Treated Myelodysplastic Syndromes;Primary Central Nervous System Non-Hodgkin Lymphoma;Primary Myelofibrosis;Primary Systemic Amyloidosis;Progressive Hairy Cell Leukemia, Initial Treatment;Prolymphocytic Leukemia;Recurrent Adult Acute Lymphoblastic Leukemia;Recurrent Adult Acute Myeloid Leukemia;Recurrent Adult Burkitt Lymphoma;Recurrent Adult Diffuse Large Cell Lymphoma;Recurrent Adult Diffuse Mixed Cell Lymphoma;Recurrent Adult Diffuse Small Cleaved Cell Lymphoma;Recurrent Adult Hodgkin Lymphoma;Recurrent Adult Immunoblastic Large Cell Lymphoma;Recurrent Adult Lymphoblastic Lymphoma;Recurrent Adult T-cell Leukemia/Lymphoma;Recurrent Cutaneous T-cell Non-Hodgkin Lymphoma;Recurrent Grade 1 Follicular Lymphoma;Recurrent Grade 2 Follicular Lymphoma;Recurrent Grade 3 Follicular Lymphoma;Recurrent Mantle Cell Lymphoma;Recurrent Marginal Zone Lymphoma;Recurrent Mycosis Fungoides/Sezary Syndrome;Recurrent Small Lymphocytic Lymphoma;Refractory Chronic Lymphocytic Leukemia;Refractory Hairy Cell Leukemia;Refractory Multiple Myeloma;Relapsing Chronic Myelogenous Leukemia;Secondary Acute Myeloid Leukemia;Secondary Myelodysplastic Syndromes;Small Intestine Lymphoma;Splenic Marginal Zone Lymphoma;Stage IV Adult Burkitt Lymphoma;Stage IV Adult Diffuse Large Cell Lymphoma;Stage IV Adult Diffuse Mixed Cell Lymphoma;Stage IV Adult Diffuse Small Cleaved Cell Lymphoma;Stage IV Adult Hodgkin Lymphoma;Stage IV Adult Immunoblastic Large Cell Lymphoma;Stage IV Adult Lymphoblastic Lymphoma;Stage IV Adult T-cell Leukemia/Lymphoma;Stage IV Chronic Lymphocytic Leukemia;Stage IV Cutaneous T-cell Non-Hodgkin Lymphoma;Stage IV Grade 1 Follicular Lymphoma;Stage IV Grade 2 Follicular Lymphoma;Stage IV Grade 3 Follicular Lymphoma;Stage IV Mantle Cell Lymphoma;Stage IV Marginal Zone Lymphoma;Stage IV Mycosis Fungoides/Sezary Syndrome;Stage IV Small Lymphocytic Lymphoma;T-cell Large Granular Lymphocyte Leukemia;Unspecified Adult Solid Tumor, Protocol Specific;Untreated Adult Acute Lymphoblastic Leukemia;Untreated Adult Acute Myeloid Leukemia;Untreated Hairy Cell Leukemia;Waldenström Macroglobulinemia
+NCT02292173	NCT02292173:Phase 1:Hepatocellular Cancer;Liver Cancer
+NCT02070549	NCT02070549:Phase 1:Advanced Malignant Solid Neoplasm;Hepatic Complication;Metastatic Malignant Neoplasm in the Liver;Metastatic Malignant Solid Neoplasm;Unresectable Solid Neoplasm
+NCT00508001	NCT00508001:Phase 2:Carcinoma, Hepatocellular
+NCT03319459	NCT03319459:Phase 1:HER2 Positive Gastric Cancer;Colorectal Cancer;Head and Neck Squamous Cell Carcinoma;EGFR Positive Solid Tumor;Advanced Solid Tumors;HER2-positive Breast Cancer;Hepatocellular Carcinoma;Small Cell Lung Cancer;Renal Cell Carcinoma;Pancreas Cancer
+NCT01953926	NCT01953926:Phase 2:Malignant Solid Tumor;Fibrolamellar Carcinoma
+NCT02270034	NCT02270034:Phase 1:Glioblastoma Multiforme (Grade IV) of Cerebellum
+NCT02186821	NCT02186821:Phase 2:Tumors With Aberrations in ALK or ROS1
+NCT00110019	NCT00110019:Phase 3:Mucosal Melanoma;Recurrent Melanoma;Stage IIIA Skin Melanoma;Stage IIIB Skin Melanoma;Stage IIIC Skin Melanoma;Stage IV Skin Melanoma
+NCT00300885	NCT00300885:Phase 3:Carcinoma, Non-Small Cell Lung
+NCT00449033	NCT00449033:Phase 3:Carcinoma, Non-Small-Cell Lung
+NCT00541021	NCT00541021:Phase 3:Pancreatic Cancer
+NCT00558636	NCT00558636:Phase 3:Carcinoma, Non-Small-Cell Lung
+NCT00287976	NCT00287976:Phase 2:Liver Cancer
+NCT00861783	NCT00861783:Phase 1:Hepatoma;Advanced Solid Tumor
+NCT00980239	NCT00980239:Phase 1:Liver Cancer;Advanced Cancer
+NCT03533582	NCT03533582:Phase 2|Phase 3:Childhood Hepatocellular Carcinoma;Childhood Malignant Liver Neoplasm;Elevated Alpha-Fetoprotein;Hepatoblastoma;SMARCB1 Gene Mutation
+NCT00143403	NCT00143403:Phase 3:Colorectal Neoplasms;Liver Neoplasms
+NCT00537121	NCT00537121:Phase 1:Esophageal Cancer;Gastric Cancer;Liver Cancer
+NCT00980460	NCT00980460:Phase 3:PRETEXT Stage 1 Hepatoblastoma;PRETEXT Stage 2 Hepatoblastoma;PRETEXT Stage 3 Hepatoblastoma;PRETEXT Stage 4 Hepatoblastoma
+NCT00020501	NCT00020501:Phase 3:Colorectal Cancer;Metastatic Cancer
+NCT00654160	NCT00654160:Phase 1:Anal Cancer;Carcinoma of the Appendix;Colorectal Cancer;Esophageal Cancer;Extrahepatic Bile Duct Cancer;Gallbladder Cancer;Gastric Cancer;Gastrointestinal Carcinoid Tumor;Gastrointestinal Stromal Tumor;Liver Cancer;Pancreatic Cancer;Small Intestine Cancer
+NCT00003427	NCT00003427:Phase 1:Anal Cancer;Colorectal Cancer;Esophageal Cancer;Extrahepatic Bile Duct Cancer;Gallbladder Cancer;Gastric Cancer;Gastrointestinal Carcinoid Tumor;Liver Cancer;Pancreatic Cancer;Small Intestine Cancer
+NCT00031681	NCT00031681:Phase 1:Advanced Adult Primary Liver Cancer;Carcinoma of the Appendix;Estrogen Receptor-negative Breast Cancer;Extensive Stage Small Cell Lung Cancer;Gastrointestinal Stromal Tumor;HER2-negative Breast Cancer;Metastatic Gastrointestinal Carcinoid Tumor;Ovarian Sarcoma;Ovarian Stromal Cancer;Progesterone Receptor-negative Breast Cancer;Recurrent Adenoid Cystic Carcinoma of the Oral Cavity;Recurrent Adult Primary Liver Cancer;Recurrent Anal Cancer;Recurrent Basal Cell Carcinoma of the Lip;Recurrent Borderline Ovarian Surface Epithelial-stromal Tumor;Recurrent Breast Cancer;Recurrent Cervical Cancer;Recurrent Colon Cancer;Recurrent Endometrial Carcinoma;Recurrent Esophageal Cancer;Recurrent Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity;Recurrent Extrahepatic Bile Duct Cancer;Recurrent Gallbladder Cancer;Recurrent Gastric Cancer;Recurrent Gastrointestinal Carcinoid Tumor;Recurrent Inverted Papilloma of the Paranasal Sinus and Nasal Cavity;Recurrent Lymphoepithelioma of the Nasopharynx;Recurrent Lymphoepithelioma of the Oropharynx;Recurrent Metastatic Squamous Neck Cancer With Occult Primary;Recurrent Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity;Recurrent Mucoepidermoid Carcinoma of the Oral Cavity;Recurrent Non-small Cell Lung Cancer;Recurrent Ovarian Epithelial Cancer;Recurrent Ovarian Germ Cell Tumor;Recurrent Pancreatic Cancer;Recurrent Prostate Cancer;Recurrent Rectal Cancer;Recurrent Salivary Gland Cancer;Recurrent Small Cell Lung Cancer;Recurrent Small Intestine Cancer;Recurrent Squamous Cell Carcinoma of the Hypopharynx;Recurrent Squamous Cell Carcinoma of the Larynx;Recurrent Squamous Cell Carcinoma of the Lip and Oral Cavity;Recurrent Squamous Cell Carcinoma of the Nasopharynx;Recurrent Squamous Cell Carcinoma of the Oropharynx;Recurrent Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity;Recurrent Verrucous Carcinoma of the Larynx;Recurrent Verrucous Carcinoma of the Oral Cavity;Small Intestine Adenocarcinoma;Small Intestine Leiomyosarcoma;Small Intestine Lymphoma;Stage IV Adenoid Cystic Carcinoma of the Oral Cavity;Stage IV Anal Cancer;Stage IV Basal Cell Carcinoma of the Lip;Stage IV Borderline Ovarian Surface Epithelial-stromal Tumor;Stage IV Breast Cancer;Stage IV Colon Cancer;Stage IV Endometrial Carcinoma;Stage IV Esophageal Cancer;Stage IV Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity;Stage IV Gastric Cancer;Stage IV Inverted Papilloma of the Paranasal Sinus and Nasal Cavity;Stage IV Lymphoepithelioma of the Nasopharynx;Stage IV Lymphoepithelioma of the Oropharynx;Stage IV Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity;Stage IV Mucoepidermoid Carcinoma of the Oral Cavity;Stage IV Non-small Cell Lung Cancer;Stage IV Ovarian Epithelial Cancer;Stage IV Ovarian Germ Cell Tumor;Stage IV Pancreatic Cancer;Stage IV Prostate Cancer;Stage IV Rectal Cancer;Stage IV Salivary Gland Cancer;Stage IV Squamous Cell Carcinoma of the Hypopharynx;Stage IV Squamous Cell Carcinoma of the Larynx;Stage IV Squamous Cell Carcinoma of the Lip and Oral Cavity;Stage IV Squamous Cell Carcinoma of the Nasopharynx;Stage IV Squamous Cell Carcinoma of the Oropharynx;Stage IV Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity;Stage IV Verrucous Carcinoma of the Larynx;Stage IV Verrucous Carcinoma of the Oral Cavity;Stage IVA Cervical Cancer;Stage IVB Cervical Cancer;Triple-negative Breast Cancer;Unresectable Extrahepatic Bile Duct Cancer;Unresectable Gallbladder Cancer;Unspecified Adult Solid Tumor, Protocol Specific;Untreated Metastatic Squamous Neck Cancer With Occult Primary
+NCT01643499	NCT01643499:Phase 1:Acinar Cell Adenocarcinoma of the Pancreas;Adenocarcinoma of the Gallbladder;Adenocarcinoma of Unknown Primary;Adult Primary Cholangiocellular Carcinoma;Advanced Adult Primary Liver Cancer;Cholangiocarcinoma of the Extrahepatic Bile Duct;Cholangiocarcinoma of the Gallbladder;Diffuse Adenocarcinoma of the Stomach;Duct Cell Adenocarcinoma of the Pancreas;Intestinal Adenocarcinoma of the Stomach;Localized Unresectable Adult Primary Liver Cancer;Metastatic Carcinoma of Unknown Primary;Metastatic Extrahepatic Bile Duct Cancer;Mixed Adenocarcinoma of the Stomach;Mucinous Adenocarcinoma of the Colon;Mucinous Adenocarcinoma of the Rectum;Newly Diagnosed Carcinoma of Unknown Primary;Signet Ring Adenocarcinoma of the Colon;Signet Ring Adenocarcinoma of the Rectum;Stage III Pancreatic Cancer;Stage IIIA Colon Cancer;Stage IIIA Gallbladder Cancer;Stage IIIA Gastric Cancer;Stage IIIA Rectal Cancer;Stage IIIB Colon Cancer;Stage IIIB Gallbladder Cancer;Stage IIIB Gastric Cancer;Stage IIIB Rectal Cancer;Stage IIIC Colon Cancer;Stage IIIC Gastric Cancer;Stage IIIC Rectal Cancer;Stage IV Gastric Cancer;Stage IV Pancreatic Cancer;Stage IVA Colon Cancer;Stage IVA Gallbladder Cancer;Stage IVA Rectal Cancer;Stage IVB Colon Cancer;Stage IVB Gallbladder Cancer;Stage IVB Rectal Cancer;Unresectable Extrahepatic Bile Duct Cancer
+NCT03493048	NCT03493048:Phase 2:Colo-rectal Cancer;Liver Metastases
+NCT03493061	NCT03493061:Phase 2:Colo-rectal Cancer;Liver Metastases
+NCT00101270	NCT00101270:Phase 1:Childhood Burkitt Lymphoma;Childhood Central Nervous System Germ Cell Tumor;Childhood Diffuse Large Cell Lymphoma;Childhood Grade III Lymphomatoid Granulomatosis;Childhood Immunoblastic Large Cell Lymphoma;Recurrent Childhood Brain Stem Glioma;Recurrent Childhood Cerebellar Astrocytoma;Recurrent Childhood Cerebral Astrocytoma;Recurrent Childhood Ependymoma;Recurrent Childhood Grade III Lymphomatoid Granulomatosis;Recurrent Childhood Large Cell Lymphoma;Recurrent Childhood Liver Cancer;Recurrent Childhood Lymphoblastic Lymphoma;Recurrent Childhood Malignant Germ Cell Tumor;Recurrent Childhood Medulloblastoma;Recurrent Childhood Rhabdomyosarcoma;Recurrent Childhood Small Noncleaved Cell Lymphoma;Recurrent Childhood Soft Tissue Sarcoma;Recurrent Childhood Supratentorial Primitive Neuroectodermal Tumor;Recurrent Childhood Visual Pathway Glioma;Recurrent Colon Cancer;Recurrent Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor;Recurrent Melanoma;Recurrent Nasopharyngeal Cancer;Recurrent Neuroblastoma;Recurrent Osteosarcoma;Recurrent Wilms Tumor and Other Childhood Kidney Tumors;Recurrent/Refractory Childhood Hodgkin Lymphoma;Unspecified Childhood Solid Tumor, Protocol Specific
+NCT01442935	NCT01442935:Phase 2:Colorectal Cancer
+NCT03366155	NCT03366155:Phase 2:Colorectal Cancer;Liver Metastases;Colorectal Adenocarcinoma;Colorectal Cancer With Hepatic Metastases;Colorectal Carcinoma
+NCT00003867	NCT00003867:Phase 1:Cancer
+NCT03017326	NCT03017326:Phase 3:Hepatoblastoma;Carcinoma, Hepatocellular
+NCT00635323	NCT00635323:Phase 2:Carcinoma, Hepatocellular
+NCT00941655	NCT00941655:Phase 3:Gastric Cancer
+NCT00408551	NCT00408551:Phase 2:Colorectal Cancer;Metastatic Cancer
+NCT01226719	NCT01226719:Phase 2:Colorectal Cancer
+NCT00513266	NCT00513266:Phase 2:Colorectal Cancer;Metastatic Cancer
+NCT00023868	NCT00023868:Phase 3:Colorectal Cancer;Metastatic Cancer
+NCT03069950	NCT03069950:Phase 2:Colorectal Adenocarcinoma Metastatic to the Liver
+NCT01802645	NCT01802645:Phase 2:Colorectal Cancer
+NCT00063960	NCT00063960:Phase 2:Colorectal Cancer;Metastatic Cancer
+NCT00557102	NCT00557102:Phase 2:Colorectal Cancer;Metastatic Cancer
+NCT00003368	NCT00003368:Phase 1:Lymphoma;Small Intestine Cancer;Unspecified Adult Solid Tumor, Protocol Specific
+NCT00003753	NCT00003753:Phase 2:Colorectal Cancer;Metastatic Cancer
+NCT00492999	NCT00492999:Phase 2:Colorectal Cancer;Metastatic Cancer
+NCT00037804	NCT00037804:Phase 1:Unspecified Adult Solid Tumor;Chemotherapy;Liver Dysfunction;Neoplasms, Solid Tumor
+NCT00030563	NCT00030563:Phase 2:Colorectal Cancer;Metastatic Cancer
+NCT01564810	NCT01564810:Phase 4:Colorectal Neoplasms;Neoplasm Metastasis;Liver Neoplasms
+NCT00397384	NCT00397384:Phase 1:Adenocarcinoma of the Colon;Adenocarcinoma of the Rectum;Advanced Adult Primary Liver Cancer;Carcinoma of the Appendix;Gastrointestinal Stromal Tumor;Metastatic Gastrointestinal Carcinoid Tumor;Metastatic Squamous Neck Cancer With Occult Primary;Recurrent Adenoid Cystic Carcinoma of the Oral Cavity;Recurrent Adult Primary Liver Cancer;Recurrent Anal Cancer;Recurrent Basal Cell Carcinoma of the Lip;Recurrent Colon Cancer;Recurrent Esophageal Cancer;Recurrent Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity;Recurrent Extrahepatic Bile Duct Cancer;Recurrent Gallbladder Cancer;Recurrent Gastric Cancer;Recurrent Gastrointestinal Carcinoid Tumor;Recurrent Inverted Papilloma of the Paranasal Sinus and Nasal Cavity;Recurrent Lymphoepithelioma of the Nasopharynx;Recurrent Lymphoepithelioma of the Oropharynx;Recurrent Metastatic Squamous Neck Cancer With Occult Primary;Recurrent Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity;Recurrent Mucoepidermoid Carcinoma of the Oral Cavity;Recurrent Non-small Cell Lung Cancer;Recurrent Pancreatic Cancer;Recurrent Rectal Cancer;Recurrent Salivary Gland Cancer;Recurrent Small Intestine Cancer;Recurrent Squamous Cell Carcinoma of the Hypopharynx;Recurrent Squamous Cell Carcinoma of the Larynx;Recurrent Squamous Cell Carcinoma of the Lip and Oral Cavity;Recurrent Squamous Cell Carcinoma of the Nasopharynx;Recurrent Squamous Cell Carcinoma of the Oropharynx;Recurrent Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity;Recurrent Verrucous Carcinoma of the Larynx;Recurrent Verrucous Carcinoma of the Oral Cavity;Small Intestine Adenocarcinoma;Small Intestine Leiomyosarcoma;Small Intestine Lymphoma;Stage IV Adenoid Cystic Carcinoma of the Oral Cavity;Stage IV Anal Cancer;Stage IV Basal Cell Carcinoma of the Lip;Stage IV Colon Cancer;Stage IV Esophageal Cancer;Stage IV Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity;Stage IV Gastric Cancer;Stage IV Inverted Papilloma of the Paranasal Sinus and Nasal Cavity;Stage IV Lymphoepithelioma of the Nasopharynx;Stage IV Lymphoepithelioma of the Oropharynx;Stage IV Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity;Stage IV Mucoepidermoid Carcinoma of the Oral Cavity;Stage IV Non-small Cell Lung Cancer;Stage IV Pancreatic Cancer;Stage IV Rectal Cancer;Stage IV Salivary Gland Cancer;Stage IV Squamous Cell Carcinoma of the Hypopharynx;Stage IV Squamous Cell Carcinoma of the Larynx;Stage IV Squamous Cell Carcinoma of the Lip and Oral Cavity;Stage IV Squamous Cell Carcinoma of the Nasopharynx;Stage IV Squamous Cell Carcinoma of the Oropharynx;Stage IV Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity;Stage IV Verrucous Carcinoma of the Larynx;Stage IV Verrucous Carcinoma of the Oral Cavity;Tongue Cancer;Unresectable Extrahepatic Bile Duct Cancer;Unresectable Gallbladder Cancer
+NCT00153998	NCT00153998:Phase 2:Colorectal Cancer;Liver Metastases
+NCT03563170	NCT03563170:Phase 1|Phase 2:Hepatocellular Carcinoma Non-resectable;Hepatocellular Carcinoma Recurrent
+NCT00142428	NCT00142428:Phase 2:Hepatocellular Carcinoma
+NCT01836653	NCT01836653:Phase 2:Liver Only Metastasis From KRAS Exon 2 Wild Type (Under Protocol 1.0-1.2 Edition) and RAS Wild Type (Under Protocol 2.0 Edition) Colorectal Cancer
+NCT03031444	NCT03031444:Phase 2|Phase 3:Colorectal Cancer Stage IV;Metastasis
+NCT00075686	NCT00075686:Phase 3:Pancreatic Cancer
+NCT00095199	NCT00095199:Phase 3:Non Small Cell Lung Cancer
+NCT00112294	NCT00112294:Phase 3:Non-Small-Cell Lung Carcinoma
+NCT00509561	NCT00509561:Phase 2|Phase 3:Esophageal Cancer
+NCT02438722	NCT02438722:Phase 2|Phase 3:Recurrent Non-Small Cell Lung Carcinoma;Stage IV Non-Small Cell Lung Cancer
+NCT03340558	NCT03340558:Phase 2:Metastatic Colorectal Cancer
+NCT01658878	NCT01658878:Phase 1|Phase 2:Hepatocellular Carcinoma
+NCT03203304	NCT03203304:Phase 1:Hepatocellular Carcinoma
+NCT03222076	NCT03222076:Phase 2:Malignant Neoplasms of Digestive Organs;Hepatocellular Carcinoma
+NCT01384994	NCT01384994:Phase 2:Colorectal Cancer;KRAS Wildtype;After Resection of Liver Metastases
+NCT02885753	NCT02885753:Phase 3:Colorectal Neoplasms
+NCT00553332	NCT00553332:Phase 2:Liver and Intrahepatic Biliary Tract Cancer;Recurrent Extrahepatic Bile Duct Cancer;Unresectable Extrahepatic Bile Duct Cancer
+NCT01164202	NCT01164202:Phase 2|Phase 3:Liver Cancer
+NCT00514228	NCT00514228:Phase 2:Liver Cancer
+NCT00247676	NCT00247676:Phase 2:Liver Neoplasms;Unresectable Hepatocellular Carcinoma
+NCT00806663	NCT00806663:Phase 2:Metastatic Colorectal Cancer;Liver Metastases
+NCT02154490	NCT02154490:Phase 2|Phase 3:Recurrent Squamous Cell Lung Carcinoma;Stage IV Squamous Cell Lung Carcinoma AJCC v7
+NCT03434379	NCT03434379:Phase 3:Carcinoma, Hepatocellular
+NCT03289533	NCT03289533:Phase 1:Carcinoma, Hepatocellular
+NCT03389126	NCT03389126:Phase 2:Carcinoma, Hepatocellular
+NCT03383458	NCT03383458:Phase 3:Hepatocellular Carcinoma;Liver Cancer
+NCT03143270	NCT03143270:Early Phase 1:Liver Cancer
+NCT03572582	NCT03572582:Phase 2:Carcinoma, Hepatocellular;Hepatic Carcinoma;Hepatocellular Cancer
+NCT03299946	NCT03299946:Phase 1:Locally Advanced Hepatocellular Carcinoma
+NCT02423343	NCT02423343:Phase 1|Phase 2:Solid Tumor;Non-Small Cell Lung Cancer Recurrent;Hepatocellular Carcinoma Recurrent
+NCT03071094	NCT03071094:Phase 1|Phase 2:Hepatocellular Carcinoma (HCC)
+NCT02859324	NCT02859324:Phase 1|Phase 2:Carcinoma, Hepatocellular
+NCT02042443	NCT02042443:Phase 2:Adult Cholangiocarcinoma;Advanced Adult Hepatocellular Carcinoma;BCLC Stage C/D Adult Hepatocellular Carcinoma;Hilar Cholangiocarcinoma;Localized Non-Resectable Adult Liver Carcinoma;Recurrent Adult Liver Carcinoma;Stage IVA Gallbladder Cancer
+NCT01425879	NCT01425879:Phase 2:Advanced Adult Hepatocellular Carcinoma;Localized Non-Resectable Adult Liver Carcinoma;Recurrent Adult Liver Carcinoma;Recurrent Gallbladder Carcinoma;Stage IV Distal Bile Duct Cancer;Stage IV Gallbladder Cancer;Unresectable Extrahepatic Bile Duct Carcinoma;Unresectable Gallbladder Carcinoma
+NCT00863746	NCT00863746:Phase 3:Carcinoma;Non-Small-Cell Lung
+NCT01234337	NCT01234337:Phase 3:Breast Cancer
+NCT02474290	NCT02474290:Phase 2|Phase 3:Acute Myeloid Leukemia;Hematopoietic Stem Cell Transplantation
+NCT01955668	NCT01955668:Phase 1:11q-deleted Relapsed/Refractory Chronic Lymphocytic Leukaemia (CLL),;Prolymphocytic Leukaemia (PLL);B Cell Lymphomas
+NCT00148798	NCT00148798:Phase 3:Non Small Cell Lung Cancer (NSCLC)
+NCT00820755	NCT00820755:Phase 3:Non-Small Cell Lung Cancer (NSCLC)
+NCT01089101	NCT01089101:Phase 1|Phase 2:Low Grade Glioma;Neurofibromatosis Type 1;Recurrent Childhood Pilocytic Astrocytoma;Recurrent Childhood Visual Pathway Glioma
+NCT00604721	NCT00604721:Phase 2:Adult Primary Hepatocellular Carcinoma;Advanced Adult Primary Liver Cancer;Localized Unresectable Adult Primary Liver Cancer;Recurrent Adult Primary Liver Cancer
+NCT03511222	NCT03511222:Phase 1:Solid Tumor;Hepatocellular Carcinoma;Gastric Cancer;Gastroesophageal Junction Adenocarcinoma
+NCT03418922	NCT03418922:Phase 1:Carcinoma, Hepatocellular
+NCT03382886	NCT03382886:Phase 1:Hepatocellular Carcinoma
+NCT02576509	NCT02576509:Phase 3:Hepatocellular Carcinoma
+NCT01848834	NCT01848834:Phase 1:Cancer;Solid Tumor
+NCT03397654	NCT03397654:Phase 1|Phase 2:Primary Liver Carcinoma
+NCT02509507	NCT02509507:Phase 1:Hepatocellular Carcinoma;Liver Metastases
+NCT02940496	NCT02940496:Phase 1|Phase 2:Malignant Neoplasms of Digestive Organs;Advanced Liver Cancer
+NCT03347292	NCT03347292:Phase 1:Carcinoma, Hepatocellular
+NCT03337841	NCT03337841:Phase 2:Hepatocellular Carcinoma
+NCT03163992	NCT03163992:Phase 2:Hepatocellular Carcinoma
+NCT03006926	NCT03006926:Phase 1:Hepatocellular Carcinoma
+NCT02658019	NCT02658019:Phase 2:Hepatocellular Carcinoma
+NCT03329950	NCT03329950:Phase 1:Melanoma;Non-small Cell Lung Cancer;Breast Cancer;Gastric Cancer;Renal Cell Carcinoma;Ovarian Cancer;Cholangiocarcinoma;Bladder Urothelial Carcinoma;Pancreatic Adenocarcinoma;Colorectal Cancer;Esophageal Cancer;Hepatic Cancer;Head and Neck Cancer;Primary Peritoneal Cancer;Fallopian Tube Cancer;Solid Tumor
+NCT02187783	NCT02187783:Phase 2:Tumors With CDK4/6 Pathway Activation
+NCT01237236	NCT01237236:Phase 1:Advanced Solid Tumor;Lymphomas
+NCT02478320	NCT02478320:Phase 2:Advanced Cancers
+NCT00475956	NCT00475956:Phase 1:Neoplasms
+NCT00605722	NCT00605722:Phase 2:Liver Cancer
+NCT00881751	NCT00881751:Phase 2:Liver Cancer
+NCT00365391	NCT00365391:Phase 2:Adult Primary Hepatocellular Carcinoma;Advanced Adult Primary Liver Cancer;Localized Unresectable Adult Primary Liver Cancer;Recurrent Adult Primary Liver Cancer
+NCT00242502	NCT00242502:Phase 2:Hepatocellular Carcinoma;Liver Cancer
+NCT01180959	NCT01180959:Phase 2:Liver Cancer
+NCT00047346	NCT00047346:Phase 1:Adult Primary Hepatocellular Carcinoma;Advanced Adult Primary Liver Cancer;Localized Unresectable Adult Primary Liver Cancer;Recurrent Adult Primary Liver Cancer
+NCT00987766	NCT00987766:Phase 1:Extrahepatic Bile Duct Cancer;Gallbladder Cancer;Liver Cancer;Pancreatic Cancer;Periampullary Adenocarcinoma;Small Intestine Cancer
+NCT00030498	NCT00030498:Phase 1:Adult Anaplastic Astrocytoma;Adult Anaplastic Ependymoma;Adult Anaplastic Oligodendroglioma;Adult Brain Stem Glioma;Adult Diffuse Astrocytoma;Adult Ependymoblastoma;Adult Giant Cell Glioblastoma;Adult Glioblastoma;Adult Gliosarcoma;Adult Mixed Glioma;Adult Myxopapillary Ependymoma;Adult Oligodendroglioma;Adult Pilocytic Astrocytoma;Adult Primary Hepatocellular Carcinoma;Adult Subependymoma;Advanced Adult Primary Liver Cancer;Advanced Malignant Mesothelioma;Male Breast Cancer;Recurrent Adenoid Cystic Carcinoma of the Oral Cavity;Recurrent Adult Brain Tumor;Recurrent Adult Primary Liver Cancer;Recurrent Anal Cancer;Recurrent Basal Cell Carcinoma of the Lip;Recurrent Bladder Cancer;Recurrent Breast Cancer;Recurrent Cervical Cancer;Recurrent Colon Cancer;Recurrent Esophageal Cancer;Recurrent Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity;Recurrent Inverted Papilloma of the Paranasal Sinus and Nasal Cavity;Recurrent Lymphoepithelioma of the Nasopharynx;Recurrent Lymphoepithelioma of the Oropharynx;Recurrent Malignant Mesothelioma;Recurrent Metastatic Squamous Neck Cancer With Occult Primary;Recurrent Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity;Recurrent Mucoepidermoid Carcinoma of the Oral Cavity;Recurrent Non-small Cell Lung Cancer;Recurrent Ovarian Epithelial Cancer;Recurrent Pancreatic Cancer;Recurrent Prostate Cancer;Recurrent Rectal Cancer;Recurrent Salivary Gland Cancer;Recurrent Squamous Cell Carcinoma of the Hypopharynx;Recurrent Squamous Cell Carcinoma of the Larynx;Recurrent Squamous Cell Carcinoma of the Lip and Oral Cavity;Recurrent Squamous Cell Carcinoma of the Nasopharynx;Recurrent Squamous Cell Carcinoma of the Oropharynx;Recurrent Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity;Recurrent Verrucous Carcinoma of the Larynx;Recurrent Verrucous Carcinoma of the Oral Cavity;Stage II Esophageal Cancer;Stage II Pancreatic Cancer;Stage III Esophageal Cancer;Stage III Pancreatic Cancer;Stage IIIB Non-small Cell Lung Cancer;Stage IV Adenoid Cystic Carcinoma of the Oral Cavity;Stage IV Anal Cancer;Stage IV Basal Cell Carcinoma of the Lip;Stage IV Bladder Cancer;Stage IV Breast Cancer;Stage IV Colon Cancer;Stage IV Esophageal Cancer;Stage IV Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity;Stage IV Inverted Papilloma of the Paranasal Sinus and Nasal Cavity;Stage IV Lymphoepithelioma of the Nasopharynx;Stage IV Lymphoepithelioma of the Oropharynx;Stage IV Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity;Stage IV Mucoepidermoid Carcinoma of the Oral Cavity;Stage IV Non-small Cell Lung Cancer;Stage IV Ovarian Epithelial Cancer;Stage IV Pancreatic Cancer;Stage IV Prostate Cancer;Stage IV Rectal Cancer;Stage IV Salivary Gland Cancer;Stage IV Squamous Cell Carcinoma of the Hypopharynx;Stage IV Squamous Cell Carcinoma of the Larynx;Stage IV Squamous Cell Carcinoma of the Lip and Oral Cavity;Stage IV Squamous Cell Carcinoma of the Nasopharynx;Stage IV Squamous Cell Carcinoma of the Oropharynx;Stage IV Squamous Cell Carcinoma of the Paranasal Sinus and Nasal Cavity;Stage IV Verrucous Carcinoma of the Larynx;Stage IV Verrucous Carcinoma of the Oral Cavity;Stage IVA Cervical Cancer;Stage IVB Cervical Cancer;Unspecified Adult Solid Tumor, Protocol Specific;Untreated Metastatic Squamous Neck Cancer With Occult Primary
+NCT00901901	NCT00901901:Phase 3:Carcinoma, Hepatocellular
+NCT00287222	NCT00287222:Phase 2:Hepatocellular Carcinoma
+NCT00071994	NCT00071994:Phase 2:Adult Primary Hepatocellular Carcinoma;Advanced Adult Primary Liver Cancer;Localized Unresectable Adult Primary Liver Cancer;Recurrent Adult Primary Liver Cancer
+NCT00352079	NCT00352079:Phase 3:Bladder Cancer
+NCT01243398	NCT01243398:Phase 3:Adenocarcinoma of the Gastroesophageal Junction;Esophageal Cancer
+NCT00101036	NCT00101036:Phase 2:Adult Primary Hepatocellular Carcinoma;Advanced Adult Primary Liver Cancer;Localized Unresectable Adult Primary Liver Cancer;Recurrent Adult Primary Liver Cancer;Recurrent Extrahepatic Bile Duct Cancer;Recurrent Gallbladder Cancer;Unresectable Extrahepatic Bile Duct Cancer;Unresectable Gallbladder Cancer
+NCT00107536	NCT00107536:Phase 2:Adult Primary Hepatocellular Carcinoma;Advanced Adult Primary Liver Cancer;Localized Unresectable Adult Primary Liver Cancer;Recurrent Adult Primary Liver Cancer;Recurrent Extrahepatic Bile Duct Cancer;Recurrent Gallbladder Cancer;Unresectable Extrahepatic Bile Duct Cancer;Unresectable Gallbladder Cancer
+NCT02015169	NCT02015169:Phase 2:HER2-positive Gastric Cancer Patients With Liver Metastasis
+NCT02322281	NCT02322281:Phase 3:Non-small Cell Lung Cancer
+NCT01480479	NCT01480479:Phase 3:Glioblastoma;Small Cell Glioblastoma;Giant Cell Glioblastoma;Gliosarcoma;Glioblastoma With Oligodendroglial Component
+NCT00866944	NCT00866944:Phase 2:Liver Metastases;Colorectal Cancer
+NCT01005199	NCT01005199:Phase 2:Liver Cancer
+NCT01642186	NCT01642186:Phase 2:Fibrolamellar Carcinoma;Fibrolamellar Liver Cancer
+NCT02081755	NCT02081755:Phase 4:Carcinoma, Hepatocellular
+NCT01423708	NCT01423708:Phase 2:Liver Failure;Liver Diseases;Liver Cirrhosis;Liver Neoplasms
+NCT01469572	NCT01469572:Phase 1:Neuroendocrine Tumors
+NCT01488487	NCT01488487:Phase 2:Advanced Adult Hepatocellular Carcinoma
+NCT01035229	NCT01035229:Phase 3:Carcinoma
+NCT01104571	NCT01104571:Phase 3:Breast Cancer
+NCT02508467	NCT02508467:Phase 1:Hepatocellular Carcinoma (HCC)
+NCT00517920	NCT00517920:Phase 2:Advanced Hepatocellular Carcinoma
+NCT02428855	NCT02428855:Phase 2:Cholangiocarcinoma
+NCT02073994	NCT02073994:Phase 1:Cholangiocarcinoma;Chondrosarcoma;Glioma;Other Advanced Solid Tumors
+NCT01774344	NCT01774344:Phase 3:Carcinoma, Hepatocellular
+NCT00890825	NCT00890825:Phase 2:Non Small Cell Lung Cancer
+NCT02029157	NCT02029157:Phase 3:Liver Cancer
+NCT02499614	NCT02499614:Phase 2:Carcinoma, Non-Small-Cell Lung
+NCT00999882	NCT00999882:Phase 1:Cancer;Advanced Hepatocellular Carcinoma
+NCT00507585	NCT00507585:Phase 1:Liver Cancer;Advanced Solid Tumors
+NCT00028990	NCT00028990:Phase 3:Breast Cancer
+NCT00088894	NCT00088894:Phase 3:Adenocarcinoma of the Pancreas;Recurrent Pancreatic Cancer;Stage II Pancreatic Cancer;Stage III Pancreatic Cancer;Stage IV Pancreatic Cancer
+NCT00109239	NCT00109239:Phase 3:Breast Cancer
+NCT00110214	NCT00110214:Phase 3:Adenocarcinoma of the Prostate;Hormone-resistant Prostate Cancer;Recurrent Prostate Cancer;Stage IV Prostate Cancer
+NCT00262067	NCT00262067:Phase 3:Metastatic Breast Cancer
+NCT00281697	NCT00281697:Phase 3:Metastatic Breast Cancer
+NCT00324987	NCT00324987:Phase 3:Gastrointestinal Stromal Tumor
+NCT00333775	NCT00333775:Phase 3:Breast Cancer
+NCT00373256	NCT00373256:Phase 3:Breast Neoplasms
+NCT00391092	NCT00391092:Phase 3:Breast Cancer
+NCT00448591	NCT00448591:Phase 3:Breast Cancer
+NCT00450203	NCT00450203:Phase 2|Phase 3:Oesophagogastric Cancer
+NCT00486759	NCT00486759:Phase 3:B-cell Lymphoma
+NCT00520975	NCT00520975:Phase 3:Breast Carcinoma;Recurrent Breast Carcinoma;Stage IV Breast Cancer
+NCT00528567	NCT00528567:Phase 3:Breast Cancer
+NCT00545077	NCT00545077:Phase 3:Breast Cancer
+NCT00548548	NCT00548548:Phase 3:Adenocarcinoma
+NCT00567554	NCT00567554:Phase 3:Breast Cancer
+NCT00600340	NCT00600340:Phase 3:Metastatic Breast Cancer
+NCT00625898	NCT00625898:Phase 3:Breast Cancer
+NCT00868634	NCT00868634:Phase 3:Metastatic Breast Cancer
+NCT00887822	NCT00887822:Phase 3:Gastric Cancer
+NCT00929240	NCT00929240:Phase 3:Breast Cancer
+NCT01093235	NCT01093235:Phase 3:Breast Cancer;Cardiac Toxicity;Perioperative/Postoperative Complications
+NCT01200212	NCT01200212:Phase 3:Breast Cancer
+NCT01214720	NCT01214720:Phase 3:Pancreatic Cancer
+NCT01236560	NCT01236560:Phase 2|Phase 3:Brain Stem Glioma;Cerebral Astrocytoma;Childhood Cerebellar Anaplastic Astrocytoma;Childhood Cerebral Anaplastic Astrocytoma;Childhood Spinal Cord Neoplasm;Untreated Childhood Brain Stem Glioma;Untreated Childhood Cerebral Astrocytoma
+NCT01250379	NCT01250379:Phase 3:Breast Cancer
+NCT01303679	NCT01303679:Phase 3:First Line Metastatic Breast Cancer
+NCT00238394	NCT00238394:Phase 2:Adult Primary Hepatocellular Carcinoma;Advanced Adult Primary Liver Cancer;Localized Unresectable Adult Primary Liver Cancer
+NCT01365468	NCT01365468:Phase 2:Plexiform Neurofibroma Associated With Neurofibromatosis Type 1
+NCT00370513	NCT00370513:Phase 1:Carcinoma, Hepatocellular
+NCT00674024	NCT00674024:Phase 1:Neoplasms;Lymphoma
+NCT00973739	NCT00973739:Phase 2:Neurofibromatosis 2;Vestibular Schwannoma
+NCT01546519	NCT01546519:Phase 1:Cancer
+NCT01004003	NCT01004003:Phase 2:Carcinoma, Hepatocellular
+NCT00987935	NCT00987935:Phase 2:Carcinoma, Hepatocellular
+NCT03433703	NCT03433703:Phase 2:Carcinoma, Hepatocellular
+NCT02953743	NCT02953743:Phase 1:Unresectable Hepatocellular Carcinoma (HCC)
+NCT01761266	NCT01761266:Phase 3:Hepatocellular Carcinoma (HCC)
+NCT03195699	NCT03195699:Phase 1:Breast Cancer;Head and Neck Squamous Cell Carcinoma;Non Small Cell Lung Cancer;Hepatocellular Cancer;Colorectal Cancer;Gastric Adenocarcinoma;Melanoma;Advanced Cancer
+NCT00049400	NCT00049400:Phase 1:Lymphoma;Small Intestine Cancer;Unspecified Adult Solid Tumor, Protocol Specific
+NCT00825955	NCT00825955:Phase 3:Liver Cancer
+NCT00437424	NCT00437424:Phase 1:Carcinoma, Hepatocellular
+NCT01540461	NCT01540461:Phase 1:Hepatocellular Carcinoma
+NCT00355238	NCT00355238:Phase 2:Hepatocellular Carcinoma (HCC)
+NCT03516071	NCT03516071:Phase 2:Hepatocellular Carcinoma (HCC)
+NCT00908752	NCT00908752:Phase 3:Hepatocellular Carcinoma
+NCT00858871	NCT00858871:Phase 3:Hepato Cellular Carcinoma (HCC)
+NCT01174121	NCT01174121:Phase 2:Metastatic Colorectal Cancer;Metastatic Gastric Cancer;Metastatic Pancreatic Cancer;Metastatic Hepatocellular Carcinoma;Progressive Glioblastoma;Metastatic Ovarian Cancer;Metastatic Breast Cancer
+NCT03419481	NCT03419481:Phase 2:HCC
+NCT02273362	NCT02273362:Phase 1|Phase 2:Cirrhosis;Fibrosis;Hepatocellular Carcinoma;Phosphorylated Epidermal Growth Factor Receptor
+NCT00033462	NCT00033462:Phase 2:Adult Primary Cholangiocellular Carcinoma;Adult Primary Hepatocellular Carcinoma;Advanced Adult Primary Liver Cancer;Cholangiocarcinoma of the Gallbladder;Localized Unresectable Adult Primary Liver Cancer;Recurrent Adult Primary Liver Cancer;Recurrent Extrahepatic Bile Duct Cancer;Recurrent Gallbladder Cancer;Unresectable Extrahepatic Bile Duct Cancer;Unresectable Gallbladder Cancer
+NCT00471328	NCT00471328:Phase 3:Gastrointestinal Stromal Tumors
+NCT00751036	NCT00751036:Phase 3:Gastrointestinal Stromal Tumors
+NCT00785785	NCT00785785:Phase 3:Gastrointestinal Stromal Tumor (GIST)
+NCT01289028	NCT01289028:Phase 3:Gastrointestinal Stromal Tumors
+NCT01761747	NCT01761747:Phase 2|Phase 3:Non-Small Cell Lung Cancer, Head and Neck Cancer
+NCT02184195	NCT02184195:Phase 3:Germline BRCA1/2 Mutations and;Metastatic Adenocarcinoma of the Pancreas
+NCT02987543	NCT02987543:Phase 3:Metastatic Castration-resistant Prostate Cancer
+NCT01684878	NCT01684878:Phase 3:Ovarian Cancer
+NCT02581462	NCT02581462:Phase 2|Phase 3:Stomach Cancer;Gastroesophageal Junction Cancer
+NCT00744497	NCT00744497:Phase 3:Prostatic Neoplasms
+NCT00154375	NCT00154375:Phase 3:Glioblastoma Multiforme;Astrocytoma
+NCT00427583	NCT00427583:Phase 2|Phase 3:Malignant Peripheral Nerve Sheath Tumors
