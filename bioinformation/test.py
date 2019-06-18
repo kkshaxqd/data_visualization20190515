@@ -29,4 +29,15 @@ def test4():
     if "Benign" in str2:
         print("ok2")
 
-test4()
+#test4()
+
+def test5():
+    from scipy.stats.stats import pearsonr
+    import warnings
+    warnings.filterwarnings('error')
+    try:
+        pearsonr([1, 1, 1], [1, 2, 3])
+    except:
+        pass
+
+test5()

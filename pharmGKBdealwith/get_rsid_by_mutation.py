@@ -3,7 +3,8 @@
 import os,re,sys
 from pyquery import PyQuery as pq
 filein = 'E:\\haxqd\\201810\\vatition_name.txt'
-
+fileinnew = "E:\\haxqd\\201810\\variant_name_new.txt"
+fileoutnew = "E:\\haxqd\\201810\\variant_name_new_add_rsinfo.txt"
 fileout = 'E:\\haxqd\\201810\\vatition_name_add_rsinfo.txt'
 
 #https://www.ncbi.nlm.nih.gov/guide/howto/view-all-snps/
@@ -121,7 +122,6 @@ def get_num_for_cyc(filein):
         num = len(lines)
         lineinfo = lines
         return num,lineinfo
-
 def main(line):
     line = line.strip('\n')
     linelist = line.split('\t')
@@ -157,8 +157,6 @@ def main(line):
                 outs = variant + "\t" + rsid + "\n"
                 wg.write(str(outs))
         print(variant, rsid)
-
-
 def write_rs_to_file(line):
     line = line.strip('\n')
     linelist = line.split('\t')
@@ -194,17 +192,69 @@ def write_rs_to_file(line):
         with open(fileout, 'a', encoding='utf-8')as ww:
             ww.write(str(outlang))
 
+def get_num_for_cyc1(fileinnew):
+    with open(fileinnew, 'r', encoding='utf-8')as f:
+        lines = f.readlines()
+        # 创建临时文件
+        if os.path.exists('rsid_by_variant_temp_file.txt'):
+            pass
+        else:
+            with open('rsid_by_variant_temp_file.txt', 'w', encoding='utf-8')as gg:
+                outss = "variant" + "\t" + "rsid" + "\n"
+                gg.write(str(outss))
+
+        hang = lines[0].strip('\n')
+        outlang = hang + "\t" + r"突变位点rs号" + "\n"
+        with open(fileoutnew, 'w', encoding='utf-8')as ww:
+            ww.write(str(outlang))
+        num = len(lines)
+        lineinfo = lines
+        return num,lineinfo
+def main1(line):
+    line = line.strip('\n')
+    linelist = line.split('\t')
+    if "p." in linelist[2]:
+        linelist[2] = re.sub(r'p.','',linelist[2])
+        variant = linelist[1] + " " + linelist[2]
+        rsid = getrsid(variant)
+        if rsid == "none":
+            try:
+                rsid = getrs_by_variant(variant)
+            except:
+                rsid = "."
+            with open('rsid_by_variant_temp_file.txt', 'a', encoding='utf-8') as wg:
+                outs = variant + "\t" + rsid + "\n"
+                wg.write(str(outs))
+        print(variant, rsid)
+def write_rs_to_file1(line):
+    line = line.strip('\n')
+    linelist = line.split('\t')
+    if "p." not in linelist[2]:
+        rsid = "."
+        outlang = line + "\t" + rsid + "\n"
+        with open(fileoutnew, 'a', encoding='utf-8')as ww:
+            ww.write(str(outlang))
+    elif "p." in linelist[2]:
+        linelist[2] = re.sub(r'p.', '', linelist[2])
+        variant = linelist[1] + " " + linelist[2]
+        rsid = getrsid(variant)
+        if rsid == "none":
+            rsid = "."
+        outlang = line + "\t" + rsid + "\n"
+        with open(fileoutnew, 'a', encoding='utf-8')as ww:
+            ww.write(str(outlang))
+
 from multiprocessing import Pool
 
 if __name__ == "__main__":
-    num,lineinfo = get_num_for_cyc(filein)
+    num,lineinfo = get_num_for_cyc1(fileinnew)
     pool = Pool()
-    pool.map(main, (lineinfo[i] for i in range(1,num)))
+    pool.map(main1, (lineinfo[i] for i in range(1,num)))
     pool.close()
     pool.join()
 
     for i in range(1,num):
-        write_rs_to_file(lineinfo[i])
+        write_rs_to_file1(lineinfo[i])
     #getrs_by_variant('ABL1 T315I')
     #getrs_by_variant('ABL1 p.D400Y')
     #getrs_by_variant('ABL1 p.F317C')
